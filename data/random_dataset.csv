@@ -1,0 +1,1001 @@
+id,nickname,creature,city,favorite_food,mood,lucky_color,lucky_number,sleep_hours,coffees_today,wifi_speed_mbps,vibe_score_0_100,can_juggle,pet_rocks_owned,last_seen_epoch,secret_superpower,latitude,longitude
+1,Fluffy Keyboard,Space Goat,Tokyo,chocolate samosa,nostalgic,invisible,6253,13.3,8,7.16,37,barely,24,1731504648,never loses socks,-26.8798,-150.9
+2,Sleepy Cactus,Haunted Toaster,Kalyan,wasabi jalebi,hangry,maroon,-894,9.6,16,50.34,94,yes,16,1639284168,perfect parallel parking,-44.1216,-9.4462
+3,Sparkly Pigeon,Philosopher Crab,Lima,cold biryani,hangry,invisible,2266,3.6,5,32.97,22,yes,23,1471614318,instant nap,-63.901,-125.4767
+4,Mysterious Keyboard,Lazy Octopus,Atlantis,spicy oat milk,existential,ultraviolet,-390,3.6,2,3.05,21,yes,11,1660770572,wins at rock-paper-scissors,44.9294,-17.7408
+5,Sparkly Cactus,Haunted Toaster,Kalyan,wasabi jalebi,confused,mauve,9317,12.5,4,4.78,65,barely,36,1688471981,smells rain early,-33.0917,20.1697
+6,Mysterious Walrus,Quantum Pigeon,Narnia,lemon noodles,nostalgic,neon orange,6329,7.3,5,47.93,21,yes,9,1755585533,always finds charger,-59.2566,-29.414
+7,Grumpy Cactus,Jazz Moth,Atlantis,lemon noodles,confused,mauve,9162,7.6,16,14.49,23,barely,20,1558917761,instant nap,26.1089,-172.0706
+8,Sleepy Satellite,Lazy Octopus,Tokyo,pickled mango,zen,neon orange,3110,4.3,16,11.67,41,no,41,1532881978,instant nap,24.5497,-34.6858
+9,Wobbly Satellite,Lazy Octopus,Reykjavik,burnt toast,nostalgic,ultraviolet,7855,4.3,11,74.68,59,no,24,1631747030,instant nap,65.442,-45.7326
+10,Spicy Sandwich,Space Goat,Kalyan,cold biryani,zen,burnt sienna,3032,14.0,8,49.72,48,no,20,1402483595,never loses socks,-88.4869,64.9709
+11,Crunchy Pigeon,Philosopher Crab,Mumbai,wasabi jalebi,nostalgic,ultraviolet,7906,6.0,2,13.24,12,yes,5,1439545807,smells rain early,50.3723,95.3995
+12,Sparkly Teapot,Turbo Snail,Lagos,wasabi jalebi,zen,mauve,5296,0.1,2,13.73,0,no,11,1630201736,perfect parallel parking,-49.9866,79.8466
+13,Rusty Meteor,Philosopher Crab,Pune,blue cheese chai,hangry,burnt sienna,2218,4.4,15,62.3,55,yes,9,1748948973,smells rain early,-37.8379,124.7376
+14,Rusty Meteor,Space Goat,Lima,pickled mango,confused,lime,4009,10.1,15,15.32,53,yes,1,1643218555,instant nap,16.7429,-37.1257
+15,Mysterious Pigeon,Sad Dragon,Thane,burnt toast,confused,lime,7513,3.1,16,21.44,72,no,17,1565261178,perfect parallel parking,48.052,54.192
+16,Wobbly Umbrella,Philosopher Crab,Kalyan,cold biryani,hangry,burnt sienna,6228,2.5,16,62.93,40,barely,16,1530590572,perfect parallel parking,-37.2595,-65.6354
+17,Sleepy Sandwich,Disco Walrus,Lima,lemon noodles,zen,invisible,3265,1.6,0,16.52,57,barely,16,1660363494,never loses socks,-31.76,155.8466
+18,Melodic Teapot,Space Goat,Lagos,chocolate samosa,confused,burnt sienna,9784,7.3,0,8.23,64,no,18,1700031433,never loses socks,-42.896,100.2232
+19,Wobbly Cactus,Jazz Moth,Gotham,burnt toast,existential,teal,2380,12.0,5,142.66,8,barely,0,1638010355,hears colors,-67.9734,-98.2632
+20,Fluffy Meteor,Sad Dragon,Tokyo,pickled mango,chaotic,maroon,8006,5.8,13,48.74,5,yes,17,1532489869,always finds charger,-19.8478,168.4302
+21,Sleepy Sandwich,Quantum Pigeon,Reykjavik,lemon noodles,nostalgic,glitter,2888,2.5,8,19.87,26,yes,24,1476539304,smells rain early,84.9204,135.0824
+22,Crunchy Teapot,Lazy Octopus,Mumbai,pickled mango,confused,neon orange,3221,1.0,0,11.51,53,yes,29,1457028438,perfect parallel parking,7.2697,67.002
+23,Mysterious Satellite,Haunted Toaster,Lagos,spicy oat milk,nostalgic,neon orange,2218,8.3,11,21.37,56,no,10,1654245574,never loses socks,-22.0047,-113.5289
+24,Grumpy Teapot,Sad Dragon,Narnia,chocolate samosa,suspicious,lime,8915,4.4,5,58.67,74,yes,24,1529138764,never loses socks,9.0407,-37.5633
+25,Wobbly Satellite,Quantum Pigeon,Narnia,plain air,existential,maroon,6662,6.8,8,8.3,99,yes,16,1758719068,perfect parallel parking,-33.5808,-134.1548
+26,Wobbly Keyboard,Philosopher Crab,Mars Colony 3,lemon noodles,nostalgic,neon orange,5800,10.9,14,21.56,19,barely,24,1569171482,never loses socks,-56.9882,161.5292
+27,Mysterious Sandwich,Quantum Pigeon,Thane,vada pav ice cream,nostalgic,lime,9360,8.7,7,16.8,72,yes,19,1733190962,never loses socks,22.3215,179.2421
+28,Mysterious Satellite,Disco Walrus,Lagos,pickled mango,smug,ultraviolet,8005,13.2,8,70.38,43,yes,18,1582340385,perfect parallel parking,-46.9903,36.1552
+29,Wobbly Sandwich,Haunted Toaster,Mumbai,chocolate samosa,ecstatic,invisible,9170,13.9,15,28.54,97,barely,29,1769751262,always finds charger,29.5104,-61.6294
+30,Melodic Teapot,Ninja Potato,Lima,lemon noodles,sleepy,lime,6162,10.5,17,18.73,59,yes,38,1430798808,smells rain early,45.353,75.1452
+31,Sparkly Teapot,Lazy Octopus,Narnia,plain air,confused,maroon,2395,0.4,17,105.53,3,barely,28,1533613210,wins at rock-paper-scissors,-66.3722,-96.1353
+32,Grumpy Walrus,Quantum Pigeon,Atlantis,burnt toast,zen,maroon,6906,9.8,2,6.02,48,barely,28,1592820359,wins at rock-paper-scissors,46.2953,-177.0463
+33,Sleepy Meteor,Cosmic Llama,Thane,burnt toast,nostalgic,beige,5515,8.6,4,11.05,3,yes,21,1412634171,hears colors,-66.6642,-72.3386
+34,Spicy Satellite,Sneaky Cloud,Reykjavik,burnt toast,sleepy,maroon,7807,6.5,3,50.8,81,yes,0,1554940846,always finds charger,-41.6031,87.2258
+35,Sleepy Sandwich,Turbo Snail,Lagos,plain air,hangry,burnt sienna,6610,6.3,1,4.84,56,yes,38,1454756834,perfect parallel parking,-14.9211,176.5791
+36,Rusty Teapot,Sad Dragon,Pune,vada pav ice cream,sleepy,invisible,135,12.7,11,19.3,92,yes,20,1745772576,talks to pigeons,-44.7057,-114.8521
+37,Grumpy Umbrella,Cosmic Llama,Reykjavik,lemon noodles,suspicious,beige,3003,1.3,14,117.56,85,barely,15,1606885629,smells rain early,-52.629,32.2488
+38,Spicy Meteor,Cosmic Llama,Atlantis,plain air,hangry,invisible,6329,1.4,4,32.35,71,barely,9,1480696265,wins at rock-paper-scissors,64.5593,159.122
+39,Grumpy Banana,Jazz Moth,Mumbai,vada pav ice cream,hangry,maroon,3927,8.7,14,4.06,79,barely,37,1751141304,hears colors,-49.5011,-167.2866
+40,Wobbly Walrus,Philosopher Crab,Gotham,vada pav ice cream,suspicious,maroon,1957,2.2,9,3.41,59,no,3,1473297030,perfect parallel parking,36.1478,173.0177
+41,Wobbly Teapot,Haunted Toaster,Pune,chocolate samosa,existential,beige,8669,12.8,11,104.89,98,yes,22,1491319739,talks to pigeons,-5.6763,126.3866
+42,Sleepy Meteor,Jazz Moth,Lima,lemon noodles,sleepy,ultraviolet,3944,9.1,5,8.35,55,yes,1,1745482262,instant nap,-42.1484,-38.9784
+43,Fluffy Teapot,Sneaky Cloud,Kalyan,cold biryani,zen,burnt sienna,2832,7.4,11,20.99,70,barely,35,1651966962,always finds charger,2.1825,-51.106
+44,Fluffy Umbrella,Turbo Snail,Gotham,lemon noodles,smug,beige,8014,12.5,10,13.65,45,barely,5,1466711888,always finds charger,89.2943,13.1549
+45,Melodic Cactus,Haunted Toaster,Pune,plain air,hangry,neon orange,1113,11.6,3,67.86,4,barely,34,1447345842,hears colors,30.787,4.1891
+46,Grumpy Sandwich,Space Goat,Thane,plain air,chaotic,lime,892,13.7,11,59.41,19,no,14,1645330431,perfect parallel parking,32.1347,91.2661
+47,Fluffy Meteor,Disco Walrus,Gotham,vada pav ice cream,ecstatic,invisible,7791,4.4,5,30.36,3,barely,12,1436965984,perfect parallel parking,2.2557,23.2164
+48,Wobbly Satellite,Lazy Octopus,Reykjavik,burnt toast,confused,maroon,-792,2.2,10,16.32,85,no,13,1472046201,hears colors,46.5817,138.0782
+49,Wobbly Pigeon,Turbo Snail,Lagos,blue cheese chai,ecstatic,invisible,4285,6.9,4,82.07,14,barely,8,1549045529,wins at rock-paper-scissors,60.9588,159.9182
+50,Fluffy Cactus,Sad Dragon,Lagos,blue cheese chai,suspicious,ultraviolet,8153,12.8,4,13.86,62,no,18,1769261833,never loses socks,49.925,-124.8778
+51,Sleepy Satellite,Disco Walrus,Kalyan,pickled mango,sleepy,mauve,7208,4.6,2,83.83,44,yes,27,1768326846,perfect parallel parking,28.3861,100.346
+52,Sparkly Teapot,Cosmic Llama,Lima,wasabi jalebi,confused,invisible,5344,8.1,11,29.35,25,yes,28,1739179625,talks to pigeons,-5.5766,-45.9256
+53,Mysterious Teapot,Sneaky Cloud,Tokyo,spicy oat milk,hangry,mauve,-180,0.8,13,4.66,73,yes,17,1716510706,always finds charger,-14.7149,172.6636
+54,Melodic Pigeon,Ninja Potato,Thane,chocolate samosa,existential,burnt sienna,2951,5.5,14,77.89,37,barely,9,1479013882,always finds charger,70.7567,-26.8483
+55,Melodic Walrus,Disco Walrus,Mars Colony 3,pickled mango,chaotic,lime,3842,3.4,9,10.05,64,yes,11,1449312060,wins at rock-paper-scissors,56.7494,-104.4158
+56,Sleepy Teapot,Philosopher Crab,Kalyan,plain air,chaotic,invisible,5781,3.1,11,23.7,59,barely,30,1707083153,always finds charger,19.3096,-117.1909
+57,Spicy Banana,Disco Walrus,Tokyo,lemon noodles,nostalgic,invisible,6969,5.9,1,3.03,26,no,14,1624903872,never loses socks,-25.2387,-126.4248
+58,Grumpy Keyboard,Sneaky Cloud,Gotham,pickled mango,nostalgic,lime,9008,10.7,10,30.63,60,yes,4,1640860527,perfect parallel parking,74.3275,41.0783
+59,Sparkly Cactus,Haunted Toaster,Mars Colony 3,spicy oat milk,chaotic,maroon,8673,6.9,9,18.63,96,no,6,1783605987,instant nap,41.4021,119.8922
+60,Spicy Pigeon,Sad Dragon,Lima,plain air,smug,lime,2751,0.7,2,32.32,23,yes,25,1506006349,perfect parallel parking,-83.3739,-148.8284
+61,Crunchy Banana,Sneaky Cloud,Lima,vada pav ice cream,existential,glitter,913,4.4,5,18.78,11,yes,33,1506620941,perfect parallel parking,63.8467,101.165
+62,Grumpy Walrus,Turbo Snail,Lima,lemon noodles,sleepy,maroon,3290,11.0,11,13.3,44,no,37,1536636908,wins at rock-paper-scissors,35.1867,-35.3127
+63,Sleepy Satellite,Sneaky Cloud,Narnia,plain air,zen,maroon,5484,2.3,0,36.09,30,barely,34,1615613635,perfect parallel parking,-51.7595,-13.7338
+64,Crunchy Meteor,Quantum Pigeon,Tokyo,lemon noodles,nostalgic,mauve,-303,0.7,12,63.68,43,barely,41,1421654159,always finds charger,-72.3457,139.5982
+65,Grumpy Sandwich,Sneaky Cloud,Narnia,lemon noodles,ecstatic,burnt sienna,2502,3.2,12,3.71,79,no,20,1526635480,wins at rock-paper-scissors,38.661,110.4513
+66,Spicy Cactus,Quantum Pigeon,Mumbai,cold biryani,existential,invisible,384,10.6,10,140.24,23,barely,1,1699672343,never loses socks,-71.1893,122.2626
+67,Rusty Meteor,Haunted Toaster,Mars Colony 3,wasabi jalebi,sleepy,glitter,612,7.6,6,14.58,69,no,24,1530933135,always finds charger,-68.3873,-69.2564
+68,Melodic Meteor,Turbo Snail,Gotham,chocolate samosa,ecstatic,invisible,-676,10.4,4,22.16,46,no,25,1408194968,talks to pigeons,-1.7169,73.321
+69,Fluffy Teapot,Jazz Moth,Gotham,burnt toast,zen,beige,8830,6.1,16,8.59,68,yes,8,1460372243,smells rain early,-22.3807,86.5057
+70,Spicy Umbrella,Quantum Pigeon,Pune,blue cheese chai,hangry,mauve,8189,9.4,4,7.28,74,no,31,1402787496,talks to pigeons,-86.5239,9.1088
+71,Grumpy Walrus,Cosmic Llama,Reykjavik,blue cheese chai,existential,neon orange,3841,10.4,15,7.77,67,yes,18,1737132270,never loses socks,55.2049,135.0629
+72,Fluffy Sandwich,Disco Walrus,Kalyan,burnt toast,ecstatic,glitter,7167,13.0,15,10.36,93,no,26,1482786411,smells rain early,54.434,-136.2711
+73,Sleepy Banana,Sad Dragon,Mumbai,lemon noodles,sleepy,beige,5020,6.7,4,20.92,54,no,38,1549006109,perfect parallel parking,9.6265,6.8316
+74,Fluffy Satellite,Turbo Snail,Atlantis,burnt toast,zen,burnt sienna,2377,13.5,2,52.24,93,barely,3,1751347386,talks to pigeons,67.2257,-86.8087
+75,Sparkly Meteor,Sneaky Cloud,Kalyan,wasabi jalebi,nostalgic,burnt sienna,4739,0.2,1,5.81,9,no,42,1741407516,wins at rock-paper-scissors,17.2422,129.0539
+76,Mysterious Sandwich,Disco Walrus,Kalyan,spicy oat milk,existential,glitter,9336,11.9,13,16.39,15,yes,34,1494633698,talks to pigeons,44.0384,-35.8605
+77,Grumpy Teapot,Lazy Octopus,Mars Colony 3,vada pav ice cream,chaotic,beige,3879,4.6,9,40.72,72,yes,41,1578134427,wins at rock-paper-scissors,78.2502,82.5562
+78,Sleepy Banana,Philosopher Crab,Atlantis,vada pav ice cream,nostalgic,lime,5877,5.3,15,9.28,29,no,39,1662258454,talks to pigeons,38.3169,-73.35
+79,Spicy Meteor,Sneaky Cloud,Reykjavik,vada pav ice cream,smug,neon orange,-241,1.8,2,44.01,46,no,24,1648585029,hears colors,72.2573,168.1111
+80,Sparkly Pigeon,Turbo Snail,Pune,plain air,ecstatic,neon orange,3031,7.8,16,5.72,22,barely,1,1673126113,smells rain early,-1.6736,-18.4604
+81,Melodic Meteor,Jazz Moth,Atlantis,pickled mango,smug,maroon,9646,0.4,15,4.15,27,yes,4,1540771800,wins at rock-paper-scissors,6.1846,-157.3916
+82,Melodic Banana,Sneaky Cloud,Kalyan,spicy oat milk,smug,teal,7745,9.5,4,16.14,24,no,34,1519082779,always finds charger,-66.3657,-91.0675
+83,Crunchy Meteor,Sneaky Cloud,Tokyo,blue cheese chai,zen,teal,7220,10.2,11,45.16,33,no,16,1642331945,talks to pigeons,-72.5605,-79.932
+84,Fluffy Keyboard,Sad Dragon,Mumbai,plain air,nostalgic,burnt sienna,2602,11.3,6,2.09,100,yes,40,1678981274,never loses socks,-58.7004,70.0766
+85,Rusty Walrus,Disco Walrus,Kalyan,blue cheese chai,existential,invisible,8503,3.5,8,5.37,73,barely,30,1688735107,always finds charger,-18.1197,150.1142
+86,Spicy Walrus,Philosopher Crab,Tokyo,vada pav ice cream,existential,invisible,9731,0.3,0,5.73,16,yes,34,1748789163,instant nap,88.7317,-94.2963
+87,Rusty Umbrella,Haunted Toaster,Kalyan,blue cheese chai,nostalgic,mauve,2376,6.9,3,6.94,59,barely,12,1635194366,wins at rock-paper-scissors,-79.6787,120.5754
+88,Mysterious Sandwich,Turbo Snail,Atlantis,cold biryani,sleepy,ultraviolet,1575,6.5,12,7.95,20,no,2,1534495435,perfect parallel parking,86.9691,163.7078
+89,Sleepy Sandwich,Ninja Potato,Lagos,burnt toast,ecstatic,beige,-629,7.3,4,11.2,21,yes,25,1784700896,wins at rock-paper-scissors,-31.7548,98.8421
+90,Mysterious Meteor,Cosmic Llama,Tokyo,wasabi jalebi,suspicious,invisible,1227,7.4,13,14.68,78,yes,26,1444031287,hears colors,81.0127,-39.5238
+91,Sparkly Walrus,Disco Walrus,Lagos,plain air,chaotic,neon orange,8042,2.1,8,25.36,41,barely,24,1634020987,smells rain early,-0.443,-67.9401
+92,Wobbly Walrus,Turbo Snail,Mars Colony 3,plain air,suspicious,lime,9618,2.5,9,14.68,90,no,4,1620473900,talks to pigeons,82.6865,37.362
+93,Wobbly Teapot,Jazz Moth,Narnia,cold biryani,existential,beige,2590,0.6,5,6.42,21,barely,35,1687468198,hears colors,86.1991,-142.529
+94,Rusty Meteor,Sneaky Cloud,Mars Colony 3,burnt toast,existential,teal,8922,4.1,1,19.51,88,barely,20,1485926209,perfect parallel parking,25.8641,-162.3995
+95,Sparkly Pigeon,Jazz Moth,Mars Colony 3,plain air,hangry,neon orange,9620,13.7,15,28.15,43,no,40,1700950347,hears colors,-63.7503,120.9882
+96,Melodic Banana,Lazy Octopus,Thane,chocolate samosa,existential,beige,6701,3.8,12,18.08,85,yes,1,1406601609,perfect parallel parking,72.7501,29.7122
+97,Fluffy Sandwich,Jazz Moth,Thane,vada pav ice cream,chaotic,teal,6815,2.3,17,17.74,92,barely,17,1746868788,hears colors,-56.0019,49.7977
+98,Grumpy Keyboard,Lazy Octopus,Tokyo,wasabi jalebi,existential,beige,7143,1.9,4,24.31,83,yes,5,1740428679,instant nap,49.5937,92.1097
+99,Wobbly Keyboard,Cosmic Llama,Lagos,pickled mango,ecstatic,glitter,3183,5.9,0,8.59,81,barely,31,1776392603,wins at rock-paper-scissors,72.0823,-24.4804
+100,Sleepy Banana,Jazz Moth,Lagos,chocolate samosa,zen,neon orange,2029,4.5,5,12.86,50,no,31,1670405721,instant nap,-10.396,169.1235
+101,Rusty Sandwich,Philosopher Crab,Atlantis,spicy oat milk,confused,mauve,-541,5.4,17,41.6,80,barely,20,1542205579,instant nap,47.6421,114.5771
+102,Sparkly Meteor,Ninja Potato,Narnia,chocolate samosa,confused,glitter,7779,5.8,11,1.37,4,barely,36,1404990096,never loses socks,18.9739,-160.1901
+103,Wobbly Walrus,Quantum Pigeon,Reykjavik,lemon noodles,suspicious,burnt sienna,9141,0.8,5,16.88,57,yes,36,1586911679,perfect parallel parking,47.9322,154.0513
+104,Fluffy Banana,Quantum Pigeon,Atlantis,burnt toast,confused,teal,6733,8.9,15,5.83,81,yes,9,1578425595,smells rain early,-54.8659,-64.3586
+105,Spicy Teapot,Philosopher Crab,Atlantis,plain air,chaotic,burnt sienna,923,2.3,6,14.26,19,no,22,1710679577,instant nap,-33.0051,169.6157
+106,Melodic Satellite,Jazz Moth,Narnia,cold biryani,chaotic,neon orange,8349,5.2,17,46.18,7,barely,23,1705592883,always finds charger,82.24,-173.0946
+107,Mysterious Keyboard,Sad Dragon,Kalyan,spicy oat milk,nostalgic,invisible,1147,5.3,10,5.47,6,barely,10,1760890882,never loses socks,56.7528,-72.8108
+108,Melodic Teapot,Jazz Moth,Lima,burnt toast,chaotic,mauve,7184,11.2,15,241.51,66,no,2,1592606120,talks to pigeons,51.6652,-90.0966
+109,Sleepy Pigeon,Sneaky Cloud,Tokyo,vada pav ice cream,chaotic,invisible,9541,6.3,13,39.0,60,no,31,1733396232,perfect parallel parking,12.3349,-137.4375
+110,Mysterious Cactus,Philosopher Crab,Mumbai,vada pav ice cream,hangry,burnt sienna,6246,4.8,5,84.17,39,no,41,1493373400,talks to pigeons,-0.016,-175.834
+111,Crunchy Meteor,Turbo Snail,Lagos,chocolate samosa,smug,teal,3686,4.2,14,24.4,17,yes,3,1575107175,instant nap,2.9421,142.5081
+112,Mysterious Umbrella,Space Goat,Thane,blue cheese chai,chaotic,neon orange,-514,13.4,8,19.59,85,no,36,1630999940,always finds charger,60.1064,-90.1492
+113,Crunchy Walrus,Cosmic Llama,Narnia,vada pav ice cream,confused,burnt sienna,9597,9.2,16,7.12,34,no,17,1616919811,never loses socks,-80.6454,-161.4029
+114,Melodic Sandwich,Cosmic Llama,Lagos,wasabi jalebi,suspicious,teal,9666,12.7,12,8.48,73,barely,7,1442551909,always finds charger,-44.0145,86.646
+115,Grumpy Satellite,Lazy Octopus,Lagos,blue cheese chai,smug,teal,9668,11.7,1,85.78,45,yes,4,1626593606,never loses socks,81.5927,106.9088
+116,Fluffy Banana,Sad Dragon,Thane,plain air,smug,mauve,5936,1.9,5,11.06,17,barely,36,1699044631,instant nap,-74.4402,73.644
+117,Mysterious Meteor,Turbo Snail,Thane,burnt toast,nostalgic,maroon,6846,11.0,9,42.05,51,no,2,1715062075,perfect parallel parking,29.3825,87.6298
+118,Spicy Banana,Disco Walrus,Lagos,cold biryani,smug,neon orange,7583,8.2,8,68.96,26,yes,17,1762499097,perfect parallel parking,-86.5215,-141.2901
+119,Grumpy Satellite,Sad Dragon,Gotham,chocolate samosa,smug,beige,6204,11.4,11,25.03,67,no,35,1605764581,wins at rock-paper-scissors,11.6844,134.8161
+120,Mysterious Sandwich,Cosmic Llama,Reykjavik,vada pav ice cream,zen,burnt sienna,2327,6.4,11,7.42,21,barely,30,1494014901,talks to pigeons,5.9362,-9.8548
+121,Grumpy Meteor,Cosmic Llama,Narnia,chocolate samosa,existential,ultraviolet,5451,9.4,15,64.12,31,barely,9,1490347496,hears colors,-78.0451,-119.7767
+122,Rusty Teapot,Ninja Potato,Pune,wasabi jalebi,zen,mauve,4143,8.1,3,28.66,34,barely,15,1451614592,hears colors,-13.5171,95.5921
+123,Fluffy Teapot,Ninja Potato,Tokyo,wasabi jalebi,chaotic,ultraviolet,9791,5.1,6,19.87,60,yes,40,1786566298,instant nap,11.7778,-16.701
+124,Spicy Pigeon,Sad Dragon,Tokyo,pickled mango,chaotic,burnt sienna,19,4.1,17,11.44,43,yes,12,1768019338,hears colors,56.2489,170.33
+125,Crunchy Pigeon,Philosopher Crab,Tokyo,blue cheese chai,zen,glitter,6591,13.3,15,230.01,77,no,6,1658008512,always finds charger,78.5407,164.7409
+126,Spicy Pigeon,Disco Walrus,Pune,vada pav ice cream,existential,neon orange,3868,11.6,12,24.56,48,no,20,1503135865,instant nap,-80.2139,24.345
+127,Grumpy Walrus,Disco Walrus,Gotham,plain air,smug,teal,8205,2.5,7,15.62,41,no,21,1610803554,perfect parallel parking,-86.9498,-96.8781
+128,Crunchy Pigeon,Quantum Pigeon,Narnia,cold biryani,chaotic,neon orange,8423,5.1,0,62.29,67,yes,13,1541050720,always finds charger,68.6352,-85.1869
+129,Fluffy Pigeon,Sad Dragon,Lima,cold biryani,confused,invisible,6234,8.2,0,95.43,43,barely,41,1522921221,wins at rock-paper-scissors,84.6382,-96.3776
+130,Melodic Meteor,Philosopher Crab,Lagos,burnt toast,ecstatic,neon orange,5297,10.1,12,54.87,64,barely,38,1735419007,smells rain early,-12.8926,0.0165
+131,Sparkly Walrus,Lazy Octopus,Lagos,plain air,ecstatic,mauve,7911,6.1,14,5.33,84,yes,14,1735797768,instant nap,20.6847,-86.0754
+132,Sleepy Cactus,Sneaky Cloud,Thane,burnt toast,chaotic,invisible,4117,8.8,16,21.09,18,no,11,1509372394,smells rain early,-6.0413,-163.932
+133,Fluffy Banana,Ninja Potato,Mars Colony 3,lemon noodles,chaotic,glitter,2764,1.1,1,12.38,36,yes,29,1486578216,talks to pigeons,-7.5793,89.9119
+134,Sleepy Sandwich,Haunted Toaster,Mumbai,blue cheese chai,chaotic,invisible,7922,0.4,13,7.32,48,yes,1,1591201756,never loses socks,-83.3395,-108.3113
+135,Grumpy Umbrella,Lazy Octopus,Pune,spicy oat milk,nostalgic,glitter,4476,3.5,15,130.76,12,no,6,1519126792,never loses socks,-56.8988,-70.6848
+136,Spicy Meteor,Sneaky Cloud,Reykjavik,spicy oat milk,hangry,neon orange,1284,5.3,3,60.12,25,yes,9,1786391038,always finds charger,-48.8268,31.9448
+137,Wobbly Satellite,Turbo Snail,Reykjavik,spicy oat milk,chaotic,lime,234,4.2,2,7.96,10,yes,11,1653120115,always finds charger,23.4184,171.4211
+138,Grumpy Teapot,Sad Dragon,Reykjavik,spicy oat milk,suspicious,neon orange,-762,1.9,11,16.46,85,no,29,1609421369,never loses socks,-67.2888,45.2291
+139,Grumpy Teapot,Turbo Snail,Mumbai,vada pav ice cream,chaotic,teal,5765,5.1,8,33.59,72,barely,17,1759032761,wins at rock-paper-scissors,-8.6877,175.3093
+140,Crunchy Umbrella,Philosopher Crab,Gotham,plain air,zen,glitter,9099,4.9,15,33.59,72,yes,7,1739199634,instant nap,74.4781,-7.6592
+141,Spicy Keyboard,Turbo Snail,Atlantis,cold biryani,ecstatic,burnt sienna,3550,11.5,7,47.92,57,barely,38,1559667287,hears colors,11.8139,124.374
+142,Melodic Satellite,Turbo Snail,Reykjavik,spicy oat milk,nostalgic,invisible,8391,9.5,3,116.15,77,barely,22,1485771898,talks to pigeons,-12.558,-135.5864
+143,Rusty Sandwich,Philosopher Crab,Narnia,spicy oat milk,hangry,lime,6524,8.3,11,26.5,27,barely,3,1523700146,instant nap,-20.7309,34.6325
+144,Sparkly Satellite,Lazy Octopus,Lima,plain air,chaotic,teal,5787,3.9,2,18.88,43,yes,15,1457972745,never loses socks,70.2413,-57.3843
+145,Sparkly Pigeon,Sneaky Cloud,Lima,cold biryani,chaotic,beige,7982,10.9,5,5.17,0,yes,29,1558620550,always finds charger,-57.9766,-59.5885
+146,Wobbly Keyboard,Jazz Moth,Thane,cold biryani,hangry,neon orange,7439,10.5,7,52.56,21,no,28,1577090549,hears colors,26.6542,-25.2243
+147,Mysterious Banana,Disco Walrus,Tokyo,spicy oat milk,suspicious,ultraviolet,2955,10.2,16,4.05,16,barely,27,1619521138,talks to pigeons,88.4136,-166.3888
+148,Wobbly Banana,Turbo Snail,Thane,cold biryani,hangry,invisible,-759,13.1,17,59.43,89,barely,24,1762015698,smells rain early,-31.0092,-76.0897
+149,Mysterious Satellite,Quantum Pigeon,Lima,wasabi jalebi,ecstatic,invisible,5817,7.2,4,24.68,32,barely,26,1487804892,perfect parallel parking,-42.56,56.5081
+150,Wobbly Satellite,Haunted Toaster,Kalyan,spicy oat milk,zen,mauve,4109,9.2,2,36.02,10,no,10,1553977277,always finds charger,13.5183,113.3627
+151,Sleepy Umbrella,Disco Walrus,Narnia,cold biryani,hangry,ultraviolet,9898,4.3,8,155.24,16,no,24,1500375425,never loses socks,26.5675,-75.1505
+152,Fluffy Satellite,Philosopher Crab,Pune,wasabi jalebi,ecstatic,teal,9981,12.2,6,8.43,68,no,25,1497564532,perfect parallel parking,70.202,-87.4123
+153,Melodic Sandwich,Haunted Toaster,Lagos,burnt toast,chaotic,burnt sienna,-860,9.1,15,19.95,24,barely,21,1716045276,always finds charger,69.7653,62.6424
+154,Crunchy Pigeon,Turbo Snail,Narnia,plain air,ecstatic,glitter,5554,0.8,8,11.7,59,no,21,1503675436,smells rain early,15.6857,-48.4058
+155,Wobbly Walrus,Ninja Potato,Lagos,cold biryani,hangry,ultraviolet,2988,12.4,0,43.74,92,yes,2,1595518129,smells rain early,40.5258,63.2345
+156,Grumpy Banana,Disco Walrus,Lagos,wasabi jalebi,sleepy,invisible,4282,12.7,10,12.71,85,barely,5,1587581447,perfect parallel parking,51.7826,164.0463
+157,Sparkly Cactus,Turbo Snail,Lagos,spicy oat milk,zen,burnt sienna,8237,3.7,3,11.62,20,barely,9,1606002153,always finds charger,-84.3171,-110.3902
+158,Sleepy Keyboard,Ninja Potato,Lagos,chocolate samosa,hangry,ultraviolet,3961,4.0,11,30.02,99,yes,9,1618339334,smells rain early,-52.5265,167.415
+159,Sleepy Sandwich,Lazy Octopus,Kalyan,burnt toast,smug,invisible,9944,9.6,10,38.51,36,yes,30,1602616413,smells rain early,77.6021,127.7045
+160,Melodic Umbrella,Quantum Pigeon,Thane,wasabi jalebi,suspicious,teal,5215,9.6,7,4.57,50,barely,12,1697054313,hears colors,-51.4819,60.3763
+161,Wobbly Walrus,Disco Walrus,Thane,cold biryani,nostalgic,burnt sienna,8695,3.9,2,13.91,41,no,17,1485768329,smells rain early,-1.7081,-105.1325
+162,Sleepy Pigeon,Cosmic Llama,Narnia,burnt toast,confused,ultraviolet,1698,7.9,14,42.78,54,barely,3,1616264702,never loses socks,11.802,-42.884
+163,Spicy Umbrella,Lazy Octopus,Atlantis,spicy oat milk,smug,invisible,5060,10.6,11,268.52,87,no,42,1562188497,never loses socks,-69.2446,-64.9693
+164,Sleepy Pigeon,Ninja Potato,Kalyan,vada pav ice cream,confused,invisible,8869,8.5,12,19.52,72,barely,26,1748186770,perfect parallel parking,-70.7178,33.241
+165,Spicy Satellite,Sad Dragon,Gotham,chocolate samosa,zen,lime,2475,9.2,1,23.06,4,no,23,1641772234,perfect parallel parking,8.7877,-84.9617
+166,Sparkly Banana,Jazz Moth,Thane,cold biryani,ecstatic,beige,2597,0.5,16,18.93,13,no,5,1724127771,talks to pigeons,-23.0244,170.0874
+167,Mysterious Banana,Haunted Toaster,Narnia,vada pav ice cream,existential,maroon,1157,1.9,3,70.68,29,barely,10,1737782561,never loses socks,-11.0807,99.6692
+168,Mysterious Banana,Quantum Pigeon,Gotham,burnt toast,existential,invisible,9315,7.2,8,57.38,86,barely,18,1528154819,perfect parallel parking,-60.1808,133.586
+169,Sparkly Cactus,Philosopher Crab,Thane,vada pav ice cream,ecstatic,glitter,6825,7.8,7,19.33,13,yes,32,1706242428,never loses socks,50.1364,-68.8891
+170,Mysterious Banana,Sad Dragon,Lagos,blue cheese chai,sleepy,burnt sienna,6459,10.6,17,40.47,31,barely,24,1633073020,talks to pigeons,81.4262,177.5393
+171,Melodic Cactus,Haunted Toaster,Tokyo,lemon noodles,smug,teal,9688,11.8,9,87.44,21,no,11,1713378443,hears colors,-44.3132,-79.2012
+172,Grumpy Umbrella,Haunted Toaster,Narnia,chocolate samosa,confused,burnt sienna,1387,7.3,8,46.78,46,no,5,1553477694,talks to pigeons,60.365,118.3029
+173,Spicy Meteor,Haunted Toaster,Gotham,wasabi jalebi,suspicious,invisible,6358,12.2,2,10.61,100,barely,31,1469120109,hears colors,3.537,-155.3398
+174,Spicy Teapot,Cosmic Llama,Narnia,spicy oat milk,zen,glitter,8195,7.5,6,13.72,89,barely,5,1596356683,talks to pigeons,52.6131,-117.1407
+175,Rusty Sandwich,Lazy Octopus,Thane,pickled mango,nostalgic,neon orange,-650,3.1,14,13.42,73,no,16,1501175433,always finds charger,-3.7795,-35.5973
+176,Melodic Satellite,Lazy Octopus,Reykjavik,pickled mango,smug,ultraviolet,9708,3.7,11,29.52,74,yes,18,1443637722,talks to pigeons,-9.48,18.5258
+177,Wobbly Teapot,Disco Walrus,Thane,cold biryani,hangry,mauve,7816,2.1,17,161.73,3,no,14,1710240383,hears colors,43.3442,26.0669
+178,Melodic Umbrella,Space Goat,Mumbai,plain air,hangry,burnt sienna,9837,9.9,1,60.18,28,no,12,1640653636,perfect parallel parking,57.6611,157.531
+179,Spicy Banana,Cosmic Llama,Atlantis,cold biryani,ecstatic,lime,2921,2.3,9,5.35,28,barely,13,1692391725,smells rain early,-78.1283,39.4473
+180,Melodic Walrus,Philosopher Crab,Lima,spicy oat milk,chaotic,ultraviolet,7226,7.0,13,35.57,72,barely,13,1486842309,always finds charger,27.8057,-40.3022
+181,Grumpy Teapot,Philosopher Crab,Lima,burnt toast,chaotic,lime,3516,1.9,9,12.35,88,yes,21,1519065597,talks to pigeons,27.2585,-86.2144
+182,Wobbly Sandwich,Sneaky Cloud,Reykjavik,plain air,hangry,invisible,2270,10.0,17,31.45,96,no,38,1415851629,talks to pigeons,-2.9361,-134.3651
+183,Melodic Sandwich,Haunted Toaster,Lima,lemon noodles,chaotic,invisible,3926,12.2,9,8.59,56,barely,20,1587611201,instant nap,54.0686,-69.2736
+184,Sleepy Walrus,Disco Walrus,Reykjavik,blue cheese chai,chaotic,mauve,-253,9.5,5,100.71,43,barely,7,1539875492,always finds charger,66.0655,-106.9803
+185,Sparkly Umbrella,Sneaky Cloud,Gotham,spicy oat milk,existential,maroon,2790,8.6,15,98.57,79,yes,32,1670972767,hears colors,-67.0347,-68.2534
+186,Fluffy Keyboard,Sad Dragon,Gotham,chocolate samosa,hangry,lime,1988,4.2,2,12.45,97,yes,8,1754913523,always finds charger,33.0576,-108.832
+187,Sparkly Cactus,Sneaky Cloud,Lagos,vada pav ice cream,sleepy,invisible,3534,2.6,3,34.16,65,barely,36,1584782823,smells rain early,-49.9753,-56.123
+188,Crunchy Keyboard,Disco Walrus,Pune,blue cheese chai,sleepy,burnt sienna,101,12.6,7,47.85,33,no,33,1665608526,instant nap,-47.111,119.985
+189,Mysterious Teapot,Disco Walrus,Atlantis,cold biryani,zen,maroon,1419,3.1,11,31.63,54,no,11,1588831433,never loses socks,13.9583,85.1992
+190,Fluffy Teapot,Jazz Moth,Narnia,spicy oat milk,suspicious,glitter,8442,6.7,16,12.27,82,barely,15,1630126055,instant nap,-29.5909,13.647
+191,Spicy Umbrella,Jazz Moth,Atlantis,burnt toast,nostalgic,glitter,9076,9.6,0,104.91,57,yes,15,1489336797,smells rain early,-59.8803,82.9715
+192,Spicy Umbrella,Turbo Snail,Pune,lemon noodles,existential,neon orange,2049,1.4,13,9.87,92,no,26,1618947467,perfect parallel parking,-5.2727,-12.6796
+193,Melodic Teapot,Disco Walrus,Tokyo,blue cheese chai,existential,maroon,628,10.5,10,4.11,91,no,9,1449944054,smells rain early,-66.0434,-140.6402
+194,Fluffy Umbrella,Sad Dragon,Kalyan,wasabi jalebi,zen,beige,3295,1.2,15,19.26,73,no,17,1736368593,always finds charger,21.8217,-88.407
+195,Fluffy Walrus,Turbo Snail,Gotham,pickled mango,ecstatic,neon orange,-745,3.8,9,203.73,71,no,2,1684640068,always finds charger,-41.3203,-88.8126
+196,Sparkly Pigeon,Haunted Toaster,Lagos,vada pav ice cream,suspicious,ultraviolet,1773,11.4,4,7.93,75,no,7,1450609123,always finds charger,-21.8644,-155.1153
+197,Spicy Umbrella,Ninja Potato,Lima,spicy oat milk,chaotic,teal,264,9.2,15,51.39,30,no,23,1564325909,always finds charger,-70.8579,62.5319
+198,Wobbly Keyboard,Lazy Octopus,Tokyo,vada pav ice cream,zen,teal,9749,2.9,17,85.33,73,no,36,1706471112,hears colors,-65.2371,151.0748
+199,Melodic Umbrella,Cosmic Llama,Tokyo,plain air,sleepy,mauve,68,13.4,7,35.47,67,yes,11,1597490847,talks to pigeons,37.567,48.2319
+200,Melodic Banana,Ninja Potato,Thane,blue cheese chai,existential,mauve,3312,1.6,16,66.09,48,barely,38,1778834589,hears colors,-55.0246,21.0789
+201,Sleepy Cactus,Cosmic Llama,Gotham,chocolate samosa,zen,lime,8410,6.4,1,20.17,49,barely,22,1572093456,instant nap,-87.9398,-43.6404
+202,Grumpy Pigeon,Sad Dragon,Mumbai,vada pav ice cream,suspicious,mauve,5642,2.2,2,51.36,64,no,40,1490143201,hears colors,-65.5658,159.7213
+203,Sleepy Teapot,Sneaky Cloud,Pune,blue cheese chai,sleepy,invisible,327,9.2,1,12.59,80,yes,2,1578296071,instant nap,69.2719,95.846
+204,Melodic Walrus,Ninja Potato,Mars Colony 3,vada pav ice cream,ecstatic,ultraviolet,6985,1.3,16,10.01,14,barely,31,1698980108,perfect parallel parking,-74.81,-3.2606
+205,Rusty Satellite,Haunted Toaster,Tokyo,spicy oat milk,confused,beige,1524,11.0,5,85.37,84,no,24,1715127164,smells rain early,-88.4199,-95.3553
+206,Wobbly Cactus,Sneaky Cloud,Kalyan,plain air,confused,invisible,367,0.4,10,18.24,12,barely,11,1729788127,smells rain early,26.7732,-154.12
+207,Crunchy Keyboard,Cosmic Llama,Lima,blue cheese chai,nostalgic,beige,-773,11.2,0,82.28,11,no,21,1521018149,talks to pigeons,13.2908,-87.5322
+208,Fluffy Keyboard,Quantum Pigeon,Pune,lemon noodles,confused,lime,5625,11.9,16,5.52,80,no,28,1780484871,wins at rock-paper-scissors,21.8768,64.9093
+209,Grumpy Teapot,Quantum Pigeon,Reykjavik,wasabi jalebi,zen,mauve,126,6.0,12,13.11,45,yes,16,1436370234,perfect parallel parking,47.1407,-50.7762
+210,Sparkly Pigeon,Jazz Moth,Atlantis,plain air,suspicious,mauve,6328,4.9,14,7.41,73,yes,5,1755026357,wins at rock-paper-scissors,55.1323,33.7659
+211,Crunchy Sandwich,Jazz Moth,Lagos,lemon noodles,zen,beige,2275,4.5,6,58.88,31,yes,20,1773199261,talks to pigeons,-70.5035,162.1176
+212,Sparkly Cactus,Turbo Snail,Tokyo,pickled mango,nostalgic,mauve,9720,6.3,15,18.12,35,yes,5,1567900115,instant nap,-81.5565,-51.1676
+213,Melodic Keyboard,Haunted Toaster,Pune,wasabi jalebi,hangry,maroon,7106,10.0,5,39.88,80,barely,8,1456382599,smells rain early,-89.5088,78.9126
+214,Sparkly Sandwich,Turbo Snail,Gotham,wasabi jalebi,confused,lime,6870,4.9,17,38.26,27,no,26,1740034804,always finds charger,-58.4541,-116.2351
+215,Mysterious Sandwich,Lazy Octopus,Mumbai,blue cheese chai,ecstatic,burnt sienna,1324,7.7,16,19.59,11,yes,8,1708638089,perfect parallel parking,-59.0194,168.173
+216,Wobbly Cactus,Philosopher Crab,Thane,plain air,sleepy,burnt sienna,640,8.2,3,25.34,50,yes,11,1484061245,always finds charger,48.0033,177.2915
+217,Rusty Umbrella,Sad Dragon,Pune,chocolate samosa,chaotic,neon orange,470,5.1,15,22.8,75,barely,19,1510895109,wins at rock-paper-scissors,27.362,105.1621
+218,Grumpy Cactus,Disco Walrus,Tokyo,vada pav ice cream,hangry,burnt sienna,2190,13.9,17,53.8,97,no,40,1450614249,instant nap,-74.1154,-63.0946
+219,Fluffy Meteor,Space Goat,Thane,chocolate samosa,hangry,mauve,459,9.3,8,4.95,8,no,31,1498858644,wins at rock-paper-scissors,46.0881,24.7156
+220,Spicy Pigeon,Space Goat,Kalyan,plain air,nostalgic,glitter,426,13.3,2,14.54,6,no,28,1418280795,smells rain early,44.0604,129.5855
+221,Crunchy Banana,Space Goat,Atlantis,cold biryani,zen,ultraviolet,9227,8.7,3,6.95,97,yes,1,1423202119,talks to pigeons,-14.6252,-12.1423
+222,Sleepy Keyboard,Haunted Toaster,Mars Colony 3,plain air,smug,invisible,956,8.0,12,1.86,32,barely,20,1426860238,talks to pigeons,17.6571,-20.1079
+223,Rusty Teapot,Space Goat,Mumbai,cold biryani,suspicious,maroon,1593,0.5,0,7.24,53,no,22,1620406399,wins at rock-paper-scissors,-25.016,-100.5413
+224,Sleepy Umbrella,Lazy Octopus,Thane,lemon noodles,smug,glitter,7827,4.9,10,9.78,4,yes,27,1442687319,wins at rock-paper-scissors,18.6626,-105.8832
+225,Rusty Satellite,Lazy Octopus,Lagos,lemon noodles,nostalgic,neon orange,6849,11.7,4,18.07,69,yes,5,1748538753,talks to pigeons,60.9711,-104.2363
+226,Grumpy Sandwich,Ninja Potato,Reykjavik,blue cheese chai,smug,teal,3505,6.4,13,19.61,22,barely,29,1519804770,talks to pigeons,-73.7536,170.4112
+227,Wobbly Walrus,Haunted Toaster,Pune,wasabi jalebi,smug,ultraviolet,4250,0.8,2,7.64,15,yes,23,1543828353,hears colors,-79.8476,-92.7914
+228,Grumpy Umbrella,Lazy Octopus,Tokyo,spicy oat milk,suspicious,teal,2938,11.1,17,7.04,77,barely,2,1644735276,always finds charger,-64.5985,52.635
+229,Wobbly Cactus,Disco Walrus,Pune,wasabi jalebi,hangry,neon orange,514,7.9,10,36.53,94,no,28,1604102857,never loses socks,15.3151,116.0455
+230,Grumpy Cactus,Lazy Octopus,Mars Colony 3,cold biryani,existential,glitter,3549,8.4,12,6.07,72,yes,22,1780940252,always finds charger,34.24,73.6729
+231,Rusty Sandwich,Haunted Toaster,Narnia,plain air,smug,burnt sienna,9296,7.2,2,8.06,79,no,2,1684216163,perfect parallel parking,20.592,171.7577
+232,Wobbly Umbrella,Lazy Octopus,Pune,cold biryani,hangry,burnt sienna,2122,7.1,5,84.03,85,no,12,1735181098,perfect parallel parking,-75.4652,4.2153
+233,Grumpy Satellite,Jazz Moth,Narnia,cold biryani,chaotic,invisible,2301,11.7,2,52.84,66,yes,42,1629836240,talks to pigeons,-88.736,107.1585
+234,Wobbly Walrus,Cosmic Llama,Tokyo,chocolate samosa,hangry,burnt sienna,7005,8.5,9,10.02,1,barely,5,1721794066,never loses socks,-10.0083,-157.7914
+235,Spicy Cactus,Disco Walrus,Thane,cold biryani,sleepy,teal,8520,13.8,4,23.9,36,barely,9,1688653763,talks to pigeons,15.2294,156.0465
+236,Fluffy Pigeon,Disco Walrus,Kalyan,pickled mango,existential,teal,3028,4.8,4,62.71,66,barely,22,1515919198,wins at rock-paper-scissors,-66.0251,35.6904
+237,Wobbly Banana,Lazy Octopus,Pune,vada pav ice cream,zen,neon orange,9792,12.3,14,18.26,73,no,1,1706240452,instant nap,-17.8189,63.055
+238,Spicy Meteor,Cosmic Llama,Thane,spicy oat milk,existential,maroon,8596,13.1,6,5.69,5,barely,40,1586885962,wins at rock-paper-scissors,50.1442,176.0668
+239,Melodic Banana,Space Goat,Reykjavik,wasabi jalebi,sleepy,lime,1446,6.8,17,35.38,24,no,17,1610493363,perfect parallel parking,69.1481,58.0398
+240,Spicy Walrus,Philosopher Crab,Narnia,chocolate samosa,hangry,glitter,7093,3.3,8,6.36,24,no,17,1510792559,perfect parallel parking,26.6145,18.6343
+241,Melodic Walrus,Haunted Toaster,Lima,wasabi jalebi,confused,invisible,6589,0.3,13,63.55,64,yes,29,1498277533,perfect parallel parking,87.1154,11.0629
+242,Mysterious Teapot,Cosmic Llama,Lagos,wasabi jalebi,confused,beige,6687,12.2,7,10.5,34,no,2,1672751507,hears colors,-36.1997,160.5925
+243,Spicy Pigeon,Turbo Snail,Kalyan,spicy oat milk,chaotic,glitter,4062,3.2,7,29.33,99,no,42,1616591964,talks to pigeons,57.468,-129.3265
+244,Rusty Cactus,Ninja Potato,Kalyan,pickled mango,sleepy,beige,5300,5.9,17,20.92,42,barely,35,1624111722,hears colors,44.8029,-64.2821
+245,Spicy Pigeon,Space Goat,Mars Colony 3,cold biryani,nostalgic,mauve,8454,7.9,4,162.77,96,no,30,1514215497,always finds charger,22.8233,90.8283
+246,Rusty Banana,Quantum Pigeon,Reykjavik,blue cheese chai,zen,maroon,-389,9.2,10,1.71,44,no,33,1672128742,perfect parallel parking,25.8631,88.535
+247,Crunchy Meteor,Turbo Snail,Tokyo,vada pav ice cream,suspicious,lime,409,11.0,7,17.99,81,barely,7,1535377438,always finds charger,-75.2312,76.4513
+248,Sparkly Cactus,Sad Dragon,Narnia,wasabi jalebi,existential,beige,-652,3.3,2,333.39,23,yes,40,1462845744,instant nap,43.6416,-160.5872
+249,Spicy Cactus,Space Goat,Thane,cold biryani,existential,glitter,7076,6.3,10,47.42,12,no,27,1600222418,talks to pigeons,3.1948,123.4675
+250,Melodic Walrus,Disco Walrus,Lima,plain air,existential,lime,8940,12.2,3,70.62,83,yes,36,1733987779,hears colors,55.7163,-116.6823
+251,Mysterious Cactus,Sad Dragon,Reykjavik,lemon noodles,confused,glitter,-2,1.7,4,75.88,67,barely,17,1626358882,hears colors,-3.4515,94.6552
+252,Rusty Pigeon,Turbo Snail,Lagos,lemon noodles,zen,invisible,6756,1.4,6,24.33,10,barely,42,1482667996,hears colors,53.5528,-87.6234
+253,Crunchy Satellite,Turbo Snail,Kalyan,blue cheese chai,existential,lime,942,6.0,9,27.56,49,barely,22,1685643570,hears colors,31.1533,174.7725
+254,Rusty Meteor,Disco Walrus,Tokyo,burnt toast,existential,invisible,4930,6.7,12,58.66,11,no,35,1451223334,talks to pigeons,9.0816,31.145
+255,Wobbly Sandwich,Lazy Octopus,Reykjavik,vada pav ice cream,existential,neon orange,3903,5.2,2,4.84,13,yes,34,1416645877,always finds charger,-46.296,148.1755
+256,Mysterious Sandwich,Haunted Toaster,Pune,plain air,hangry,maroon,9771,8.2,14,29.31,98,barely,31,1657984835,perfect parallel parking,59.1061,-139.039
+257,Sleepy Satellite,Ninja Potato,Lima,chocolate samosa,zen,burnt sienna,1130,3.3,6,4.65,11,no,11,1680497553,always finds charger,-28.9071,16.7207
+258,Spicy Pigeon,Lazy Octopus,Mumbai,lemon noodles,ecstatic,neon orange,6195,12.2,14,5.27,23,barely,12,1625110753,never loses socks,-71.9956,-116.1781
+259,Fluffy Pigeon,Sneaky Cloud,Thane,plain air,suspicious,ultraviolet,9787,13.4,0,28.8,89,no,4,1640656820,instant nap,-54.4138,-91.9658
+260,Wobbly Sandwich,Philosopher Crab,Kalyan,spicy oat milk,suspicious,glitter,2951,13.0,17,5.28,19,yes,22,1662230848,hears colors,-47.1653,-136.2375
+261,Spicy Satellite,Turbo Snail,Mars Colony 3,spicy oat milk,existential,mauve,-487,4.5,1,35.93,96,yes,0,1708837184,instant nap,-77.7479,-116.4034
+262,Grumpy Meteor,Ninja Potato,Reykjavik,burnt toast,zen,glitter,4261,4.0,7,26.87,94,no,19,1506885812,talks to pigeons,61.9428,2.3351
+263,Mysterious Teapot,Lazy Octopus,Gotham,vada pav ice cream,chaotic,teal,1774,10.8,16,16.49,81,yes,3,1691033302,smells rain early,-53.8134,109.7156
+264,Rusty Walrus,Lazy Octopus,Kalyan,burnt toast,sleepy,beige,3078,2.0,17,61.25,0,barely,25,1591674567,instant nap,32.5585,-92.2729
+265,Melodic Keyboard,Jazz Moth,Tokyo,burnt toast,ecstatic,beige,4915,9.0,9,9.65,98,barely,25,1647079360,perfect parallel parking,-4.4739,114.7018
+266,Grumpy Walrus,Jazz Moth,Narnia,blue cheese chai,confused,lime,1664,10.5,5,7.59,81,yes,33,1651041578,hears colors,-80.9597,26.559
+267,Rusty Meteor,Philosopher Crab,Mars Colony 3,blue cheese chai,confused,invisible,727,11.2,9,13.65,65,yes,6,1786805763,talks to pigeons,58.3599,111.8376
+268,Crunchy Pigeon,Turbo Snail,Gotham,blue cheese chai,sleepy,burnt sienna,3978,0.3,2,49.28,57,yes,1,1641780691,hears colors,-29.3021,149.166
+269,Spicy Cactus,Space Goat,Thane,pickled mango,chaotic,mauve,273,9.2,17,6.36,65,yes,34,1775937859,always finds charger,-69.4127,-69.6757
+270,Fluffy Banana,Haunted Toaster,Thane,lemon noodles,hangry,glitter,3091,4.0,10,5.23,21,yes,26,1785326464,perfect parallel parking,14.7451,-51.7194
+271,Fluffy Umbrella,Sneaky Cloud,Thane,pickled mango,chaotic,beige,5301,8.0,17,5.88,2,yes,10,1578321460,always finds charger,-75.5261,-166.3689
+272,Sparkly Sandwich,Turbo Snail,Kalyan,vada pav ice cream,chaotic,invisible,555,2.9,7,40.89,25,barely,3,1439504438,instant nap,21.6209,78.3951
+273,Wobbly Sandwich,Disco Walrus,Gotham,cold biryani,ecstatic,mauve,2315,6.5,6,8.15,89,no,5,1715251418,smells rain early,-45.9588,-0.3099
+274,Melodic Banana,Jazz Moth,Narnia,pickled mango,existential,mauve,8527,2.4,15,5.42,4,no,19,1599359320,always finds charger,72.1838,-119.3788
+275,Fluffy Teapot,Philosopher Crab,Tokyo,pickled mango,chaotic,invisible,4692,13.6,3,3.42,24,barely,40,1648295192,wins at rock-paper-scissors,50.2775,97.6739
+276,Melodic Umbrella,Jazz Moth,Narnia,burnt toast,hangry,beige,4723,0.7,13,37.21,6,no,40,1682223202,perfect parallel parking,23.4667,-6.7029
+277,Grumpy Meteor,Ninja Potato,Kalyan,pickled mango,chaotic,glitter,4917,1.7,17,6.71,2,no,10,1750368170,smells rain early,-18.0554,-150.4154
+278,Grumpy Cactus,Lazy Octopus,Lima,pickled mango,zen,burnt sienna,6818,8.4,5,12.15,10,no,2,1739438277,wins at rock-paper-scissors,-34.0908,-12.1862
+279,Sleepy Pigeon,Ninja Potato,Atlantis,cold biryani,confused,maroon,-283,5.1,16,362.44,28,no,23,1546604068,talks to pigeons,0.9745,-4.8876
+280,Wobbly Walrus,Space Goat,Reykjavik,cold biryani,smug,maroon,7771,13.3,7,11.38,28,barely,33,1640792508,perfect parallel parking,82.0677,135.5489
+281,Sleepy Walrus,Cosmic Llama,Tokyo,cold biryani,confused,glitter,-144,3.6,1,33.18,77,no,31,1616199888,perfect parallel parking,34.537,90.5672
+282,Rusty Walrus,Cosmic Llama,Thane,pickled mango,sleepy,ultraviolet,7139,6.5,8,31.99,99,barely,1,1401527509,wins at rock-paper-scissors,-19.4169,-139.1887
+283,Rusty Meteor,Ninja Potato,Lima,blue cheese chai,chaotic,mauve,8166,5.4,5,102.39,95,no,10,1529330192,smells rain early,-79.8981,133.7224
+284,Fluffy Umbrella,Disco Walrus,Kalyan,spicy oat milk,existential,neon orange,8009,3.0,6,5.39,57,barely,2,1582299892,always finds charger,25.4771,101.6186
+285,Sparkly Umbrella,Disco Walrus,Mumbai,burnt toast,nostalgic,glitter,9738,13.3,10,33.32,4,barely,2,1421631666,hears colors,44.6183,54.5827
+286,Wobbly Banana,Sneaky Cloud,Lima,vada pav ice cream,existential,neon orange,7619,2.9,5,23.84,10,yes,16,1463549613,talks to pigeons,-55.1411,-175.9921
+287,Mysterious Umbrella,Philosopher Crab,Atlantis,chocolate samosa,sleepy,maroon,8220,10.9,10,133.26,4,barely,35,1507249064,perfect parallel parking,48.5688,50.6473
+288,Sleepy Meteor,Sneaky Cloud,Lagos,wasabi jalebi,chaotic,neon orange,753,10.3,16,11.92,94,yes,22,1552189079,wins at rock-paper-scissors,75.8743,-75.9483
+289,Sleepy Keyboard,Jazz Moth,Tokyo,cold biryani,suspicious,teal,-537,12.2,7,25.53,89,yes,26,1534318622,smells rain early,29.2222,81.2781
+290,Fluffy Banana,Philosopher Crab,Mumbai,plain air,smug,mauve,3120,2.7,5,47.95,35,yes,28,1634376373,wins at rock-paper-scissors,66.8336,134.3049
+291,Sleepy Walrus,Disco Walrus,Pune,pickled mango,sleepy,lime,-494,11.8,14,4.38,23,no,13,1584511222,talks to pigeons,80.319,-23.3305
+292,Fluffy Pigeon,Philosopher Crab,Gotham,chocolate samosa,suspicious,invisible,3971,8.1,10,15.06,62,no,23,1771916628,never loses socks,63.848,-50.7776
+293,Grumpy Cactus,Jazz Moth,Narnia,vada pav ice cream,confused,ultraviolet,2188,6.9,6,22.0,45,barely,17,1707653170,never loses socks,46.4125,6.7673
+294,Melodic Pigeon,Ninja Potato,Atlantis,cold biryani,ecstatic,maroon,7492,3.4,3,145.89,34,yes,20,1626563839,hears colors,12.169,36.1068
+295,Spicy Meteor,Haunted Toaster,Narnia,plain air,nostalgic,neon orange,526,1.7,14,70.97,95,yes,16,1785284932,instant nap,-74.0867,-160.3221
+296,Grumpy Satellite,Space Goat,Mumbai,chocolate samosa,hangry,beige,3131,5.9,14,4.37,91,barely,26,1405620495,never loses socks,-46.5177,-75.4632
+297,Melodic Banana,Jazz Moth,Lagos,spicy oat milk,ecstatic,mauve,1975,5.1,1,119.78,25,yes,23,1458738366,talks to pigeons,-26.9656,-102.8419
+298,Wobbly Cactus,Disco Walrus,Atlantis,blue cheese chai,hangry,lime,987,13.9,12,19.11,41,barely,7,1721768873,instant nap,-37.4685,44.9415
+299,Sleepy Meteor,Jazz Moth,Narnia,lemon noodles,ecstatic,ultraviolet,3610,13.2,12,7.02,63,yes,22,1537727712,talks to pigeons,-18.3884,36.8814
+300,Grumpy Pigeon,Space Goat,Reykjavik,pickled mango,smug,neon orange,5641,13.0,8,21.46,57,barely,4,1462426859,instant nap,-39.0339,-40.2192
+301,Grumpy Walrus,Philosopher Crab,Tokyo,burnt toast,nostalgic,ultraviolet,8142,5.0,3,8.71,44,no,23,1558984513,never loses socks,17.8915,-167.4236
+302,Spicy Cactus,Space Goat,Mars Colony 3,plain air,hangry,mauve,8421,10.3,15,42.2,18,yes,20,1599918795,talks to pigeons,72.4049,136.2461
+303,Fluffy Pigeon,Lazy Octopus,Reykjavik,pickled mango,hangry,neon orange,8402,13.7,17,11.69,2,no,28,1424145792,always finds charger,-53.1681,-50.5463
+304,Crunchy Cactus,Turbo Snail,Gotham,wasabi jalebi,chaotic,invisible,7940,2.3,13,73.04,14,no,27,1425208621,instant nap,18.152,-179.5994
+305,Grumpy Cactus,Ninja Potato,Tokyo,vada pav ice cream,zen,beige,8338,5.4,12,3.76,33,barely,7,1753033916,always finds charger,-15.3744,163.7863
+306,Sleepy Sandwich,Ninja Potato,Reykjavik,burnt toast,chaotic,mauve,5902,5.9,11,13.23,82,no,12,1732606494,instant nap,75.1956,-141.5569
+307,Sleepy Sandwich,Haunted Toaster,Mumbai,spicy oat milk,nostalgic,beige,9985,0.9,1,33.27,19,no,19,1583090385,instant nap,-22.1426,-12.707
+308,Melodic Walrus,Quantum Pigeon,Narnia,chocolate samosa,smug,neon orange,3803,10.3,2,47.83,40,barely,36,1414370708,talks to pigeons,-76.1923,47.9665
+309,Grumpy Teapot,Disco Walrus,Atlantis,blue cheese chai,chaotic,maroon,5758,9.1,1,22.85,54,yes,26,1468116226,hears colors,2.9023,10.6329
+310,Melodic Walrus,Lazy Octopus,Kalyan,lemon noodles,zen,mauve,2078,10.2,8,18.33,44,barely,33,1673824234,perfect parallel parking,65.6583,-119.0471
+311,Melodic Banana,Cosmic Llama,Narnia,wasabi jalebi,smug,neon orange,2537,3.3,5,25.99,45,barely,38,1501692642,hears colors,-75.8632,-29.6862
+312,Spicy Pigeon,Lazy Octopus,Lima,vada pav ice cream,confused,neon orange,8210,10.3,14,39.24,95,barely,37,1486227531,never loses socks,-68.2106,-94.2059
+313,Mysterious Keyboard,Quantum Pigeon,Pune,spicy oat milk,ecstatic,invisible,4935,0.7,0,119.31,25,yes,22,1777920484,never loses socks,64.8984,118.1616
+314,Grumpy Meteor,Sad Dragon,Lima,cold biryani,zen,teal,2433,7.3,3,37.25,85,yes,0,1591807541,instant nap,21.836,52.8487
+315,Wobbly Keyboard,Jazz Moth,Reykjavik,pickled mango,sleepy,maroon,6993,3.2,2,22.66,33,barely,37,1573540282,instant nap,-33.3576,113.5654
+316,Wobbly Pigeon,Sneaky Cloud,Lima,blue cheese chai,chaotic,ultraviolet,7992,1.4,0,31.4,79,barely,17,1698985043,instant nap,-76.9848,124.8201
+317,Melodic Pigeon,Turbo Snail,Pune,burnt toast,chaotic,lime,7339,0.2,10,25.12,31,yes,42,1429866126,always finds charger,30.7731,141.1005
+318,Rusty Umbrella,Quantum Pigeon,Mumbai,chocolate samosa,sleepy,burnt sienna,7831,9.1,14,86.52,42,yes,35,1406924285,talks to pigeons,-43.0171,-33.8463
+319,Spicy Keyboard,Space Goat,Tokyo,wasabi jalebi,nostalgic,burnt sienna,5483,12.4,8,2.06,64,yes,19,1497024406,instant nap,22.6998,-25.6626
+320,Wobbly Sandwich,Ninja Potato,Lima,wasabi jalebi,hangry,lime,488,4.5,1,20.36,92,no,16,1679849845,instant nap,61.9932,-178.9187
+321,Crunchy Pigeon,Ninja Potato,Lima,wasabi jalebi,existential,mauve,6404,3.4,16,9.81,82,barely,25,1691822176,hears colors,-75.6083,175.1882
+322,Crunchy Walrus,Sad Dragon,Mumbai,vada pav ice cream,chaotic,neon orange,1515,13.6,2,6.56,31,no,38,1425270008,perfect parallel parking,41.9407,112.912
+323,Fluffy Sandwich,Jazz Moth,Lagos,pickled mango,sleepy,ultraviolet,3315,6.6,4,25.92,45,no,4,1470067330,instant nap,67.2421,-108.5328
+324,Grumpy Umbrella,Lazy Octopus,Lagos,chocolate samosa,suspicious,ultraviolet,8305,11.6,3,9.14,81,no,24,1705407104,talks to pigeons,85.3715,143.1855
+325,Spicy Sandwich,Lazy Octopus,Kalyan,plain air,hangry,neon orange,468,2.6,3,8.41,37,no,9,1780741208,smells rain early,36.2436,-73.1438
+326,Sleepy Pigeon,Turbo Snail,Narnia,vada pav ice cream,zen,neon orange,5428,4.3,11,32.12,4,barely,0,1655657071,perfect parallel parking,88.3707,143.0516
+327,Spicy Umbrella,Haunted Toaster,Lima,plain air,sleepy,lime,4765,11.9,11,14.15,86,yes,37,1441913702,never loses socks,-31.5507,45.3405
+328,Sleepy Walrus,Disco Walrus,Kalyan,spicy oat milk,confused,ultraviolet,-673,6.0,9,23.59,42,barely,30,1603249861,hears colors,-8.3699,173.469
+329,Sleepy Cactus,Turbo Snail,Reykjavik,blue cheese chai,hangry,ultraviolet,3294,8.9,16,38.7,59,no,21,1715465593,hears colors,70.9103,55.0814
+330,Mysterious Meteor,Ninja Potato,Gotham,lemon noodles,hangry,invisible,-882,9.6,9,44.65,33,no,42,1758595034,instant nap,-25.4324,-76.9784
+331,Mysterious Banana,Philosopher Crab,Reykjavik,wasabi jalebi,ecstatic,ultraviolet,6202,1.8,13,8.79,68,yes,10,1623673670,smells rain early,43.6499,-96.3697
+332,Crunchy Satellite,Jazz Moth,Lima,vada pav ice cream,confused,beige,2403,8.8,7,9.03,7,no,27,1481846785,hears colors,-64.2284,7.535
+333,Spicy Walrus,Jazz Moth,Tokyo,cold biryani,nostalgic,ultraviolet,6435,12.3,5,3.25,8,barely,35,1478679159,talks to pigeons,-88.2905,-74.9237
+334,Mysterious Sandwich,Lazy Octopus,Kalyan,plain air,suspicious,maroon,402,1.5,15,13.75,13,yes,5,1472595641,wins at rock-paper-scissors,-15.7454,-175.2536
+335,Sleepy Pigeon,Jazz Moth,Tokyo,spicy oat milk,suspicious,lime,-237,4.3,2,65.13,75,barely,10,1552621143,wins at rock-paper-scissors,-36.6299,125.1929
+336,Melodic Pigeon,Quantum Pigeon,Atlantis,pickled mango,existential,lime,1439,10.2,15,56.79,18,yes,10,1679345749,talks to pigeons,19.0701,86.2163
+337,Wobbly Pigeon,Disco Walrus,Pune,plain air,nostalgic,mauve,7961,14.0,17,29.1,36,barely,2,1477074828,wins at rock-paper-scissors,-57.6832,42.222
+338,Melodic Cactus,Sneaky Cloud,Atlantis,chocolate samosa,nostalgic,ultraviolet,8239,7.6,0,51.53,68,barely,21,1779591894,smells rain early,67.899,-0.0743
+339,Wobbly Teapot,Disco Walrus,Gotham,lemon noodles,sleepy,ultraviolet,5229,9.4,4,48.09,63,no,28,1436520590,never loses socks,24.9612,35.5696
+340,Wobbly Walrus,Philosopher Crab,Atlantis,vada pav ice cream,confused,invisible,6885,11.2,0,40.84,28,barely,20,1686932675,hears colors,-16.8549,-110.3106
+341,Mysterious Banana,Philosopher Crab,Lagos,burnt toast,suspicious,lime,-789,13.1,5,19.39,55,yes,15,1476475275,never loses socks,-76.4151,148.4415
+342,Sparkly Meteor,Cosmic Llama,Narnia,plain air,suspicious,mauve,5495,5.7,3,12.12,74,barely,27,1440530418,perfect parallel parking,-4.5658,-67.5348
+343,Sparkly Cactus,Space Goat,Narnia,spicy oat milk,nostalgic,ultraviolet,117,8.4,9,19.78,88,no,42,1448410277,wins at rock-paper-scissors,-47.5776,51.0655
+344,Grumpy Meteor,Space Goat,Thane,spicy oat milk,sleepy,invisible,6730,6.3,0,9.38,93,barely,27,1609531313,wins at rock-paper-scissors,-75.6501,46.5672
+345,Grumpy Satellite,Jazz Moth,Tokyo,pickled mango,confused,burnt sienna,9852,13.6,11,9.18,47,barely,21,1629189147,always finds charger,75.0849,57.4481
+346,Fluffy Meteor,Sad Dragon,Thane,cold biryani,zen,lime,9038,8.1,3,13.56,89,yes,38,1569004494,hears colors,23.8188,83.7045
+347,Wobbly Umbrella,Jazz Moth,Atlantis,vada pav ice cream,zen,maroon,3568,8.5,13,15.83,82,yes,34,1442857174,never loses socks,56.5773,21.8729
+348,Wobbly Meteor,Disco Walrus,Mumbai,wasabi jalebi,confused,burnt sienna,3565,5.5,17,83.98,46,barely,31,1666211961,hears colors,-52.0268,127.7638
+349,Wobbly Sandwich,Cosmic Llama,Atlantis,blue cheese chai,existential,invisible,9297,4.2,5,19.83,56,no,14,1772739481,perfect parallel parking,-71.6584,-59.9998
+350,Fluffy Walrus,Quantum Pigeon,Lima,spicy oat milk,smug,lime,1015,6.8,1,9.64,22,barely,2,1747184835,perfect parallel parking,-61.3402,66.0597
+351,Spicy Walrus,Sad Dragon,Narnia,cold biryani,confused,ultraviolet,5707,2.7,11,62.56,8,yes,35,1562631644,wins at rock-paper-scissors,-7.7117,-116.1576
+352,Wobbly Walrus,Cosmic Llama,Kalyan,pickled mango,existential,glitter,7076,8.2,6,193.5,21,no,9,1508554490,instant nap,-7.6599,105.0406
+353,Fluffy Keyboard,Sneaky Cloud,Tokyo,cold biryani,suspicious,neon orange,1844,10.1,4,40.36,61,barely,18,1656806446,always finds charger,-62.3408,-26.2578
+354,Melodic Keyboard,Jazz Moth,Mumbai,wasabi jalebi,existential,invisible,6043,5.6,12,11.53,26,yes,14,1565211501,smells rain early,67.7212,157.4481
+355,Wobbly Meteor,Quantum Pigeon,Pune,pickled mango,confused,mauve,847,8.5,13,23.2,96,no,26,1679418213,smells rain early,-14.2335,-42.7556
+356,Crunchy Pigeon,Philosopher Crab,Lagos,plain air,existential,maroon,3839,2.4,12,19.4,47,yes,9,1400515934,perfect parallel parking,-79.1871,-83.3745
+357,Melodic Walrus,Sad Dragon,Atlantis,chocolate samosa,nostalgic,maroon,2279,4.1,12,31.73,98,yes,26,1698345765,always finds charger,-6.5808,-22.288
+358,Melodic Walrus,Jazz Moth,Kalyan,cold biryani,suspicious,invisible,8069,3.5,3,16.5,45,no,37,1426578729,wins at rock-paper-scissors,-9.8657,78.0548
+359,Crunchy Pigeon,Ninja Potato,Lima,wasabi jalebi,ecstatic,teal,8615,12.3,11,216.68,86,yes,16,1657069273,always finds charger,68.0999,1.9925
+360,Crunchy Banana,Lazy Octopus,Lima,plain air,nostalgic,maroon,9247,6.1,0,59.06,100,no,23,1665553676,never loses socks,86.2801,-53.0094
+361,Sleepy Teapot,Quantum Pigeon,Narnia,vada pav ice cream,hangry,invisible,-22,11.1,12,67.4,71,yes,13,1536612537,hears colors,56.4159,-66.6907
+362,Sleepy Meteor,Cosmic Llama,Mumbai,cold biryani,nostalgic,lime,6216,7.4,2,80.02,8,no,29,1501194329,wins at rock-paper-scissors,81.5609,-9.9073
+363,Grumpy Teapot,Lazy Octopus,Gotham,plain air,smug,glitter,1261,7.5,5,12.52,22,no,1,1403989346,always finds charger,-85.3336,43.2592
+364,Melodic Umbrella,Jazz Moth,Narnia,plain air,smug,beige,291,10.1,15,3.35,96,yes,32,1583807568,never loses socks,-55.469,113.9446
+365,Mysterious Banana,Jazz Moth,Lagos,wasabi jalebi,ecstatic,glitter,6434,2.8,13,11.02,84,barely,17,1562039827,smells rain early,3.7908,-178.0346
+366,Wobbly Satellite,Sneaky Cloud,Mars Colony 3,spicy oat milk,smug,invisible,1801,7.5,4,27.9,84,barely,9,1684254303,wins at rock-paper-scissors,-48.7823,150.1222
+367,Mysterious Banana,Quantum Pigeon,Thane,lemon noodles,existential,burnt sienna,8535,8.6,16,20.66,78,yes,22,1774954380,talks to pigeons,45.5665,-23.8588
+368,Crunchy Keyboard,Space Goat,Gotham,wasabi jalebi,suspicious,beige,7519,9.1,9,3.25,95,no,10,1657680554,instant nap,-21.6694,37.1289
+369,Rusty Satellite,Haunted Toaster,Narnia,vada pav ice cream,chaotic,invisible,9574,10.9,0,10.27,84,barely,30,1676316503,perfect parallel parking,-69.9689,-163.0162
+370,Sparkly Teapot,Sad Dragon,Atlantis,chocolate samosa,smug,ultraviolet,5940,6.2,15,15.72,73,barely,1,1403248949,hears colors,-25.8816,-163.2924
+371,Crunchy Teapot,Sad Dragon,Narnia,lemon noodles,hangry,mauve,-464,1.4,4,57.96,26,barely,22,1525235530,wins at rock-paper-scissors,6.9118,158.3373
+372,Wobbly Pigeon,Cosmic Llama,Reykjavik,vada pav ice cream,nostalgic,lime,8303,7.5,12,79.06,37,no,14,1737940326,talks to pigeons,-1.158,-44.894
+373,Spicy Satellite,Disco Walrus,Narnia,cold biryani,nostalgic,beige,2231,7.1,7,27.82,17,barely,14,1743003609,hears colors,82.5798,63.8366
+374,Rusty Satellite,Sad Dragon,Narnia,blue cheese chai,sleepy,beige,3061,0.1,16,3.67,29,yes,13,1552655444,never loses socks,-42.4048,148.4595
+375,Fluffy Satellite,Space Goat,Mumbai,burnt toast,ecstatic,beige,2706,1.0,10,25.14,43,barely,37,1429750861,perfect parallel parking,-82.5445,12.1746
+376,Fluffy Umbrella,Space Goat,Kalyan,cold biryani,nostalgic,maroon,8933,10.7,9,1.41,59,no,27,1606552905,always finds charger,35.6565,-66.5045
+377,Sleepy Pigeon,Philosopher Crab,Kalyan,wasabi jalebi,chaotic,lime,-341,8.5,0,43.16,25,barely,11,1707803190,wins at rock-paper-scissors,31.6799,25.8535
+378,Spicy Sandwich,Sneaky Cloud,Narnia,vada pav ice cream,smug,mauve,9082,5.1,0,44.54,8,yes,10,1642880918,never loses socks,19.5752,129.0761
+379,Grumpy Meteor,Quantum Pigeon,Mars Colony 3,burnt toast,chaotic,neon orange,6003,4.8,9,15.0,23,no,7,1558201096,never loses socks,1.8487,66.6768
+380,Sparkly Banana,Haunted Toaster,Atlantis,wasabi jalebi,suspicious,ultraviolet,6980,4.8,11,4.01,1,barely,22,1511937317,never loses socks,65.154,-73.8861
+381,Sparkly Banana,Lazy Octopus,Narnia,burnt toast,sleepy,mauve,4528,11.1,16,4.76,9,no,28,1673593523,always finds charger,-33.2417,16.8364
+382,Rusty Satellite,Jazz Moth,Lima,lemon noodles,zen,glitter,2759,8.0,9,17.7,22,no,5,1487733965,always finds charger,85.0663,-61.7498
+383,Wobbly Sandwich,Philosopher Crab,Kalyan,blue cheese chai,ecstatic,lime,4622,5.6,3,17.98,79,no,37,1680401662,talks to pigeons,-76.8764,178.8551
+384,Rusty Satellite,Philosopher Crab,Atlantis,lemon noodles,sleepy,mauve,7809,4.1,14,11.74,80,no,7,1461250332,always finds charger,-68.4097,19.7971
+385,Sleepy Sandwich,Jazz Moth,Atlantis,wasabi jalebi,smug,ultraviolet,4742,0.8,9,6.95,33,no,14,1576115562,instant nap,29.6315,178.7621
+386,Rusty Satellite,Cosmic Llama,Lima,pickled mango,suspicious,mauve,2695,12.2,16,22.41,78,no,24,1522890732,always finds charger,66.6192,-154.6317
+387,Spicy Pigeon,Haunted Toaster,Lagos,vada pav ice cream,hangry,burnt sienna,584,7.9,5,5.82,49,yes,28,1446850346,hears colors,4.5398,-39.4739
+388,Spicy Cactus,Sad Dragon,Narnia,vada pav ice cream,sleepy,lime,8475,2.1,3,10.18,74,barely,12,1410246661,never loses socks,-15.0383,58.6448
+389,Sparkly Sandwich,Sad Dragon,Mars Colony 3,pickled mango,smug,neon orange,7287,8.4,9,56.58,37,barely,1,1427059353,hears colors,-46.8031,127.8257
+390,Sleepy Satellite,Ninja Potato,Kalyan,chocolate samosa,existential,mauve,4973,12.7,10,24.92,6,barely,36,1747687361,hears colors,44.6627,169.8295
+391,Sparkly Sandwich,Lazy Octopus,Lagos,pickled mango,suspicious,mauve,3397,4.2,14,49.95,33,barely,25,1744560385,talks to pigeons,8.3547,-72.6847
+392,Melodic Walrus,Sneaky Cloud,Gotham,spicy oat milk,confused,invisible,9833,4.4,11,86.1,9,yes,32,1726320993,always finds charger,-54.8868,-128.4182
+393,Melodic Banana,Sad Dragon,Kalyan,pickled mango,chaotic,ultraviolet,-638,1.3,5,3.67,75,barely,10,1489136855,instant nap,81.8606,133.8051
+394,Rusty Keyboard,Ninja Potato,Lagos,chocolate samosa,zen,beige,1737,7.3,9,17.84,15,barely,28,1564325612,instant nap,17.3323,-19.9104
+395,Sparkly Satellite,Disco Walrus,Lagos,vada pav ice cream,existential,lime,7786,0.5,7,137.83,26,barely,27,1520294562,hears colors,12.6937,-161.9728
+396,Sleepy Satellite,Turbo Snail,Gotham,blue cheese chai,hangry,mauve,39,12.7,1,36.21,50,yes,19,1571240531,hears colors,-21.0839,48.0974
+397,Crunchy Pigeon,Sad Dragon,Reykjavik,cold biryani,suspicious,burnt sienna,9977,12.7,8,16.42,18,yes,0,1616377759,hears colors,78.4631,-15.2215
+398,Fluffy Sandwich,Philosopher Crab,Tokyo,pickled mango,hangry,mauve,8707,7.2,12,10.49,49,barely,39,1700248375,always finds charger,-54.6488,25.0059
+399,Sleepy Cactus,Sneaky Cloud,Reykjavik,pickled mango,hangry,invisible,7306,0.8,9,36.74,98,no,38,1639170898,wins at rock-paper-scissors,-36.3207,22.6307
+400,Sleepy Meteor,Lazy Octopus,Atlantis,lemon noodles,smug,burnt sienna,5185,3.5,3,10.91,36,yes,7,1545891468,perfect parallel parking,-83.2369,-151.6921
+401,Fluffy Cactus,Quantum Pigeon,Gotham,wasabi jalebi,sleepy,beige,-596,3.3,7,16.67,91,yes,21,1548714188,smells rain early,-35.9409,-34.7449
+402,Fluffy Keyboard,Philosopher Crab,Tokyo,vada pav ice cream,ecstatic,invisible,3647,11.2,12,26.12,72,no,1,1559946671,always finds charger,-54.3368,79.2628
+403,Grumpy Meteor,Cosmic Llama,Reykjavik,plain air,zen,lime,7167,9.6,8,14.42,72,no,38,1560411046,perfect parallel parking,48.0816,-69.6999
+404,Mysterious Keyboard,Jazz Moth,Narnia,vada pav ice cream,nostalgic,maroon,5228,4.3,9,32.63,85,yes,32,1684572634,talks to pigeons,50.7885,-121.0055
+405,Rusty Walrus,Turbo Snail,Thane,plain air,sleepy,ultraviolet,8407,12.5,11,47.38,52,barely,20,1500768547,hears colors,29.0998,61.3278
+406,Grumpy Umbrella,Space Goat,Kalyan,pickled mango,suspicious,teal,1770,5.1,6,11.22,87,barely,24,1714746610,never loses socks,65.5429,-64.1817
+407,Spicy Umbrella,Ninja Potato,Mars Colony 3,lemon noodles,existential,glitter,164,11.3,16,7.48,38,no,34,1477261778,never loses socks,-41.596,91.7149
+408,Mysterious Sandwich,Turbo Snail,Atlantis,wasabi jalebi,ecstatic,invisible,1826,11.3,13,61.19,75,no,2,1521705080,hears colors,-6.5429,40.0078
+409,Grumpy Meteor,Space Goat,Lagos,spicy oat milk,existential,glitter,-664,7.3,15,3.76,72,barely,23,1726161410,instant nap,-57.5532,175.5645
+410,Spicy Satellite,Philosopher Crab,Lima,vada pav ice cream,existential,beige,252,1.3,12,26.94,72,no,18,1564874481,always finds charger,73.4775,-162.5156
+411,Fluffy Satellite,Turbo Snail,Gotham,vada pav ice cream,smug,lime,6329,14.0,6,11.63,58,yes,10,1674619452,hears colors,-49.3482,-88.8036
+412,Mysterious Meteor,Disco Walrus,Atlantis,chocolate samosa,confused,neon orange,8091,5.1,9,26.24,99,yes,2,1621845494,always finds charger,50.5026,-129.458
+413,Spicy Keyboard,Haunted Toaster,Narnia,spicy oat milk,existential,mauve,4334,8.0,3,8.4,80,no,10,1717777291,perfect parallel parking,71.4334,13.741
+414,Fluffy Cactus,Jazz Moth,Lima,chocolate samosa,ecstatic,lime,6531,12.7,9,31.7,96,barely,23,1483325028,hears colors,77.4246,-34.1272
+415,Sparkly Satellite,Quantum Pigeon,Thane,pickled mango,sleepy,invisible,8186,1.5,13,8.45,99,no,20,1723128989,talks to pigeons,70.0279,42.0356
+416,Crunchy Pigeon,Lazy Octopus,Kalyan,cold biryani,suspicious,beige,-587,5.1,10,13.1,60,yes,42,1558384146,wins at rock-paper-scissors,31.2911,-157.5519
+417,Fluffy Umbrella,Sneaky Cloud,Pune,vada pav ice cream,chaotic,invisible,3994,13.0,13,6.08,9,barely,35,1487726627,wins at rock-paper-scissors,-51.5564,71.624
+418,Sleepy Teapot,Ninja Potato,Tokyo,spicy oat milk,nostalgic,lime,3036,1.1,3,8.88,38,barely,13,1622315658,wins at rock-paper-scissors,28.2024,-75.938
+419,Sleepy Walrus,Lazy Octopus,Mars Colony 3,lemon noodles,sleepy,mauve,9601,12.3,5,7.67,75,no,33,1726947294,smells rain early,-28.4558,-10.0524
+420,Crunchy Satellite,Lazy Octopus,Tokyo,lemon noodles,chaotic,lime,2989,9.8,5,13.34,69,no,33,1453592014,wins at rock-paper-scissors,26.3561,-78.4061
+421,Wobbly Umbrella,Cosmic Llama,Kalyan,chocolate samosa,smug,burnt sienna,5036,9.6,17,19.11,49,no,9,1733334644,perfect parallel parking,49.6385,-34.9545
+422,Sleepy Keyboard,Quantum Pigeon,Thane,cold biryani,sleepy,lime,7228,8.4,17,7.94,14,barely,28,1760314081,never loses socks,15.3665,-29.0563
+423,Rusty Meteor,Haunted Toaster,Thane,vada pav ice cream,zen,beige,7800,6.4,3,38.86,34,barely,39,1450274774,always finds charger,-47.6676,-172.723
+424,Rusty Satellite,Turbo Snail,Kalyan,plain air,ecstatic,teal,6888,4.8,5,25.08,9,barely,4,1631076657,talks to pigeons,63.9991,27.3471
+425,Sparkly Keyboard,Sneaky Cloud,Mumbai,lemon noodles,sleepy,invisible,5380,6.8,14,11.54,45,no,7,1676806555,instant nap,-72.7584,28.4085
+426,Melodic Satellite,Sneaky Cloud,Pune,blue cheese chai,suspicious,mauve,8209,1.6,2,23.29,50,yes,26,1780764023,never loses socks,-19.1368,-99.2366
+427,Spicy Pigeon,Philosopher Crab,Mumbai,blue cheese chai,confused,mauve,6778,13.5,8,24.53,65,yes,7,1522919725,talks to pigeons,-11.7381,-102.2567
+428,Melodic Meteor,Philosopher Crab,Gotham,wasabi jalebi,confused,lime,7940,12.4,12,28.67,42,no,37,1526562663,instant nap,-50.8032,-27.7121
+429,Melodic Satellite,Philosopher Crab,Lima,chocolate samosa,existential,glitter,8705,12.0,6,27.93,27,barely,5,1416127056,talks to pigeons,-26.1132,-66.411
+430,Spicy Meteor,Haunted Toaster,Mumbai,vada pav ice cream,zen,beige,593,9.0,13,12.46,92,no,27,1586282546,hears colors,-49.794,71.645
+431,Wobbly Umbrella,Space Goat,Tokyo,lemon noodles,nostalgic,mauve,-315,8.9,9,3.82,21,barely,35,1756302345,hears colors,-79.2716,44.975
+432,Sleepy Satellite,Turbo Snail,Tokyo,chocolate samosa,ecstatic,mauve,3556,1.5,2,25.7,80,yes,16,1535679370,smells rain early,8.4654,-127.2758
+433,Rusty Cactus,Ninja Potato,Atlantis,blue cheese chai,sleepy,mauve,5209,5.4,16,27.94,12,no,20,1620500228,wins at rock-paper-scissors,-38.8076,6.7654
+434,Sparkly Pigeon,Disco Walrus,Mars Colony 3,chocolate samosa,existential,invisible,5267,10.0,11,23.82,87,no,7,1601523229,instant nap,85.9186,42.8481
+435,Fluffy Pigeon,Sad Dragon,Tokyo,wasabi jalebi,suspicious,beige,2881,8.6,15,24.18,30,yes,19,1439214813,hears colors,88.2616,2.9598
+436,Spicy Cactus,Sneaky Cloud,Thane,blue cheese chai,sleepy,maroon,7944,0.1,11,8.27,6,barely,0,1474478769,wins at rock-paper-scissors,-46.067,-79.2877
+437,Crunchy Satellite,Quantum Pigeon,Gotham,pickled mango,zen,glitter,1900,8.3,7,3.17,92,barely,10,1477105157,talks to pigeons,-27.4208,84.0947
+438,Melodic Satellite,Turbo Snail,Kalyan,vada pav ice cream,smug,invisible,8889,1.4,11,1.69,1,no,29,1594159528,hears colors,75.7921,-81.8609
+439,Spicy Banana,Sad Dragon,Thane,lemon noodles,sleepy,ultraviolet,-929,10.6,10,102.26,63,no,24,1660465339,perfect parallel parking,-81.0166,-59.495
+440,Spicy Meteor,Disco Walrus,Lagos,burnt toast,existential,invisible,8400,10.1,0,34.89,29,no,35,1735513777,wins at rock-paper-scissors,-63.2621,122.4631
+441,Mysterious Satellite,Philosopher Crab,Lagos,vada pav ice cream,suspicious,maroon,6596,2.9,5,7.7,41,barely,27,1544298703,wins at rock-paper-scissors,5.7503,-35.3833
+442,Wobbly Sandwich,Disco Walrus,Tokyo,vada pav ice cream,sleepy,invisible,6348,1.5,1,9.14,85,barely,29,1663951606,always finds charger,89.7532,-47.0146
+443,Melodic Sandwich,Cosmic Llama,Mumbai,plain air,ecstatic,mauve,8473,8.8,1,16.98,91,no,21,1686568439,wins at rock-paper-scissors,-10.7701,132.1241
+444,Spicy Meteor,Haunted Toaster,Reykjavik,wasabi jalebi,existential,invisible,1367,0.7,6,59.71,90,barely,31,1633580162,never loses socks,56.9899,-92.8835
+445,Mysterious Walrus,Lazy Octopus,Pune,blue cheese chai,zen,neon orange,180,4.7,11,59.1,99,yes,24,1696497512,smells rain early,22.9054,-166.9799
+446,Crunchy Satellite,Philosopher Crab,Mars Colony 3,burnt toast,suspicious,burnt sienna,6133,10.1,3,21.57,30,yes,9,1415932916,never loses socks,-27.9307,-78.1447
+447,Mysterious Teapot,Philosopher Crab,Mumbai,pickled mango,sleepy,maroon,-228,11.4,8,4.55,80,barely,36,1511176725,talks to pigeons,-11.6936,1.4012
+448,Sparkly Sandwich,Haunted Toaster,Gotham,blue cheese chai,hangry,teal,3876,12.5,9,13.89,10,yes,30,1668132922,wins at rock-paper-scissors,64.2021,5.5949
+449,Melodic Umbrella,Sad Dragon,Atlantis,burnt toast,existential,invisible,4478,12.0,0,68.46,94,barely,17,1703409975,wins at rock-paper-scissors,-73.1691,21.3848
+450,Spicy Banana,Space Goat,Mumbai,lemon noodles,suspicious,maroon,3697,8.4,8,9.33,100,barely,9,1608447493,wins at rock-paper-scissors,67.8703,54.8549
+451,Spicy Pigeon,Space Goat,Atlantis,pickled mango,nostalgic,teal,5532,5.2,9,12.64,84,barely,4,1446750998,never loses socks,17.558,-137.7121
+452,Spicy Meteor,Philosopher Crab,Gotham,pickled mango,zen,glitter,3844,0.5,8,61.37,85,barely,10,1685512384,smells rain early,-89.7077,-118.7579
+453,Wobbly Umbrella,Lazy Octopus,Mars Colony 3,burnt toast,hangry,ultraviolet,6651,0.5,13,47.92,70,no,22,1441538528,hears colors,72.5028,-152.0834
+454,Sparkly Meteor,Space Goat,Narnia,lemon noodles,hangry,teal,1693,7.0,1,74.76,7,barely,7,1759305312,instant nap,-68.1757,-161.844
+455,Spicy Pigeon,Philosopher Crab,Pune,cold biryani,existential,maroon,1774,6.5,6,10.48,41,yes,13,1718719338,always finds charger,88.8015,-88.5068
+456,Spicy Umbrella,Jazz Moth,Mumbai,vada pav ice cream,confused,glitter,9039,11.8,3,8.81,47,no,36,1741283736,smells rain early,78.9628,144.5303
+457,Spicy Teapot,Lazy Octopus,Kalyan,blue cheese chai,suspicious,invisible,7158,5.0,0,6.17,44,yes,13,1560359719,smells rain early,26.852,-172.7815
+458,Melodic Umbrella,Sneaky Cloud,Kalyan,burnt toast,chaotic,mauve,2945,1.7,7,60.66,88,no,31,1782434321,talks to pigeons,9.4605,122.0666
+459,Melodic Walrus,Lazy Octopus,Thane,plain air,existential,burnt sienna,971,9.3,11,39.9,85,yes,31,1593484266,instant nap,28.4162,-131.2582
+460,Wobbly Satellite,Philosopher Crab,Mars Colony 3,chocolate samosa,sleepy,mauve,3816,0.8,2,32.83,88,barely,41,1727857162,hears colors,-74.7761,-111.2038
+461,Wobbly Banana,Ninja Potato,Reykjavik,wasabi jalebi,ecstatic,invisible,7784,12.5,8,10.88,3,no,6,1778396786,talks to pigeons,0.3989,86.9032
+462,Sparkly Satellite,Cosmic Llama,Lima,pickled mango,sleepy,maroon,-177,2.6,13,65.11,40,no,14,1528866875,always finds charger,-63.9893,35.8304
+463,Wobbly Sandwich,Turbo Snail,Reykjavik,blue cheese chai,hangry,invisible,2138,2.9,2,4.94,87,barely,20,1605634642,wins at rock-paper-scissors,66.5172,-22.9849
+464,Sleepy Meteor,Haunted Toaster,Kalyan,blue cheese chai,suspicious,invisible,2503,12.0,1,11.66,93,barely,29,1651734766,wins at rock-paper-scissors,14.0586,138.5711
+465,Crunchy Meteor,Jazz Moth,Pune,plain air,zen,lime,432,10.3,15,32.04,56,barely,11,1683866175,never loses socks,-9.5194,-146.5057
+466,Melodic Satellite,Lazy Octopus,Tokyo,pickled mango,zen,lime,-548,7.4,16,35.4,70,barely,19,1635785483,hears colors,74.4243,-162.5357
+467,Crunchy Keyboard,Cosmic Llama,Lagos,cold biryani,confused,maroon,9144,10.3,0,5.01,19,yes,24,1568265575,perfect parallel parking,83.4875,-96.8626
+468,Sleepy Cactus,Quantum Pigeon,Mars Colony 3,chocolate samosa,confused,lime,8905,2.0,4,17.39,10,yes,13,1727348351,instant nap,-86.7281,106.4695
+469,Melodic Banana,Sad Dragon,Mumbai,blue cheese chai,sleepy,teal,5161,8.9,12,9.06,57,no,19,1619766753,talks to pigeons,69.8523,-107.4011
+470,Spicy Pigeon,Disco Walrus,Pune,burnt toast,smug,lime,7631,9.3,7,19.64,89,no,1,1490281451,wins at rock-paper-scissors,67.2862,-88.7276
+471,Sparkly Pigeon,Philosopher Crab,Kalyan,pickled mango,smug,ultraviolet,3192,1.5,12,55.06,17,barely,35,1781954301,smells rain early,61.3718,99.7031
+472,Wobbly Umbrella,Turbo Snail,Tokyo,burnt toast,hangry,burnt sienna,329,13.8,15,36.59,35,no,41,1590670273,wins at rock-paper-scissors,-72.3405,-146.7698
+473,Grumpy Banana,Philosopher Crab,Mumbai,cold biryani,nostalgic,maroon,3325,4.5,16,8.41,79,yes,6,1444536004,hears colors,80.3819,-112.4133
+474,Rusty Umbrella,Jazz Moth,Mars Colony 3,cold biryani,existential,neon orange,3765,12.2,11,49.8,84,yes,16,1704601296,talks to pigeons,-27.399,82.836
+475,Spicy Sandwich,Haunted Toaster,Gotham,vada pav ice cream,zen,teal,4371,1.2,17,35.23,48,yes,23,1737961780,perfect parallel parking,47.3632,3.0515
+476,Grumpy Keyboard,Sad Dragon,Narnia,chocolate samosa,smug,burnt sienna,1615,7.6,14,45.31,71,yes,10,1602922170,always finds charger,27.0011,19.7886
+477,Wobbly Sandwich,Space Goat,Narnia,chocolate samosa,sleepy,burnt sienna,6110,11.3,4,4.91,34,no,38,1639905735,smells rain early,30.7006,113.0351
+478,Fluffy Walrus,Jazz Moth,Gotham,wasabi jalebi,existential,maroon,-903,0.5,8,47.11,2,no,32,1744348957,talks to pigeons,-14.0849,5.2741
+479,Grumpy Satellite,Turbo Snail,Thane,spicy oat milk,confused,ultraviolet,8610,8.7,10,7.18,1,no,11,1410041412,never loses socks,65.5744,94.4667
+480,Melodic Cactus,Philosopher Crab,Tokyo,chocolate samosa,sleepy,neon orange,977,2.5,7,2.85,68,barely,9,1466741763,always finds charger,38.5514,-33.9133
+481,Wobbly Umbrella,Lazy Octopus,Atlantis,chocolate samosa,hangry,beige,7942,1.6,1,3.37,95,yes,34,1404838640,smells rain early,8.2779,-93.3893
+482,Mysterious Walrus,Quantum Pigeon,Pune,lemon noodles,suspicious,invisible,5430,5.4,8,14.43,39,yes,41,1571146662,talks to pigeons,24.2437,-178.9838
+483,Rusty Umbrella,Quantum Pigeon,Mumbai,wasabi jalebi,nostalgic,invisible,-214,13.8,15,69.21,5,yes,11,1756476736,always finds charger,41.7082,-105.5875
+484,Grumpy Teapot,Haunted Toaster,Mars Colony 3,spicy oat milk,chaotic,maroon,9899,9.8,17,51.07,50,barely,31,1729637508,instant nap,-3.3765,-44.6645
+485,Melodic Satellite,Cosmic Llama,Lima,spicy oat milk,ecstatic,glitter,3463,8.6,6,30.15,66,no,24,1596705000,perfect parallel parking,64.6157,12.3408
+486,Spicy Cactus,Cosmic Llama,Lagos,lemon noodles,zen,lime,2705,10.4,3,16.38,21,yes,39,1613044059,smells rain early,64.2045,-39.3691
+487,Fluffy Keyboard,Lazy Octopus,Lagos,blue cheese chai,chaotic,mauve,3043,8.8,13,13.84,72,no,40,1593844845,perfect parallel parking,-45.3063,108.3975
+488,Sleepy Satellite,Space Goat,Mars Colony 3,burnt toast,sleepy,neon orange,9716,13.6,12,45.29,49,no,16,1632488858,hears colors,40.2727,161.1757
+489,Sparkly Satellite,Ninja Potato,Tokyo,chocolate samosa,smug,mauve,2220,5.6,13,10.53,23,barely,22,1778482885,wins at rock-paper-scissors,-3.4244,-40.4146
+490,Spicy Teapot,Disco Walrus,Kalyan,blue cheese chai,smug,ultraviolet,9150,9.9,5,41.63,7,yes,14,1699371204,perfect parallel parking,78.7676,-47.8476
+491,Fluffy Keyboard,Sad Dragon,Lima,spicy oat milk,ecstatic,beige,1512,10.5,17,61.87,54,no,12,1455844669,wins at rock-paper-scissors,-89.7627,-151.857
+492,Fluffy Sandwich,Turbo Snail,Kalyan,burnt toast,ecstatic,ultraviolet,9655,8.4,6,10.32,15,barely,33,1477141496,wins at rock-paper-scissors,-52.6896,2.663
+493,Grumpy Walrus,Cosmic Llama,Thane,cold biryani,sleepy,lime,2047,1.0,2,13.14,95,no,0,1685763226,smells rain early,-1.896,31.041
+494,Melodic Sandwich,Sneaky Cloud,Narnia,blue cheese chai,zen,ultraviolet,7590,1.1,7,47.98,56,barely,35,1564539509,never loses socks,-62.2021,47.5441
+495,Wobbly Keyboard,Disco Walrus,Narnia,lemon noodles,sleepy,teal,290,8.0,0,61.83,95,no,4,1674915248,always finds charger,89.3981,-145.8329
+496,Fluffy Teapot,Disco Walrus,Atlantis,plain air,existential,mauve,3665,11.6,7,29.1,100,yes,9,1589337695,never loses socks,39.2781,174.176
+497,Grumpy Umbrella,Disco Walrus,Mumbai,lemon noodles,existential,maroon,4170,7.2,12,1.9,98,barely,7,1547650393,instant nap,-33.8196,119.2772
+498,Sleepy Walrus,Jazz Moth,Tokyo,lemon noodles,existential,maroon,4645,11.6,10,35.05,100,no,40,1640537040,talks to pigeons,-13.2832,45.5158
+499,Wobbly Teapot,Disco Walrus,Mars Colony 3,blue cheese chai,hangry,neon orange,3171,0.6,14,12.02,60,barely,19,1698403520,smells rain early,-41.2529,-144.9635
+500,Wobbly Walrus,Space Goat,Pune,blue cheese chai,zen,burnt sienna,1148,6.3,15,74.4,69,yes,0,1741996465,talks to pigeons,76.8807,136.6556
+501,Mysterious Umbrella,Lazy Octopus,Reykjavik,pickled mango,hangry,invisible,4946,4.2,13,23.9,32,yes,3,1782733477,smells rain early,65.2541,23.5244
+502,Fluffy Pigeon,Sneaky Cloud,Thane,spicy oat milk,nostalgic,mauve,7068,11.3,7,6.85,81,yes,38,1625611522,smells rain early,-34.4644,-135.1041
+503,Wobbly Meteor,Turbo Snail,Gotham,vada pav ice cream,chaotic,lime,1579,11.4,14,6.02,27,yes,11,1709461690,perfect parallel parking,46.5168,-73.293
+504,Fluffy Sandwich,Haunted Toaster,Gotham,blue cheese chai,existential,glitter,8971,5.3,0,23.91,41,no,20,1761090413,hears colors,-3.8709,106.5526
+505,Melodic Teapot,Lazy Octopus,Lima,spicy oat milk,zen,lime,8562,13.2,10,18.42,60,yes,25,1533324709,perfect parallel parking,-20.3753,-29.3174
+506,Rusty Walrus,Turbo Snail,Atlantis,lemon noodles,hangry,neon orange,5014,13.5,1,19.43,9,barely,20,1408349978,perfect parallel parking,-3.2927,-133.7057
+507,Sleepy Banana,Space Goat,Kalyan,chocolate samosa,chaotic,lime,3868,11.9,9,4.52,46,no,21,1781840942,never loses socks,85.0176,146.1552
+508,Grumpy Pigeon,Haunted Toaster,Tokyo,blue cheese chai,confused,invisible,421,1.3,12,6.79,94,barely,32,1718462416,smells rain early,-13.3887,170.0894
+509,Spicy Meteor,Sneaky Cloud,Mumbai,vada pav ice cream,confused,ultraviolet,-545,0.9,16,30.88,1,yes,24,1758674228,always finds charger,79.0945,27.1398
+510,Rusty Cactus,Cosmic Llama,Atlantis,cold biryani,suspicious,lime,453,10.8,7,73.14,45,no,26,1519652747,always finds charger,62.249,22.9783
+511,Fluffy Meteor,Haunted Toaster,Lagos,burnt toast,confused,maroon,8489,10.1,13,12.13,80,barely,13,1626373055,talks to pigeons,40.0037,-56.8516
+512,Grumpy Teapot,Space Goat,Reykjavik,spicy oat milk,nostalgic,teal,2469,11.6,11,17.79,72,barely,33,1630437295,perfect parallel parking,-71.1621,-26.6245
+513,Wobbly Umbrella,Lazy Octopus,Atlantis,blue cheese chai,confused,glitter,1788,8.5,16,11.43,53,barely,22,1434930504,wins at rock-paper-scissors,-72.3576,-77.9751
+514,Melodic Meteor,Disco Walrus,Reykjavik,pickled mango,confused,burnt sienna,7119,1.7,10,22.17,76,no,26,1544175600,smells rain early,-14.0866,-18.028
+515,Sleepy Sandwich,Sneaky Cloud,Mumbai,blue cheese chai,suspicious,burnt sienna,708,4.5,0,28.19,93,no,38,1725882132,talks to pigeons,68.7713,131.0595
+516,Wobbly Umbrella,Disco Walrus,Gotham,plain air,chaotic,burnt sienna,9928,2.2,14,4.18,45,barely,28,1625068941,never loses socks,82.4311,164.0833
+517,Fluffy Umbrella,Disco Walrus,Gotham,cold biryani,sleepy,invisible,5727,9.3,8,115.07,79,no,1,1728000463,never loses socks,-8.0409,90.817
+518,Fluffy Banana,Sneaky Cloud,Reykjavik,chocolate samosa,confused,invisible,3963,11.6,3,49.45,20,barely,42,1449631334,hears colors,-31.0047,-169.6916
+519,Fluffy Sandwich,Sad Dragon,Pune,blue cheese chai,smug,ultraviolet,6737,7.0,17,26.91,79,no,37,1658136669,instant nap,18.0429,7.6344
+520,Rusty Walrus,Sad Dragon,Pune,pickled mango,hangry,ultraviolet,1784,8.5,17,8.82,22,no,30,1573074473,smells rain early,57.5939,-40.9528
+521,Spicy Keyboard,Space Goat,Kalyan,blue cheese chai,chaotic,lime,7385,5.5,10,9.77,4,barely,39,1711307061,wins at rock-paper-scissors,-20.6931,-15.6483
+522,Crunchy Umbrella,Turbo Snail,Mars Colony 3,spicy oat milk,existential,beige,2032,13.0,16,29.59,30,no,17,1729838124,always finds charger,45.1212,-99.0862
+523,Mysterious Cactus,Sad Dragon,Narnia,chocolate samosa,hangry,beige,1486,3.2,5,3.32,45,barely,25,1527258214,perfect parallel parking,-81.7371,-30.6631
+524,Rusty Pigeon,Sad Dragon,Tokyo,lemon noodles,existential,maroon,-813,3.3,8,55.62,95,barely,26,1572150435,perfect parallel parking,-42.7428,-168.4197
+525,Sparkly Umbrella,Sad Dragon,Thane,blue cheese chai,ecstatic,neon orange,2700,6.4,15,19.76,21,no,33,1438807109,smells rain early,-4.9237,-61.0628
+526,Mysterious Sandwich,Disco Walrus,Mumbai,pickled mango,smug,mauve,2575,5.5,8,294.13,38,barely,6,1764017628,always finds charger,48.7484,-175.8023
+527,Grumpy Walrus,Disco Walrus,Thane,lemon noodles,confused,glitter,8424,12.7,14,27.17,66,no,5,1615992043,instant nap,-38.637,-10.7548
+528,Rusty Keyboard,Cosmic Llama,Narnia,pickled mango,ecstatic,lime,8443,4.0,16,27.57,13,yes,9,1655954518,hears colors,-17.2036,57.2704
+529,Wobbly Keyboard,Philosopher Crab,Mars Colony 3,chocolate samosa,existential,invisible,7947,10.4,12,15.11,60,yes,15,1469334574,smells rain early,41.0388,137.7357
+530,Crunchy Sandwich,Sad Dragon,Tokyo,pickled mango,suspicious,maroon,6494,9.1,9,23.66,24,yes,24,1780878950,perfect parallel parking,-69.2661,36.7468
+531,Wobbly Umbrella,Cosmic Llama,Pune,spicy oat milk,existential,invisible,2204,10.6,10,31.7,28,yes,36,1682887757,smells rain early,-4.921,-55.4072
+532,Grumpy Keyboard,Philosopher Crab,Mumbai,plain air,smug,maroon,9363,2.4,4,54.6,96,barely,12,1658514687,hears colors,-86.4579,42.0707
+533,Fluffy Umbrella,Space Goat,Kalyan,plain air,smug,invisible,9732,8.8,14,83.68,38,yes,32,1593048056,never loses socks,25.2999,-160.8593
+534,Sparkly Cactus,Disco Walrus,Atlantis,cold biryani,hangry,invisible,5108,1.0,12,22.15,46,no,19,1768266341,never loses socks,7.5487,169.4447
+535,Melodic Meteor,Space Goat,Pune,cold biryani,nostalgic,mauve,5460,4.3,15,18.91,7,no,34,1629477694,never loses socks,44.8889,72.5188
+536,Fluffy Teapot,Philosopher Crab,Tokyo,wasabi jalebi,zen,mauve,1244,3.4,12,4.56,52,no,36,1757203514,perfect parallel parking,-55.5525,98.1693
+537,Grumpy Meteor,Ninja Potato,Lima,spicy oat milk,sleepy,burnt sienna,-113,10.6,15,3.35,78,barely,38,1408500008,perfect parallel parking,88.4669,160.4987
+538,Rusty Umbrella,Jazz Moth,Pune,blue cheese chai,chaotic,neon orange,9057,6.5,3,4.48,6,barely,6,1570138386,perfect parallel parking,-78.7041,-121.5317
+539,Sleepy Satellite,Space Goat,Mars Colony 3,spicy oat milk,suspicious,glitter,1966,9.9,0,3.4,84,barely,16,1713882489,never loses socks,-85.8748,-10.4141
+540,Wobbly Walrus,Disco Walrus,Lagos,vada pav ice cream,ecstatic,maroon,8872,3.0,3,6.85,32,barely,8,1604634769,never loses socks,82.3846,168.58
+541,Sparkly Banana,Jazz Moth,Mars Colony 3,spicy oat milk,suspicious,maroon,887,0.9,0,3.7,57,no,12,1444428567,talks to pigeons,-81.9016,-146.3915
+542,Wobbly Meteor,Space Goat,Tokyo,blue cheese chai,suspicious,burnt sienna,8208,7.1,15,50.04,70,no,6,1458761082,always finds charger,9.9752,39.1197
+543,Sparkly Banana,Quantum Pigeon,Kalyan,chocolate samosa,chaotic,invisible,-816,10.1,4,91.59,78,yes,39,1656718554,instant nap,-48.3944,50.9947
+544,Spicy Cactus,Disco Walrus,Pune,vada pav ice cream,hangry,ultraviolet,1507,9.1,11,20.27,72,barely,33,1466707841,wins at rock-paper-scissors,-87.0223,-172.3154
+545,Sparkly Meteor,Haunted Toaster,Gotham,pickled mango,suspicious,neon orange,875,13.7,9,9.29,73,barely,5,1585188071,talks to pigeons,67.702,130.9266
+546,Spicy Walrus,Turbo Snail,Mumbai,lemon noodles,existential,burnt sienna,9753,11.0,1,1.46,9,barely,35,1788120745,hears colors,-88.4358,-81.2117
+547,Wobbly Banana,Quantum Pigeon,Kalyan,blue cheese chai,chaotic,mauve,3438,2.1,4,7.65,13,no,41,1746104679,instant nap,-64.9919,73.5973
+548,Crunchy Umbrella,Ninja Potato,Lima,burnt toast,smug,teal,2989,4.6,17,11.85,54,no,16,1542060470,always finds charger,-1.5221,-165.0701
+549,Crunchy Teapot,Haunted Toaster,Reykjavik,chocolate samosa,hangry,ultraviolet,6003,8.9,3,33.84,45,no,25,1674713478,never loses socks,71.1449,-11.6887
+550,Sparkly Satellite,Lazy Octopus,Kalyan,chocolate samosa,chaotic,lime,9103,10.6,1,7.36,20,barely,17,1753588128,hears colors,-40.8381,42.1468
+551,Sleepy Pigeon,Disco Walrus,Gotham,chocolate samosa,existential,burnt sienna,1279,7.7,11,31.69,89,yes,21,1717120803,talks to pigeons,36.5424,157.5127
+552,Mysterious Keyboard,Jazz Moth,Tokyo,burnt toast,ecstatic,ultraviolet,4367,13.8,8,11.02,3,yes,3,1468295524,instant nap,-87.8135,-40.1103
+553,Mysterious Walrus,Sad Dragon,Gotham,chocolate samosa,suspicious,maroon,1649,5.3,4,11.6,29,no,26,1685146335,wins at rock-paper-scissors,11.4025,-61.9859
+554,Rusty Pigeon,Turbo Snail,Reykjavik,burnt toast,confused,burnt sienna,5287,8.9,12,8.85,38,no,4,1784170993,wins at rock-paper-scissors,-31.8512,177.6438
+555,Grumpy Walrus,Disco Walrus,Atlantis,blue cheese chai,existential,invisible,1367,3.6,16,6.42,58,barely,24,1406190113,wins at rock-paper-scissors,-86.7356,-114.3366
+556,Melodic Walrus,Lazy Octopus,Thane,vada pav ice cream,zen,beige,1223,7.4,16,60.34,92,no,13,1712029612,wins at rock-paper-scissors,33.144,-137.0876
+557,Crunchy Walrus,Cosmic Llama,Pune,wasabi jalebi,smug,mauve,4726,5.8,6,26.99,91,yes,8,1784854718,hears colors,-87.8473,-116.7223
+558,Melodic Keyboard,Cosmic Llama,Lagos,lemon noodles,nostalgic,beige,-979,11.8,2,53.62,57,barely,28,1729923132,instant nap,-29.3508,-105.333
+559,Fluffy Satellite,Lazy Octopus,Kalyan,cold biryani,suspicious,ultraviolet,9103,10.9,7,7.69,57,no,12,1605722543,perfect parallel parking,14.6493,152.8738
+560,Rusty Meteor,Cosmic Llama,Pune,cold biryani,confused,ultraviolet,3327,13.6,5,85.32,81,yes,14,1456569219,talks to pigeons,42.034,-50.3518
+561,Melodic Walrus,Philosopher Crab,Lagos,burnt toast,smug,ultraviolet,2944,5.2,4,107.15,87,yes,2,1400389408,wins at rock-paper-scissors,55.7658,-141.4622
+562,Crunchy Umbrella,Sad Dragon,Reykjavik,vada pav ice cream,smug,teal,2056,0.5,13,208.47,89,barely,35,1453968179,never loses socks,59.0663,111.762
+563,Mysterious Satellite,Philosopher Crab,Reykjavik,burnt toast,hangry,teal,3093,0.9,1,6.23,64,no,8,1438181949,always finds charger,72.4304,-9.338
+564,Melodic Sandwich,Philosopher Crab,Kalyan,lemon noodles,zen,glitter,276,4.0,8,8.27,49,yes,21,1593579764,hears colors,10.4129,144.2901
+565,Rusty Sandwich,Sad Dragon,Tokyo,plain air,chaotic,mauve,385,1.7,1,52.4,54,barely,13,1415244307,always finds charger,10.8849,146.2767
+566,Sleepy Sandwich,Turbo Snail,Mars Colony 3,pickled mango,zen,neon orange,8501,6.6,5,30.84,47,barely,11,1694842035,smells rain early,-42.5739,-22.0664
+567,Grumpy Walrus,Ninja Potato,Mars Colony 3,pickled mango,smug,ultraviolet,8007,5.8,3,52.64,23,no,26,1745535522,talks to pigeons,42.767,-43.5003
+568,Spicy Banana,Sad Dragon,Tokyo,lemon noodles,sleepy,mauve,2680,3.9,6,6.09,87,barely,36,1450100673,smells rain early,-28.5867,15.4669
+569,Crunchy Banana,Turbo Snail,Mars Colony 3,lemon noodles,suspicious,maroon,9093,11.7,7,7.86,18,yes,19,1513473656,instant nap,29.826,62.9909
+570,Sleepy Banana,Turbo Snail,Mumbai,cold biryani,chaotic,invisible,7403,1.0,12,100.26,32,yes,36,1420165355,perfect parallel parking,-45.004,71.3106
+571,Sleepy Banana,Philosopher Crab,Mumbai,lemon noodles,smug,mauve,5196,4.0,9,7.65,15,barely,7,1548976458,instant nap,-67.6083,32.3671
+572,Crunchy Keyboard,Cosmic Llama,Pune,plain air,chaotic,mauve,3667,9.0,13,3.43,37,yes,30,1714818588,smells rain early,72.1015,-144.983
+573,Sleepy Pigeon,Turbo Snail,Pune,wasabi jalebi,sleepy,teal,4054,0.9,2,7.82,77,yes,13,1419823895,always finds charger,23.5794,19.7303
+574,Grumpy Satellite,Space Goat,Mars Colony 3,lemon noodles,existential,teal,4053,3.6,15,9.41,36,no,37,1690023908,always finds charger,80.124,-173.381
+575,Sleepy Keyboard,Sad Dragon,Lagos,spicy oat milk,chaotic,glitter,4289,9.2,8,14.56,77,yes,37,1617618699,hears colors,71.9564,158.4504
+576,Fluffy Pigeon,Ninja Potato,Atlantis,wasabi jalebi,confused,invisible,422,5.7,12,9.15,33,barely,5,1574224169,talks to pigeons,25.7512,-83.5837
+577,Wobbly Walrus,Disco Walrus,Lima,lemon noodles,ecstatic,neon orange,628,1.0,8,15.8,44,yes,17,1774793734,never loses socks,-61.2396,-124.8022
+578,Fluffy Walrus,Lazy Octopus,Lagos,pickled mango,ecstatic,teal,3109,0.2,16,33.73,69,barely,19,1417042249,never loses socks,-31.0983,45.1737
+579,Sparkly Meteor,Space Goat,Thane,spicy oat milk,nostalgic,maroon,1410,13.8,0,22.41,65,no,32,1777696255,hears colors,-38.7453,-97.707
+580,Crunchy Pigeon,Sad Dragon,Thane,lemon noodles,zen,ultraviolet,5,0.4,12,52.06,94,yes,25,1527412791,wins at rock-paper-scissors,-63.6863,-27.2857
+581,Spicy Teapot,Lazy Octopus,Kalyan,lemon noodles,chaotic,beige,6352,9.9,7,19.06,51,no,40,1471243809,smells rain early,14.0674,-70.044
+582,Sleepy Walrus,Ninja Potato,Mumbai,blue cheese chai,ecstatic,beige,5754,8.9,12,41.04,27,barely,37,1498918699,instant nap,-59.7842,-126.9512
+583,Wobbly Teapot,Haunted Toaster,Mumbai,vada pav ice cream,ecstatic,teal,2271,1.1,6,15.15,28,yes,3,1429140172,smells rain early,-23.6835,-57.0037
+584,Wobbly Pigeon,Space Goat,Gotham,pickled mango,chaotic,teal,9014,5.3,10,16.53,85,no,33,1751077182,never loses socks,-47.5307,145.4913
+585,Mysterious Keyboard,Haunted Toaster,Atlantis,spicy oat milk,ecstatic,burnt sienna,4019,10.3,10,55.46,94,yes,22,1673415394,instant nap,-88.1167,-153.7616
+586,Spicy Banana,Philosopher Crab,Lagos,spicy oat milk,ecstatic,invisible,4257,2.4,2,54.12,77,barely,27,1556204819,wins at rock-paper-scissors,-7.1623,-96.3414
+587,Fluffy Walrus,Space Goat,Mars Colony 3,lemon noodles,nostalgic,burnt sienna,6347,3.8,16,106.65,75,no,11,1770901858,smells rain early,-14.2928,8.6933
+588,Wobbly Walrus,Jazz Moth,Reykjavik,pickled mango,suspicious,beige,4957,4.1,12,3.22,54,barely,7,1744921584,always finds charger,-57.8043,57.2387
+589,Melodic Teapot,Jazz Moth,Lagos,blue cheese chai,ecstatic,burnt sienna,6570,0.6,4,17.49,76,yes,30,1462537851,hears colors,71.1868,85.6106
+590,Sparkly Teapot,Haunted Toaster,Lima,spicy oat milk,zen,glitter,1529,3.8,8,77.21,39,no,28,1701306618,instant nap,-45.5481,94.1153
+591,Melodic Meteor,Sad Dragon,Gotham,vada pav ice cream,zen,ultraviolet,197,7.1,0,15.47,21,yes,6,1644193986,talks to pigeons,10.4589,85.3013
+592,Crunchy Pigeon,Ninja Potato,Reykjavik,pickled mango,chaotic,mauve,1577,13.7,6,17.41,88,yes,12,1588396470,wins at rock-paper-scissors,57.7421,-15.6063
+593,Melodic Keyboard,Space Goat,Tokyo,pickled mango,sleepy,invisible,2992,13.4,17,8.36,74,no,16,1453499881,hears colors,-64.1616,118.9559
+594,Crunchy Sandwich,Turbo Snail,Lagos,chocolate samosa,suspicious,ultraviolet,9001,7.4,15,34.33,55,barely,30,1444693805,hears colors,-76.6363,30.2858
+595,Sparkly Umbrella,Ninja Potato,Gotham,chocolate samosa,zen,glitter,6644,0.6,14,100.62,9,yes,26,1602695831,smells rain early,-87.5305,-48.1189
+596,Mysterious Umbrella,Jazz Moth,Narnia,wasabi jalebi,sleepy,glitter,5803,6.7,2,5.68,94,barely,23,1477284965,never loses socks,23.2379,-171.1245
+597,Wobbly Keyboard,Space Goat,Mumbai,chocolate samosa,smug,maroon,6165,6.0,0,21.75,69,yes,11,1625020174,instant nap,-43.0665,-34.7949
+598,Sleepy Pigeon,Haunted Toaster,Pune,spicy oat milk,sleepy,lime,5360,8.4,3,85.46,48,no,6,1680293154,wins at rock-paper-scissors,-8.1214,-169.152
+599,Melodic Banana,Ninja Potato,Narnia,cold biryani,nostalgic,lime,6150,6.5,15,50.1,59,no,17,1739780889,always finds charger,24.7909,176.4467
+600,Grumpy Keyboard,Haunted Toaster,Kalyan,plain air,ecstatic,lime,3311,1.9,3,58.74,13,yes,29,1569673471,wins at rock-paper-scissors,-52.4852,-58.8326
+601,Crunchy Keyboard,Disco Walrus,Mars Colony 3,spicy oat milk,smug,glitter,962,11.7,6,4.76,46,no,20,1676798368,always finds charger,-70.1879,-165.7182
+602,Fluffy Umbrella,Quantum Pigeon,Mumbai,chocolate samosa,chaotic,lime,3989,12.3,0,21.18,77,no,25,1757729230,never loses socks,-67.2044,129.4055
+603,Melodic Teapot,Lazy Octopus,Reykjavik,vada pav ice cream,ecstatic,mauve,5099,9.8,4,59.36,29,yes,24,1781665611,smells rain early,-28.8282,-143.2544
+604,Rusty Banana,Lazy Octopus,Atlantis,pickled mango,existential,mauve,8329,0.5,12,8.27,80,yes,5,1523756834,perfect parallel parking,25.3468,-129.1991
+605,Grumpy Cactus,Philosopher Crab,Atlantis,plain air,sleepy,maroon,3062,9.2,11,76.2,13,no,1,1591107084,wins at rock-paper-scissors,-37.0749,115.6526
+606,Grumpy Banana,Haunted Toaster,Gotham,pickled mango,zen,glitter,1993,6.4,8,2.74,86,barely,31,1632463621,hears colors,-82.4629,68.4196
+607,Spicy Keyboard,Disco Walrus,Pune,pickled mango,hangry,ultraviolet,512,0.0,14,45.1,79,no,20,1576621519,hears colors,80.6037,169.1807
+608,Mysterious Satellite,Sad Dragon,Lima,cold biryani,existential,mauve,6085,4.3,0,5.15,76,barely,13,1479005873,hears colors,60.0466,82.9885
+609,Wobbly Cactus,Cosmic Llama,Kalyan,blue cheese chai,hangry,burnt sienna,5060,7.2,4,25.99,48,no,33,1456572730,instant nap,-51.8539,10.1912
+610,Crunchy Umbrella,Quantum Pigeon,Narnia,lemon noodles,hangry,neon orange,5421,0.4,14,39.22,16,no,24,1783004084,wins at rock-paper-scissors,-21.1472,49.2596
+611,Sleepy Walrus,Disco Walrus,Atlantis,pickled mango,nostalgic,maroon,9486,10.2,2,15.85,23,barely,14,1458296231,perfect parallel parking,25.8764,-109.5678
+612,Melodic Cactus,Sneaky Cloud,Reykjavik,burnt toast,ecstatic,neon orange,7574,7.6,1,62.68,2,no,19,1745370373,always finds charger,58.5075,-87.5739
+613,Crunchy Pigeon,Haunted Toaster,Tokyo,pickled mango,suspicious,lime,6060,13.0,9,11.93,24,yes,4,1441038800,never loses socks,42.3239,104.2273
+614,Spicy Cactus,Lazy Octopus,Mars Colony 3,pickled mango,existential,burnt sienna,6479,5.6,0,14.63,26,barely,2,1500798385,instant nap,-11.9837,33.3471
+615,Crunchy Satellite,Space Goat,Mumbai,plain air,existential,invisible,566,12.5,9,12.37,8,no,31,1567923595,wins at rock-paper-scissors,-79.8773,-69.0678
+616,Fluffy Cactus,Lazy Octopus,Lima,chocolate samosa,chaotic,burnt sienna,-38,0.6,7,4.66,54,barely,9,1538246915,wins at rock-paper-scissors,57.9583,3.7721
+617,Crunchy Keyboard,Lazy Octopus,Reykjavik,pickled mango,existential,beige,8100,10.7,14,249.45,64,no,32,1515376047,always finds charger,32.9709,26.597
+618,Rusty Banana,Lazy Octopus,Kalyan,plain air,chaotic,neon orange,4284,1.1,5,11.55,28,yes,26,1726582509,always finds charger,-10.9028,-153.0659
+619,Fluffy Teapot,Disco Walrus,Tokyo,wasabi jalebi,existential,neon orange,4045,6.9,3,10.98,54,barely,2,1718096184,talks to pigeons,60.8349,-51.0237
+620,Sleepy Meteor,Cosmic Llama,Lagos,burnt toast,existential,lime,778,5.0,10,28.56,14,no,2,1514346377,smells rain early,-87.3122,-71.4271
+621,Crunchy Teapot,Lazy Octopus,Narnia,blue cheese chai,suspicious,beige,8872,2.9,5,14.36,84,barely,37,1623047165,wins at rock-paper-scissors,10.4591,42.9999
+622,Mysterious Keyboard,Space Goat,Mars Colony 3,burnt toast,chaotic,maroon,3404,1.8,8,35.01,31,no,3,1789529480,smells rain early,25.9141,-104.7549
+623,Sleepy Keyboard,Ninja Potato,Mumbai,cold biryani,smug,ultraviolet,1124,3.7,5,41.83,98,barely,39,1435331503,hears colors,1.9195,-170.2372
+624,Wobbly Banana,Cosmic Llama,Mumbai,spicy oat milk,confused,invisible,9823,0.9,2,10.78,42,yes,14,1758832824,talks to pigeons,-3.0978,43.2285
+625,Spicy Sandwich,Turbo Snail,Mars Colony 3,lemon noodles,existential,neon orange,1551,13.1,15,16.87,90,no,30,1449147449,instant nap,32.3613,128.9338
+626,Melodic Umbrella,Cosmic Llama,Tokyo,vada pav ice cream,ecstatic,neon orange,6973,2.1,15,1.32,8,yes,8,1743072287,perfect parallel parking,76.5662,-108.2299
+627,Fluffy Teapot,Cosmic Llama,Pune,chocolate samosa,confused,invisible,3577,11.9,0,13.68,38,yes,5,1409667096,instant nap,-86.6428,6.087
+628,Sparkly Banana,Lazy Octopus,Kalyan,pickled mango,confused,neon orange,2505,11.0,5,10.68,62,barely,30,1423889487,hears colors,-88.4598,6.9279
+629,Wobbly Banana,Philosopher Crab,Pune,cold biryani,sleepy,teal,3079,1.4,7,38.36,93,barely,17,1684380663,hears colors,-17.6015,178.723
+630,Wobbly Walrus,Jazz Moth,Mars Colony 3,wasabi jalebi,chaotic,neon orange,991,2.9,11,3.34,94,no,20,1456806984,perfect parallel parking,-34.0656,32.9612
+631,Grumpy Sandwich,Turbo Snail,Reykjavik,plain air,hangry,ultraviolet,-658,2.7,12,42.56,36,yes,28,1764110843,talks to pigeons,-51.0231,133.2873
+632,Wobbly Banana,Sad Dragon,Gotham,vada pav ice cream,confused,neon orange,6783,7.8,6,23.48,22,yes,16,1576917977,always finds charger,55.5891,-91.3581
+633,Wobbly Keyboard,Ninja Potato,Reykjavik,burnt toast,sleepy,glitter,8044,8.5,0,27.17,58,no,37,1783560349,smells rain early,-81.5781,66.5034
+634,Wobbly Teapot,Lazy Octopus,Atlantis,wasabi jalebi,hangry,teal,3701,3.0,12,96.69,93,yes,23,1427731137,talks to pigeons,55.3288,5.0017
+635,Sparkly Umbrella,Cosmic Llama,Pune,lemon noodles,suspicious,burnt sienna,5119,12.6,5,60.99,25,yes,38,1664546622,wins at rock-paper-scissors,20.6737,68.6279
+636,Sleepy Banana,Lazy Octopus,Gotham,vada pav ice cream,existential,ultraviolet,4705,13.6,8,7.63,78,yes,19,1482035511,never loses socks,-45.8932,-118.1123
+637,Crunchy Keyboard,Haunted Toaster,Mumbai,burnt toast,sleepy,invisible,4751,9.7,17,15.41,12,barely,20,1667741426,instant nap,29.3755,132.5593
+638,Sleepy Banana,Space Goat,Mumbai,plain air,zen,neon orange,8017,13.8,3,64.91,86,yes,40,1644914877,hears colors,89.8179,-44.1479
+639,Crunchy Satellite,Quantum Pigeon,Atlantis,chocolate samosa,nostalgic,glitter,8804,9.4,7,16.45,81,barely,6,1475436626,always finds charger,43.6704,-47.7913
+640,Sparkly Meteor,Space Goat,Narnia,plain air,zen,lime,5709,2.2,16,38.6,5,no,11,1489495207,smells rain early,-23.4504,32.5941
+641,Crunchy Umbrella,Ninja Potato,Thane,plain air,existential,lime,6600,6.0,6,30.72,90,yes,38,1725154060,hears colors,-11.7403,-98.1653
+642,Spicy Sandwich,Sneaky Cloud,Thane,spicy oat milk,existential,teal,7145,10.4,1,45.83,63,yes,34,1722429043,always finds charger,-80.6616,-105.6112
+643,Rusty Keyboard,Quantum Pigeon,Atlantis,lemon noodles,hangry,mauve,7634,0.3,11,7.97,65,no,26,1513835831,always finds charger,-66.3287,-132.6953
+644,Wobbly Umbrella,Sneaky Cloud,Lima,wasabi jalebi,confused,lime,4600,8.2,1,179.2,11,yes,36,1571548347,hears colors,41.2589,158.1857
+645,Melodic Sandwich,Haunted Toaster,Kalyan,cold biryani,smug,ultraviolet,423,12.4,10,70.59,83,barely,19,1725134875,perfect parallel parking,-84.5593,141.8562
+646,Rusty Pigeon,Disco Walrus,Reykjavik,wasabi jalebi,smug,lime,4486,6.6,5,18.33,90,yes,8,1729178137,always finds charger,1.1806,-57.8867
+647,Crunchy Umbrella,Quantum Pigeon,Reykjavik,pickled mango,hangry,maroon,7154,12.0,3,158.53,20,no,26,1549867966,always finds charger,-34.1466,-109.3812
+648,Crunchy Satellite,Disco Walrus,Kalyan,plain air,smug,invisible,3799,13.5,14,16.67,2,barely,22,1527885147,hears colors,-15.1064,-151.8063
+649,Rusty Umbrella,Lazy Octopus,Kalyan,pickled mango,existential,teal,9010,6.4,14,4.11,47,yes,12,1435010791,smells rain early,-77.0872,-57.2681
+650,Spicy Umbrella,Cosmic Llama,Reykjavik,pickled mango,ecstatic,glitter,5851,8.7,1,2.16,69,yes,29,1756543720,wins at rock-paper-scissors,-44.468,162.209
+651,Spicy Cactus,Space Goat,Thane,cold biryani,ecstatic,lime,3681,13.5,6,7.53,32,no,37,1493845505,wins at rock-paper-scissors,-44.1045,-116.2456
+652,Crunchy Banana,Haunted Toaster,Tokyo,cold biryani,sleepy,neon orange,6019,6.6,8,3.8,38,barely,14,1417565607,never loses socks,-12.2465,151.5019
+653,Mysterious Sandwich,Sneaky Cloud,Mars Colony 3,lemon noodles,smug,glitter,6703,10.4,11,44.21,17,barely,2,1635270308,wins at rock-paper-scissors,-59.7307,-138.1523
+654,Mysterious Umbrella,Quantum Pigeon,Thane,lemon noodles,suspicious,beige,3926,12.1,16,7.66,24,yes,30,1443007512,hears colors,-23.9778,-21.0437
+655,Wobbly Sandwich,Quantum Pigeon,Mars Colony 3,blue cheese chai,sleepy,invisible,4312,7.4,1,13.28,70,yes,23,1739880743,hears colors,-70.3423,-164.7921
+656,Rusty Sandwich,Disco Walrus,Lagos,lemon noodles,sleepy,teal,9285,10.2,5,8.7,1,barely,30,1523883457,perfect parallel parking,21.0123,-146.0842
+657,Sleepy Umbrella,Cosmic Llama,Mars Colony 3,chocolate samosa,chaotic,ultraviolet,2340,9.5,8,6.23,64,barely,32,1778599028,never loses socks,-23.8272,-110.5454
+658,Melodic Satellite,Cosmic Llama,Lagos,chocolate samosa,ecstatic,burnt sienna,2249,7.1,5,7.73,72,yes,30,1570545201,talks to pigeons,13.8208,135.2245
+659,Melodic Meteor,Ninja Potato,Kalyan,cold biryani,zen,burnt sienna,2545,11.7,15,13.95,79,no,0,1743223819,never loses socks,-31.4031,23.9705
+660,Fluffy Pigeon,Haunted Toaster,Atlantis,vada pav ice cream,ecstatic,neon orange,7036,13.0,6,24.43,65,barely,11,1462705859,hears colors,49.8188,-119.993
+661,Fluffy Cactus,Space Goat,Kalyan,pickled mango,sleepy,neon orange,214,3.0,13,30.85,70,no,37,1445208554,talks to pigeons,87.4012,121.4054
+662,Rusty Teapot,Philosopher Crab,Pune,pickled mango,hangry,beige,9350,8.9,16,11.04,10,yes,13,1544018250,talks to pigeons,88.5807,13.0434
+663,Rusty Teapot,Philosopher Crab,Lagos,chocolate samosa,existential,maroon,5194,3.9,2,97.85,92,barely,10,1771953769,always finds charger,-60.8311,156.8517
+664,Wobbly Umbrella,Cosmic Llama,Narnia,pickled mango,ecstatic,lime,3383,14.0,1,13.51,73,no,0,1414650429,wins at rock-paper-scissors,-5.9018,137.7129
+665,Crunchy Teapot,Sneaky Cloud,Narnia,burnt toast,zen,lime,177,10.6,9,40.16,31,no,10,1705141765,perfect parallel parking,60.6672,-124.6311
+666,Fluffy Pigeon,Disco Walrus,Thane,chocolate samosa,suspicious,teal,595,12.0,15,3.54,78,barely,40,1685107002,hears colors,-58.8285,-53.3252
+667,Rusty Sandwich,Lazy Octopus,Mumbai,burnt toast,sleepy,mauve,1669,6.8,9,22.91,85,no,15,1469442696,talks to pigeons,-13.4866,128.2915
+668,Grumpy Cactus,Sad Dragon,Lagos,lemon noodles,confused,neon orange,9824,1.5,0,78.99,60,yes,40,1428364763,hears colors,60.0586,-174.4716
+669,Wobbly Umbrella,Haunted Toaster,Mars Colony 3,pickled mango,confused,beige,5013,11.5,6,18.45,25,yes,38,1438183173,wins at rock-paper-scissors,15.0894,-89.5611
+670,Mysterious Pigeon,Lazy Octopus,Gotham,spicy oat milk,zen,lime,8726,2.9,9,17.54,24,barely,36,1473471564,smells rain early,-55.0415,177.9823
+671,Fluffy Cactus,Cosmic Llama,Lagos,plain air,suspicious,maroon,563,13.9,15,20.25,84,barely,13,1659544108,smells rain early,35.2492,19.4885
+672,Spicy Banana,Cosmic Llama,Lima,spicy oat milk,ecstatic,lime,8587,4.3,3,23.56,23,no,35,1649547502,instant nap,63.9292,93.3728
+673,Spicy Umbrella,Haunted Toaster,Lima,vada pav ice cream,confused,neon orange,5557,2.1,9,4.27,29,no,7,1729018585,hears colors,-76.6771,-168.6378
+674,Sparkly Sandwich,Space Goat,Narnia,wasabi jalebi,confused,beige,5944,1.2,4,58.06,15,yes,13,1535486932,instant nap,-83.3267,121.2898
+675,Sparkly Banana,Cosmic Llama,Lima,spicy oat milk,chaotic,maroon,9138,6.0,9,35.49,18,yes,40,1533283556,always finds charger,-64.4964,150.8323
+676,Melodic Banana,Sad Dragon,Thane,vada pav ice cream,hangry,ultraviolet,2061,9.1,11,15.31,61,barely,24,1534655093,never loses socks,87.9321,-44.8724
+677,Spicy Meteor,Haunted Toaster,Lima,plain air,ecstatic,mauve,8750,11.1,14,14.39,23,yes,9,1667871180,wins at rock-paper-scissors,49.1539,-17.9108
+678,Fluffy Sandwich,Haunted Toaster,Narnia,burnt toast,smug,ultraviolet,2267,0.0,17,23.01,14,no,11,1433102975,hears colors,48.5004,49.9515
+679,Wobbly Walrus,Lazy Octopus,Gotham,plain air,nostalgic,maroon,1700,10.3,4,9.53,19,no,1,1463823704,hears colors,-14.23,14.738
+680,Wobbly Pigeon,Sad Dragon,Thane,wasabi jalebi,confused,neon orange,-363,12.6,14,31.85,0,yes,31,1597912407,smells rain early,-75.1878,-131.8127
+681,Spicy Banana,Ninja Potato,Kalyan,cold biryani,hangry,invisible,6248,1.5,8,226.04,16,barely,0,1689301607,hears colors,-56.7596,150.9254
+682,Fluffy Banana,Jazz Moth,Lima,blue cheese chai,hangry,neon orange,8193,1.1,9,34.51,97,no,7,1538983856,wins at rock-paper-scissors,86.0792,-60.1578
+683,Sleepy Pigeon,Sad Dragon,Mumbai,lemon noodles,sleepy,maroon,2337,13.4,2,35.28,73,yes,5,1415815775,smells rain early,-19.3439,90.7049
+684,Mysterious Teapot,Jazz Moth,Mumbai,spicy oat milk,sleepy,maroon,635,7.2,13,15.08,43,barely,29,1438851733,always finds charger,88.1757,77.5874
+685,Sparkly Keyboard,Quantum Pigeon,Tokyo,vada pav ice cream,hangry,teal,9340,7.3,2,51.05,35,yes,40,1486610660,wins at rock-paper-scissors,81.9973,-86.9961
+686,Melodic Satellite,Ninja Potato,Narnia,cold biryani,smug,mauve,4749,1.7,1,374.97,85,yes,22,1549195177,talks to pigeons,43.2262,8.1048
+687,Melodic Umbrella,Space Goat,Narnia,wasabi jalebi,sleepy,burnt sienna,1849,1.9,2,9.7,51,no,6,1571286852,smells rain early,-73.0864,-117.0234
+688,Rusty Pigeon,Space Goat,Atlantis,burnt toast,nostalgic,lime,437,2.0,0,6.82,43,yes,0,1405678610,wins at rock-paper-scissors,80.8615,-52.818
+689,Crunchy Walrus,Jazz Moth,Gotham,vada pav ice cream,suspicious,lime,7742,10.1,5,33.1,81,barely,9,1638732842,smells rain early,-70.6452,-112.1612
+690,Crunchy Banana,Disco Walrus,Pune,spicy oat milk,hangry,neon orange,3149,2.0,1,15.05,58,barely,35,1762159052,wins at rock-paper-scissors,-12.1385,-179.0336
+691,Grumpy Cactus,Jazz Moth,Narnia,chocolate samosa,existential,lime,4912,7.2,17,7.44,90,barely,23,1540188958,hears colors,84.9717,-53.9437
+692,Mysterious Cactus,Sneaky Cloud,Mars Colony 3,pickled mango,chaotic,glitter,2159,7.9,14,33.74,35,no,34,1665670534,hears colors,27.8195,-50.4829
+693,Mysterious Walrus,Philosopher Crab,Pune,cold biryani,smug,maroon,262,2.4,13,12.12,50,barely,5,1740766475,smells rain early,31.2668,-123.9661
+694,Wobbly Meteor,Sneaky Cloud,Pune,plain air,ecstatic,lime,9850,12.8,14,24.3,32,barely,13,1627988181,perfect parallel parking,-44.0858,-31.0639
+695,Spicy Teapot,Philosopher Crab,Lagos,blue cheese chai,existential,maroon,2541,13.8,8,20.72,71,yes,42,1545103204,never loses socks,60.9171,178.2996
+696,Sleepy Keyboard,Sad Dragon,Pune,spicy oat milk,chaotic,glitter,8791,13.4,17,17.48,61,barely,41,1463079196,hears colors,59.9365,110.2451
+697,Fluffy Satellite,Jazz Moth,Narnia,wasabi jalebi,smug,burnt sienna,174,7.8,3,56.83,52,yes,22,1431770767,perfect parallel parking,84.9257,-23.5535
+698,Wobbly Meteor,Sad Dragon,Reykjavik,lemon noodles,zen,maroon,9650,11.7,14,17.52,94,barely,5,1785103971,perfect parallel parking,37.7153,33.2853
+699,Spicy Pigeon,Sad Dragon,Reykjavik,blue cheese chai,existential,maroon,9603,0.9,5,20.37,53,yes,23,1650296602,talks to pigeons,37.6335,2.7655
+700,Mysterious Banana,Quantum Pigeon,Lima,spicy oat milk,existential,invisible,8862,3.3,5,15.08,43,barely,34,1541912964,perfect parallel parking,37.8769,-36.152
+701,Fluffy Sandwich,Quantum Pigeon,Lima,chocolate samosa,zen,neon orange,7143,2.6,6,42.22,85,barely,16,1640539031,smells rain early,-46.5001,40.1756
+702,Grumpy Keyboard,Lazy Octopus,Mumbai,cold biryani,suspicious,burnt sienna,8219,11.4,17,49.94,0,no,29,1726187211,talks to pigeons,-46.7217,-139.7075
+703,Grumpy Umbrella,Ninja Potato,Mumbai,chocolate samosa,chaotic,teal,4802,6.4,11,21.41,29,barely,22,1436774169,always finds charger,79.4104,-6.683
+704,Wobbly Cactus,Sneaky Cloud,Kalyan,plain air,hangry,maroon,1266,7.1,12,40.88,0,no,16,1574198944,never loses socks,38.7227,157.7808
+705,Sparkly Sandwich,Disco Walrus,Atlantis,pickled mango,smug,lime,9410,13.6,11,11.35,56,no,10,1430153104,never loses socks,79.4453,-71.9376
+706,Sleepy Teapot,Space Goat,Reykjavik,vada pav ice cream,sleepy,neon orange,1552,3.7,15,3.73,56,yes,12,1510641425,instant nap,-87.1427,141.8394
+707,Mysterious Teapot,Cosmic Llama,Pune,vada pav ice cream,ecstatic,mauve,563,6.2,12,27.41,87,yes,21,1520288871,talks to pigeons,66.458,1.0383
+708,Spicy Meteor,Turbo Snail,Mars Colony 3,plain air,zen,beige,9047,12.1,0,87.65,98,yes,16,1541028620,always finds charger,-26.3978,128.0788
+709,Crunchy Cactus,Lazy Octopus,Lagos,pickled mango,chaotic,glitter,2964,0.9,9,34.12,27,no,30,1586906546,always finds charger,72.1168,133.1869
+710,Melodic Pigeon,Lazy Octopus,Mars Colony 3,vada pav ice cream,confused,burnt sienna,5274,7.1,0,21.38,92,yes,18,1699429452,instant nap,44.5841,21.7088
+711,Grumpy Pigeon,Sad Dragon,Kalyan,burnt toast,nostalgic,maroon,2300,1.7,5,20.32,60,yes,9,1623831914,never loses socks,82.0674,-176.3673
+712,Sleepy Pigeon,Ninja Potato,Kalyan,blue cheese chai,existential,neon orange,1701,5.4,5,14.05,62,yes,42,1740672340,wins at rock-paper-scissors,84.8362,74.1473
+713,Crunchy Sandwich,Quantum Pigeon,Narnia,plain air,suspicious,invisible,8804,11.6,12,7.22,33,yes,21,1715323784,hears colors,33.8732,16.8234
+714,Sparkly Sandwich,Sad Dragon,Atlantis,plain air,chaotic,invisible,9346,13.5,10,182.83,13,yes,22,1656086048,perfect parallel parking,-80.8659,99.2685
+715,Fluffy Walrus,Haunted Toaster,Mumbai,blue cheese chai,smug,invisible,4215,9.1,8,16.76,12,yes,18,1597982808,hears colors,-0.5459,157.6944
+716,Wobbly Walrus,Lazy Octopus,Mars Colony 3,cold biryani,ecstatic,neon orange,-390,0.8,16,42.44,38,yes,32,1420332540,instant nap,-56.8339,68.6914
+717,Grumpy Satellite,Haunted Toaster,Tokyo,blue cheese chai,hangry,burnt sienna,7154,2.4,6,187.2,46,barely,17,1576678878,smells rain early,-20.4762,15.4692
+718,Melodic Banana,Haunted Toaster,Thane,cold biryani,suspicious,beige,4736,7.0,14,17.33,65,yes,37,1718934086,perfect parallel parking,6.6829,-20.4259
+719,Grumpy Cactus,Philosopher Crab,Lima,pickled mango,zen,lime,-281,5.1,4,9.8,93,barely,41,1455066095,smells rain early,52.7894,-40.8467
+720,Rusty Keyboard,Lazy Octopus,Mumbai,vada pav ice cream,hangry,invisible,9917,2.2,17,13.29,63,yes,10,1485811534,instant nap,14.9406,116.0459
+721,Spicy Sandwich,Turbo Snail,Narnia,blue cheese chai,smug,teal,8524,4.2,1,31.22,65,no,2,1507591692,smells rain early,-21.4539,-115.4092
+722,Sleepy Walrus,Sad Dragon,Lagos,plain air,sleepy,maroon,287,13.0,10,34.27,10,no,37,1406118491,never loses socks,-80.0,81.3021
+723,Mysterious Keyboard,Turbo Snail,Gotham,wasabi jalebi,zen,neon orange,5428,4.5,15,72.19,90,yes,16,1673615141,smells rain early,-77.7151,32.7979
+724,Grumpy Teapot,Lazy Octopus,Gotham,burnt toast,ecstatic,maroon,237,3.7,9,32.36,95,barely,15,1465600438,hears colors,-51.5231,-83.3703
+725,Grumpy Banana,Philosopher Crab,Tokyo,vada pav ice cream,smug,neon orange,8415,11.0,15,29.94,71,barely,2,1627308087,instant nap,35.5316,-156.7659
+726,Rusty Cactus,Sneaky Cloud,Mars Colony 3,chocolate samosa,sleepy,glitter,4775,3.9,16,7.9,80,no,21,1748434600,wins at rock-paper-scissors,33.9206,142.584
+727,Sparkly Umbrella,Quantum Pigeon,Narnia,vada pav ice cream,ecstatic,burnt sienna,4091,2.8,5,11.25,90,barely,10,1478678668,always finds charger,-82.637,-2.2622
+728,Grumpy Keyboard,Jazz Moth,Narnia,vada pav ice cream,chaotic,neon orange,7612,4.7,1,9.19,78,yes,37,1539066284,instant nap,75.5298,109.7541
+729,Melodic Walrus,Quantum Pigeon,Atlantis,chocolate samosa,ecstatic,mauve,531,8.4,3,3.62,32,no,33,1698275172,always finds charger,28.5261,32.7153
+730,Mysterious Sandwich,Space Goat,Mumbai,wasabi jalebi,hangry,maroon,2664,5.8,2,42.81,69,barely,20,1546970071,wins at rock-paper-scissors,-48.9882,132.2703
+731,Grumpy Umbrella,Ninja Potato,Atlantis,plain air,suspicious,neon orange,4702,13.0,17,8.19,88,barely,4,1623602858,smells rain early,-26.6093,-5.3744
+732,Sparkly Keyboard,Philosopher Crab,Tokyo,cold biryani,chaotic,invisible,4674,1.6,17,27.43,95,yes,40,1702500230,hears colors,-28.9856,144.2399
+733,Crunchy Banana,Jazz Moth,Mumbai,cold biryani,nostalgic,burnt sienna,9635,11.5,0,4.74,51,barely,12,1764075689,perfect parallel parking,-41.0832,127.1013
+734,Fluffy Satellite,Disco Walrus,Mumbai,spicy oat milk,sleepy,beige,8902,3.1,15,40.71,12,yes,10,1624104484,instant nap,60.7861,-159.8124
+735,Rusty Teapot,Ninja Potato,Lima,blue cheese chai,smug,neon orange,3643,6.0,12,13.52,55,no,32,1730747428,smells rain early,-77.8277,125.5698
+736,Sparkly Teapot,Sad Dragon,Narnia,chocolate samosa,suspicious,glitter,3002,7.9,14,11.38,96,no,5,1545340896,wins at rock-paper-scissors,-6.1661,4.4706
+737,Mysterious Pigeon,Lazy Octopus,Kalyan,lemon noodles,smug,mauve,375,8.0,2,1.76,69,no,26,1467568692,always finds charger,-51.9079,42.7171
+738,Rusty Walrus,Quantum Pigeon,Pune,burnt toast,nostalgic,maroon,5544,9.8,1,27.37,72,yes,29,1669519112,perfect parallel parking,-80.2825,-1.7654
+739,Sparkly Walrus,Sneaky Cloud,Pune,chocolate samosa,suspicious,glitter,3610,9.7,0,9.55,8,yes,41,1461164312,talks to pigeons,-20.7602,-71.1728
+740,Grumpy Teapot,Space Goat,Gotham,burnt toast,hangry,beige,8565,4.5,15,13.7,56,yes,14,1748933893,never loses socks,-3.7545,91.1759
+741,Sleepy Walrus,Quantum Pigeon,Thane,wasabi jalebi,sleepy,beige,1667,8.7,15,82.08,47,no,0,1720878265,instant nap,-21.2458,53.0864
+742,Rusty Teapot,Sneaky Cloud,Tokyo,chocolate samosa,ecstatic,neon orange,7177,4.6,3,10.71,7,yes,7,1727479941,smells rain early,47.5388,-105.3091
+743,Crunchy Banana,Disco Walrus,Mars Colony 3,lemon noodles,chaotic,teal,239,4.1,12,23.82,44,no,24,1532401701,hears colors,32.6517,35.2906
+744,Rusty Keyboard,Jazz Moth,Reykjavik,cold biryani,smug,lime,9089,8.0,7,21.4,49,no,35,1415850604,never loses socks,-30.0312,-3.6548
+745,Grumpy Teapot,Philosopher Crab,Lima,lemon noodles,existential,glitter,1443,9.0,3,58.1,94,yes,33,1411027159,always finds charger,-68.6695,27.2282
+746,Crunchy Meteor,Turbo Snail,Gotham,vada pav ice cream,smug,beige,343,8.4,5,24.52,87,yes,38,1603378579,hears colors,88.5446,-152.836
+747,Crunchy Keyboard,Jazz Moth,Atlantis,cold biryani,suspicious,teal,2052,3.0,9,29.26,0,no,38,1711479485,smells rain early,-64.3637,131.0378
+748,Fluffy Satellite,Space Goat,Kalyan,burnt toast,nostalgic,lime,3699,4.9,4,82.98,67,barely,17,1569912864,perfect parallel parking,22.7301,-2.7721
+749,Spicy Teapot,Lazy Octopus,Atlantis,pickled mango,ecstatic,neon orange,4282,5.3,16,32.28,88,yes,7,1493534547,talks to pigeons,88.4032,-0.6952
+750,Crunchy Umbrella,Jazz Moth,Gotham,spicy oat milk,ecstatic,maroon,4196,2.7,3,25.8,31,barely,29,1742059605,perfect parallel parking,-59.7428,157.0718
+751,Grumpy Banana,Philosopher Crab,Lima,vada pav ice cream,existential,neon orange,437,5.2,8,3.82,64,no,35,1629650033,hears colors,56.0078,98.805
+752,Melodic Meteor,Turbo Snail,Gotham,wasabi jalebi,chaotic,neon orange,3643,1.3,15,18.92,2,barely,33,1425318531,instant nap,-39.3396,-147.0416
+753,Sparkly Pigeon,Quantum Pigeon,Lima,vada pav ice cream,sleepy,glitter,8369,11.8,15,12.87,42,barely,36,1650520260,wins at rock-paper-scissors,-23.2745,121.7668
+754,Melodic Sandwich,Ninja Potato,Kalyan,burnt toast,ecstatic,ultraviolet,4279,12.1,10,17.04,60,yes,18,1474981958,talks to pigeons,69.7093,-85.5735
+755,Spicy Cactus,Sad Dragon,Kalyan,burnt toast,chaotic,teal,9067,9.6,7,27.47,27,no,32,1548445577,instant nap,6.7471,-73.4225
+756,Melodic Satellite,Haunted Toaster,Pune,pickled mango,existential,mauve,-562,10.0,0,66.67,96,yes,18,1698783792,talks to pigeons,34.9658,-121.2581
+757,Sparkly Banana,Haunted Toaster,Thane,blue cheese chai,smug,invisible,6498,14.0,14,8.93,68,no,26,1784026723,perfect parallel parking,65.1789,-0.9042
+758,Spicy Umbrella,Lazy Octopus,Atlantis,burnt toast,suspicious,ultraviolet,7362,1.2,11,14.04,0,barely,14,1775818836,never loses socks,28.9762,150.4816
+759,Sleepy Meteor,Quantum Pigeon,Lagos,wasabi jalebi,sleepy,neon orange,3966,13.7,12,5.7,84,yes,20,1756465838,instant nap,-25.9963,-48.8726
+760,Crunchy Cactus,Turbo Snail,Mumbai,plain air,confused,mauve,2917,3.4,3,33.84,95,no,40,1730823927,hears colors,-55.0829,-123.0381
+761,Grumpy Teapot,Jazz Moth,Reykjavik,wasabi jalebi,chaotic,glitter,5376,11.7,11,42.36,63,yes,21,1679649241,hears colors,87.5409,-53.2595
+762,Mysterious Sandwich,Lazy Octopus,Gotham,plain air,chaotic,glitter,961,13.2,14,10.72,86,yes,15,1622038410,never loses socks,78.5821,95.8114
+763,Fluffy Meteor,Disco Walrus,Narnia,burnt toast,zen,neon orange,7200,6.7,8,5.4,58,no,6,1474935816,smells rain early,7.156,128.7937
+764,Rusty Banana,Turbo Snail,Narnia,chocolate samosa,nostalgic,invisible,8004,12.6,16,24.07,66,yes,24,1518308847,never loses socks,44.752,-76.7703
+765,Mysterious Teapot,Sad Dragon,Tokyo,plain air,existential,mauve,-623,12.7,3,14.71,87,barely,0,1600652415,perfect parallel parking,-57.1484,-107.4849
+766,Rusty Banana,Disco Walrus,Lima,vada pav ice cream,confused,ultraviolet,-56,11.8,14,26.57,20,barely,40,1653226181,wins at rock-paper-scissors,15.0716,-140.3973
+767,Spicy Keyboard,Disco Walrus,Reykjavik,cold biryani,nostalgic,maroon,6753,1.2,15,19.19,89,no,42,1421448692,instant nap,-32.2682,-54.1359
+768,Melodic Meteor,Sneaky Cloud,Mars Colony 3,vada pav ice cream,chaotic,mauve,9347,0.5,10,114.7,84,yes,42,1686716655,never loses socks,-6.1353,-137.3395
+769,Wobbly Banana,Philosopher Crab,Kalyan,chocolate samosa,sleepy,beige,51,0.3,10,11.34,10,no,42,1441263509,talks to pigeons,87.0386,-113.5406
+770,Sparkly Walrus,Turbo Snail,Mars Colony 3,cold biryani,existential,neon orange,6771,0.2,1,15.81,36,no,15,1767622797,never loses socks,30.803,-110.1423
+771,Crunchy Banana,Turbo Snail,Atlantis,cold biryani,hangry,neon orange,-389,6.9,16,77.57,60,no,30,1507050207,instant nap,65.3698,-30.1374
+772,Rusty Cactus,Quantum Pigeon,Kalyan,cold biryani,chaotic,burnt sienna,2229,8.1,0,1.5,42,yes,20,1773662378,instant nap,-60.2423,-20.7022
+773,Melodic Banana,Disco Walrus,Kalyan,wasabi jalebi,zen,neon orange,3127,12.2,3,57.24,69,barely,9,1413816094,smells rain early,-28.0511,75.4779
+774,Crunchy Keyboard,Lazy Octopus,Pune,lemon noodles,suspicious,invisible,227,3.3,0,10.95,44,barely,19,1613377064,instant nap,-34.1383,108.172
+775,Sleepy Satellite,Quantum Pigeon,Atlantis,cold biryani,hangry,beige,8174,5.9,9,7.16,77,no,15,1474631586,instant nap,-34.6386,2.888
+776,Fluffy Umbrella,Jazz Moth,Kalyan,wasabi jalebi,smug,glitter,3253,12.5,8,19.49,87,yes,27,1679471860,instant nap,59.1332,-163.4472
+777,Sleepy Satellite,Philosopher Crab,Kalyan,vada pav ice cream,sleepy,beige,2698,3.6,13,11.16,5,no,4,1623350363,wins at rock-paper-scissors,39.7362,-161.1149
+778,Wobbly Meteor,Lazy Octopus,Lima,lemon noodles,zen,ultraviolet,117,11.9,1,15.98,97,yes,37,1570938984,never loses socks,74.9978,-5.8655
+779,Crunchy Banana,Turbo Snail,Mumbai,lemon noodles,existential,ultraviolet,943,0.5,2,31.01,6,barely,38,1620409510,talks to pigeons,-81.7689,-51.6684
+780,Sparkly Teapot,Turbo Snail,Lima,plain air,suspicious,teal,-580,5.3,15,15.52,9,barely,39,1571561368,instant nap,36.2365,168.9589
+781,Crunchy Pigeon,Disco Walrus,Thane,chocolate samosa,suspicious,neon orange,3252,6.3,2,35.96,89,yes,27,1722410794,smells rain early,39.1855,-78.6038
+782,Fluffy Keyboard,Turbo Snail,Narnia,spicy oat milk,suspicious,neon orange,98,5.6,10,55.59,77,yes,6,1658044535,perfect parallel parking,33.1129,17.8499
+783,Sleepy Pigeon,Ninja Potato,Narnia,wasabi jalebi,sleepy,beige,4807,9.3,17,57.78,61,no,20,1732042491,never loses socks,-1.2141,-110.4638
+784,Sleepy Pigeon,Haunted Toaster,Mars Colony 3,lemon noodles,chaotic,teal,4491,2.7,7,101.39,31,yes,26,1435807444,talks to pigeons,83.703,94.4721
+785,Crunchy Pigeon,Jazz Moth,Gotham,plain air,zen,neon orange,5975,12.6,1,92.79,10,yes,34,1653634112,never loses socks,88.6739,-67.9192
+786,Rusty Cactus,Philosopher Crab,Gotham,chocolate samosa,zen,invisible,73,1.5,15,114.21,73,yes,18,1663622383,never loses socks,61.2704,-128.3732
+787,Sleepy Cactus,Cosmic Llama,Atlantis,burnt toast,existential,beige,4256,7.3,4,8.67,66,no,39,1571911011,talks to pigeons,-82.9383,45.7063
+788,Mysterious Walrus,Philosopher Crab,Atlantis,cold biryani,smug,maroon,-56,2.1,12,74.54,17,barely,16,1783783704,perfect parallel parking,58.9131,-1.1532
+789,Spicy Cactus,Disco Walrus,Mumbai,lemon noodles,hangry,lime,3176,2.7,9,163.22,39,no,10,1609877882,talks to pigeons,-1.9833,-179.445
+790,Fluffy Sandwich,Lazy Octopus,Lima,vada pav ice cream,nostalgic,lime,2155,8.4,13,21.51,50,barely,41,1518046255,instant nap,-21.2066,-134.7801
+791,Fluffy Satellite,Haunted Toaster,Pune,lemon noodles,ecstatic,mauve,6211,5.5,2,73.28,9,no,4,1604669230,smells rain early,39.1601,154.0194
+792,Fluffy Teapot,Lazy Octopus,Kalyan,blue cheese chai,smug,ultraviolet,1187,6.8,8,16.01,50,barely,34,1717151081,always finds charger,58.2153,-66.2218
+793,Fluffy Walrus,Quantum Pigeon,Narnia,vada pav ice cream,zen,neon orange,-804,8.6,1,6.47,70,no,25,1512271209,never loses socks,-53.1191,79.4569
+794,Sparkly Teapot,Cosmic Llama,Mars Colony 3,burnt toast,hangry,neon orange,4007,8.8,17,73.1,2,yes,13,1562733707,never loses socks,-43.653,121.523
+795,Melodic Teapot,Turbo Snail,Gotham,blue cheese chai,chaotic,mauve,9424,6.0,15,6.11,18,no,1,1444556164,always finds charger,-62.2111,-7.8412
+796,Sparkly Satellite,Haunted Toaster,Lagos,cold biryani,existential,teal,6940,4.0,17,19.43,39,no,14,1459953119,never loses socks,13.3227,62.1919
+797,Fluffy Pigeon,Quantum Pigeon,Mumbai,burnt toast,nostalgic,ultraviolet,2829,4.9,1,183.84,13,no,0,1573055185,always finds charger,60.9649,108.0973
+798,Rusty Keyboard,Lazy Octopus,Thane,spicy oat milk,confused,glitter,-737,11.7,14,33.94,4,yes,22,1758892601,talks to pigeons,-41.2675,-116.1426
+799,Grumpy Sandwich,Quantum Pigeon,Tokyo,vada pav ice cream,existential,invisible,6570,2.1,17,7.64,15,barely,7,1487600651,always finds charger,61.9761,52.1609
+800,Wobbly Pigeon,Jazz Moth,Thane,plain air,hangry,mauve,3457,3.2,6,4.67,73,yes,23,1628475387,perfect parallel parking,70.02,69.6446
+801,Sleepy Meteor,Philosopher Crab,Reykjavik,lemon noodles,suspicious,ultraviolet,293,8.9,16,32.62,25,yes,32,1454040506,smells rain early,-42.7053,-2.2734
+802,Mysterious Meteor,Space Goat,Lima,pickled mango,nostalgic,ultraviolet,5042,7.6,5,20.92,100,no,25,1547467812,hears colors,12.5441,-43.1792
+803,Fluffy Satellite,Jazz Moth,Mumbai,vada pav ice cream,chaotic,burnt sienna,1978,11.0,8,24.51,30,no,0,1525913644,always finds charger,38.2472,153.533
+804,Sparkly Cactus,Jazz Moth,Tokyo,plain air,suspicious,burnt sienna,-495,11.1,0,67.64,12,barely,36,1571456278,wins at rock-paper-scissors,38.7935,-65.9987
+805,Sparkly Cactus,Cosmic Llama,Lagos,blue cheese chai,suspicious,invisible,3769,2.9,15,14.09,40,no,12,1537619546,perfect parallel parking,-78.8078,17.1834
+806,Rusty Satellite,Quantum Pigeon,Mumbai,burnt toast,existential,invisible,-325,8.6,0,32.22,15,barely,6,1473531680,instant nap,-14.4746,-161.2304
+807,Wobbly Umbrella,Haunted Toaster,Mumbai,burnt toast,nostalgic,beige,6171,2.3,8,11.04,59,barely,24,1682112900,wins at rock-paper-scissors,-31.6926,131.5829
+808,Spicy Pigeon,Sad Dragon,Reykjavik,lemon noodles,hangry,ultraviolet,726,10.1,9,24.17,22,no,41,1662885918,talks to pigeons,-15.3971,-24.6763
+809,Rusty Pigeon,Turbo Snail,Atlantis,chocolate samosa,suspicious,invisible,1991,13.3,17,10.96,49,yes,8,1435045612,wins at rock-paper-scissors,20.193,136.7629
+810,Mysterious Walrus,Sad Dragon,Narnia,blue cheese chai,ecstatic,neon orange,1706,7.6,12,18.24,72,barely,8,1688199247,talks to pigeons,52.8286,-49.9092
+811,Sleepy Walrus,Jazz Moth,Pune,cold biryani,zen,teal,-225,0.7,15,9.37,44,no,27,1403985958,always finds charger,-77.333,54.4756
+812,Sparkly Banana,Cosmic Llama,Narnia,chocolate samosa,hangry,mauve,1093,10.5,2,13.95,70,barely,32,1400738342,talks to pigeons,64.8694,77.0317
+813,Wobbly Teapot,Philosopher Crab,Tokyo,plain air,hangry,neon orange,9672,0.1,15,116.41,87,barely,31,1504168804,smells rain early,79.4799,-80.4474
+814,Wobbly Satellite,Jazz Moth,Lagos,vada pav ice cream,hangry,mauve,2020,4.3,4,10.21,40,no,18,1663440699,perfect parallel parking,-28.7393,-40.8082
+815,Crunchy Cactus,Sneaky Cloud,Thane,burnt toast,confused,neon orange,6068,8.2,5,10.95,32,no,42,1717784648,perfect parallel parking,-61.2668,103.7184
+816,Wobbly Keyboard,Sad Dragon,Reykjavik,cold biryani,zen,invisible,3391,10.8,5,8.67,89,no,26,1696825359,instant nap,-10.4073,-104.2447
+817,Rusty Sandwich,Sneaky Cloud,Tokyo,wasabi jalebi,hangry,invisible,2285,8.4,8,15.84,8,barely,34,1746825441,wins at rock-paper-scissors,41.9838,13.6231
+818,Sparkly Keyboard,Cosmic Llama,Kalyan,burnt toast,hangry,invisible,4793,5.7,2,79.73,36,no,35,1434938819,always finds charger,63.6198,88.3776
+819,Melodic Banana,Disco Walrus,Gotham,spicy oat milk,nostalgic,lime,6530,5.8,17,16.65,88,barely,31,1683034404,perfect parallel parking,-44.1117,-102.7211
+820,Rusty Umbrella,Turbo Snail,Mumbai,lemon noodles,existential,glitter,9133,4.7,10,19.44,19,barely,20,1460336675,never loses socks,-74.0116,111.2566
+821,Wobbly Pigeon,Space Goat,Thane,chocolate samosa,existential,lime,5090,4.0,10,25.31,32,no,1,1583322180,perfect parallel parking,40.1584,-20.798
+822,Spicy Meteor,Disco Walrus,Pune,spicy oat milk,existential,neon orange,7572,5.9,16,11.58,9,no,2,1784754611,hears colors,-83.87,-117.4604
+823,Rusty Walrus,Jazz Moth,Kalyan,chocolate samosa,nostalgic,ultraviolet,4237,7.5,17,73.28,79,barely,20,1691436607,talks to pigeons,73.0676,127.1253
+824,Wobbly Umbrella,Disco Walrus,Atlantis,spicy oat milk,suspicious,glitter,2621,3.8,12,2.52,95,barely,18,1595018204,talks to pigeons,-72.207,-66.9771
+825,Wobbly Sandwich,Philosopher Crab,Reykjavik,plain air,sleepy,ultraviolet,8427,2.4,14,119.24,71,no,17,1598904258,hears colors,-20.9567,60.9843
+826,Fluffy Teapot,Sneaky Cloud,Gotham,wasabi jalebi,existential,maroon,9047,8.0,8,10.45,65,yes,42,1623091525,talks to pigeons,24.8603,-105.5588
+827,Rusty Umbrella,Cosmic Llama,Pune,lemon noodles,zen,burnt sienna,8194,9.1,16,9.54,11,no,12,1640441595,perfect parallel parking,62.8007,33.651
+828,Fluffy Meteor,Ninja Potato,Lima,plain air,confused,maroon,7728,4.7,4,74.51,19,yes,24,1769200543,hears colors,60.1567,-2.1766
+829,Grumpy Banana,Cosmic Llama,Tokyo,pickled mango,existential,glitter,1026,8.8,0,6.76,41,yes,23,1780544800,perfect parallel parking,1.6283,-20.7443
+830,Spicy Meteor,Quantum Pigeon,Reykjavik,pickled mango,ecstatic,glitter,4277,0.1,10,4.4,59,yes,12,1441388289,always finds charger,-54.3983,17.8696
+831,Wobbly Teapot,Haunted Toaster,Kalyan,lemon noodles,ecstatic,invisible,9589,3.2,6,1.82,77,no,24,1781327705,smells rain early,-79.7068,-88.8358
+832,Melodic Banana,Turbo Snail,Kalyan,lemon noodles,confused,mauve,1606,9.2,13,54.9,48,barely,14,1730065958,wins at rock-paper-scissors,-54.0058,-20.1721
+833,Sleepy Umbrella,Haunted Toaster,Gotham,pickled mango,nostalgic,ultraviolet,9837,10.7,6,5.65,20,no,32,1440789526,talks to pigeons,-8.8182,48.0035
+834,Sleepy Meteor,Space Goat,Mumbai,pickled mango,confused,ultraviolet,9725,1.0,4,40.73,59,barely,8,1602492022,hears colors,44.6973,71.5638
+835,Mysterious Satellite,Cosmic Llama,Mumbai,pickled mango,sleepy,burnt sienna,7907,3.2,9,13.58,77,yes,17,1614160847,talks to pigeons,-12.9098,155.8321
+836,Wobbly Walrus,Cosmic Llama,Atlantis,lemon noodles,nostalgic,invisible,5354,14.0,5,77.5,93,barely,38,1621160500,perfect parallel parking,-62.4346,-149.7044
+837,Grumpy Pigeon,Turbo Snail,Atlantis,lemon noodles,zen,mauve,9755,4.3,0,15.5,98,barely,26,1657075452,always finds charger,43.6169,133.7653
+838,Sparkly Meteor,Quantum Pigeon,Atlantis,cold biryani,suspicious,mauve,7953,0.3,11,123.02,32,barely,6,1522257054,smells rain early,-23.1567,135.9589
+839,Mysterious Satellite,Lazy Octopus,Thane,cold biryani,confused,neon orange,7515,13.0,7,23.18,70,barely,16,1465510646,hears colors,-17.4483,-23.6963
+840,Wobbly Keyboard,Cosmic Llama,Atlantis,vada pav ice cream,chaotic,ultraviolet,9350,5.5,13,24.95,32,barely,29,1671965581,never loses socks,79.1103,154.6886
+841,Sparkly Keyboard,Cosmic Llama,Reykjavik,lemon noodles,sleepy,glitter,4162,9.3,11,38.03,31,no,5,1573034993,wins at rock-paper-scissors,78.435,160.0835
+842,Fluffy Umbrella,Jazz Moth,Kalyan,wasabi jalebi,chaotic,lime,987,11.0,14,93.7,99,barely,18,1766702967,never loses socks,35.6619,-171.3893
+843,Crunchy Keyboard,Jazz Moth,Pune,burnt toast,smug,teal,522,0.5,1,16.12,26,barely,42,1774178376,instant nap,-14.1215,-164.4154
+844,Sparkly Satellite,Cosmic Llama,Lagos,cold biryani,nostalgic,maroon,3253,11.2,6,7.79,30,yes,27,1667523033,smells rain early,-67.5275,77.1419
+845,Spicy Teapot,Ninja Potato,Mars Colony 3,cold biryani,sleepy,teal,9066,0.4,10,26.97,61,no,29,1584580376,talks to pigeons,-64.4155,125.5046
+846,Crunchy Umbrella,Sad Dragon,Lima,pickled mango,zen,neon orange,6920,9.1,16,13.44,56,barely,5,1743592330,wins at rock-paper-scissors,43.8672,44.7896
+847,Melodic Banana,Haunted Toaster,Narnia,chocolate samosa,hangry,beige,3836,2.8,9,26.1,16,yes,33,1454943520,never loses socks,66.5344,-82.9836
+848,Grumpy Pigeon,Disco Walrus,Tokyo,burnt toast,sleepy,mauve,6071,4.5,12,49.54,59,yes,2,1525985597,wins at rock-paper-scissors,-79.3718,177.9551
+849,Sparkly Keyboard,Sad Dragon,Kalyan,spicy oat milk,zen,ultraviolet,-468,11.7,2,81.05,49,barely,29,1723266974,always finds charger,41.1777,59.7653
+850,Fluffy Teapot,Turbo Snail,Pune,cold biryani,existential,glitter,6359,3.0,9,5.5,67,yes,25,1619257377,hears colors,57.1819,95.7043
+851,Sleepy Teapot,Quantum Pigeon,Lagos,lemon noodles,hangry,mauve,5043,7.1,15,15.57,85,no,0,1568055640,hears colors,-46.0088,-103.9506
+852,Sleepy Umbrella,Quantum Pigeon,Pune,wasabi jalebi,sleepy,burnt sienna,3216,9.9,3,3.73,35,yes,5,1554427426,smells rain early,17.3319,-109.3215
+853,Spicy Pigeon,Jazz Moth,Tokyo,lemon noodles,sleepy,mauve,3613,9.5,12,36.99,63,no,19,1633174060,always finds charger,-4.8771,7.5181
+854,Sparkly Pigeon,Quantum Pigeon,Kalyan,plain air,suspicious,ultraviolet,2975,7.7,13,135.41,17,yes,39,1612665319,perfect parallel parking,32.8315,-60.2478
+855,Sleepy Umbrella,Space Goat,Kalyan,lemon noodles,chaotic,maroon,3956,2.4,13,49.5,22,yes,29,1530283114,instant nap,-21.3465,-101.9397
+856,Fluffy Satellite,Sneaky Cloud,Lagos,blue cheese chai,nostalgic,lime,3011,1.5,16,18.59,58,barely,27,1454011283,always finds charger,-72.6493,-134.9213
+857,Crunchy Walrus,Turbo Snail,Lagos,vada pav ice cream,suspicious,beige,351,0.4,9,21.01,90,no,40,1558810774,never loses socks,30.2292,-27.1799
+858,Spicy Walrus,Philosopher Crab,Lima,vada pav ice cream,sleepy,ultraviolet,8270,2.6,2,26.41,0,no,30,1626854523,instant nap,80.9806,-172.618
+859,Spicy Pigeon,Space Goat,Atlantis,vada pav ice cream,existential,mauve,5569,6.5,6,3.87,52,no,36,1741712154,hears colors,-68.4684,50.3846
+860,Fluffy Walrus,Ninja Potato,Tokyo,plain air,smug,lime,4724,4.0,6,10.15,28,no,32,1496696701,instant nap,5.3023,48.419
+861,Crunchy Banana,Lazy Octopus,Kalyan,wasabi jalebi,smug,glitter,9357,8.3,16,11.11,79,yes,34,1460609627,smells rain early,-5.0789,74.6874
+862,Rusty Keyboard,Cosmic Llama,Kalyan,lemon noodles,hangry,glitter,1705,2.0,4,22.49,24,yes,31,1633449339,smells rain early,17.1207,148.5667
+863,Rusty Sandwich,Turbo Snail,Mars Colony 3,blue cheese chai,hangry,glitter,2049,5.5,12,18.95,35,no,4,1661227451,wins at rock-paper-scissors,-31.2928,102.8072
+864,Fluffy Satellite,Sneaky Cloud,Kalyan,vada pav ice cream,sleepy,neon orange,2723,9.2,7,71.53,30,barely,29,1734203152,never loses socks,-4.3521,-105.2058
+865,Rusty Meteor,Quantum Pigeon,Thane,wasabi jalebi,hangry,beige,3636,3.2,17,3.39,64,barely,20,1485253577,perfect parallel parking,40.2567,-15.4718
+866,Sleepy Keyboard,Space Goat,Gotham,cold biryani,zen,beige,796,9.5,14,37.63,31,no,39,1783027244,never loses socks,-1.8601,63.7766
+867,Rusty Umbrella,Sneaky Cloud,Thane,pickled mango,existential,burnt sienna,2718,8.5,15,4.87,64,barely,5,1667348767,talks to pigeons,39.1365,-82.6086
+868,Melodic Keyboard,Haunted Toaster,Kalyan,vada pav ice cream,hangry,maroon,2870,9.7,10,9.09,60,yes,2,1515921468,wins at rock-paper-scissors,-21.4094,168.7548
+869,Melodic Keyboard,Philosopher Crab,Kalyan,lemon noodles,sleepy,beige,6816,3.7,0,72.69,18,barely,9,1611830561,smells rain early,-89.8656,-89.3982
+870,Melodic Walrus,Quantum Pigeon,Mars Colony 3,pickled mango,ecstatic,neon orange,2126,0.6,10,6.12,22,yes,33,1492531211,instant nap,33.1521,-133.9899
+871,Mysterious Keyboard,Ninja Potato,Kalyan,wasabi jalebi,confused,lime,9155,7.8,8,11.3,91,barely,3,1660243354,never loses socks,53.1197,-83.0918
+872,Wobbly Banana,Cosmic Llama,Mars Colony 3,wasabi jalebi,chaotic,mauve,1882,13.3,8,13.47,65,no,4,1590709374,never loses socks,-42.697,-39.0296
+873,Mysterious Cactus,Cosmic Llama,Kalyan,lemon noodles,zen,maroon,6808,7.6,15,179.25,10,yes,37,1581771781,never loses socks,39.0587,-161.6418
+874,Rusty Keyboard,Disco Walrus,Pune,vada pav ice cream,zen,mauve,9655,5.6,9,5.58,96,yes,8,1689576419,always finds charger,65.3931,42.6528
+875,Sleepy Walrus,Disco Walrus,Lima,wasabi jalebi,smug,glitter,3571,4.2,3,10.62,80,barely,15,1746330446,hears colors,7.7107,-170.6381
+876,Spicy Satellite,Lazy Octopus,Pune,plain air,confused,lime,6497,1.3,17,12.23,72,yes,41,1678669622,talks to pigeons,43.7154,119.2692
+877,Crunchy Banana,Space Goat,Mars Colony 3,plain air,confused,glitter,449,11.6,1,7.7,6,barely,40,1406548765,instant nap,-2.9404,159.1723
+878,Melodic Walrus,Jazz Moth,Gotham,pickled mango,existential,invisible,4074,4.7,17,11.33,82,barely,10,1536899946,instant nap,-78.1581,54.8502
+879,Wobbly Cactus,Quantum Pigeon,Mars Colony 3,cold biryani,hangry,burnt sienna,652,2.5,17,27.82,16,yes,30,1763839527,wins at rock-paper-scissors,54.6384,-32.7441
+880,Melodic Pigeon,Haunted Toaster,Kalyan,burnt toast,existential,lime,6011,2.1,12,5.54,16,yes,14,1705796575,never loses socks,67.6113,-53.4753
+881,Spicy Pigeon,Jazz Moth,Mumbai,plain air,nostalgic,beige,7034,11.1,7,19.79,45,barely,17,1520223801,never loses socks,-1.4473,-110.553
+882,Grumpy Sandwich,Quantum Pigeon,Mumbai,chocolate samosa,existential,glitter,8753,8.9,14,32.56,37,yes,42,1524842495,never loses socks,-59.3657,-97.021
+883,Wobbly Walrus,Philosopher Crab,Kalyan,chocolate samosa,smug,neon orange,6911,2.1,5,22.87,80,yes,26,1626859935,always finds charger,-7.6568,-70.353
+884,Fluffy Teapot,Sad Dragon,Pune,pickled mango,existential,invisible,1247,0.1,2,163.32,36,barely,14,1516656796,never loses socks,29.9116,154.2821
+885,Rusty Walrus,Sneaky Cloud,Lima,burnt toast,sleepy,neon orange,9839,1.7,9,9.43,13,yes,7,1552159292,never loses socks,-20.9087,-166.5585
+886,Sparkly Walrus,Quantum Pigeon,Gotham,wasabi jalebi,confused,beige,-16,12.3,8,67.05,75,barely,1,1579046018,hears colors,62.3817,135.9727
+887,Sleepy Keyboard,Cosmic Llama,Thane,lemon noodles,hangry,beige,1037,6.3,13,17.43,29,no,3,1417375784,always finds charger,6.6601,-24.1854
+888,Sleepy Sandwich,Space Goat,Tokyo,blue cheese chai,nostalgic,neon orange,9579,13.7,13,80.17,1,no,29,1529234590,instant nap,40.6092,174.8825
+889,Sleepy Keyboard,Ninja Potato,Reykjavik,lemon noodles,confused,maroon,9265,9.8,8,26.06,48,barely,17,1404858162,wins at rock-paper-scissors,-79.6266,-48.1881
+890,Grumpy Keyboard,Jazz Moth,Thane,plain air,nostalgic,neon orange,6418,12.8,5,14.87,68,barely,19,1435820907,smells rain early,-85.3965,79.0071
+891,Sparkly Banana,Jazz Moth,Thane,plain air,suspicious,glitter,9235,7.1,0,80.32,55,barely,38,1461997326,talks to pigeons,48.1842,11.3221
+892,Wobbly Teapot,Lazy Octopus,Atlantis,chocolate samosa,ecstatic,ultraviolet,3755,13.7,6,11.44,77,barely,23,1628514243,never loses socks,6.8147,-139.6695
+893,Fluffy Banana,Lazy Octopus,Pune,wasabi jalebi,confused,glitter,3507,5.4,2,21.41,35,barely,9,1447334946,never loses socks,30.4798,-34.3092
+894,Wobbly Keyboard,Haunted Toaster,Mars Colony 3,burnt toast,nostalgic,burnt sienna,8168,9.9,8,40.88,12,no,19,1420983466,smells rain early,76.8471,45.4715
+895,Melodic Cactus,Turbo Snail,Mars Colony 3,lemon noodles,chaotic,maroon,9505,9.3,1,85.75,17,no,38,1442443480,smells rain early,15.99,21.2769
+896,Grumpy Cactus,Cosmic Llama,Mars Colony 3,wasabi jalebi,sleepy,burnt sienna,5075,1.4,7,23.43,99,no,27,1655658167,talks to pigeons,-84.3311,-116.1306
+897,Crunchy Pigeon,Quantum Pigeon,Mars Colony 3,plain air,confused,neon orange,6410,13.5,4,8.85,64,barely,2,1712485669,smells rain early,72.0398,35.8041
+898,Sparkly Cactus,Sad Dragon,Thane,vada pav ice cream,confused,beige,762,7.7,4,322.3,68,no,30,1556653461,talks to pigeons,-59.8008,-35.785
+899,Wobbly Sandwich,Cosmic Llama,Pune,wasabi jalebi,zen,invisible,9638,5.3,14,5.4,74,no,40,1745396397,never loses socks,5.0577,32.3151
+900,Sparkly Banana,Disco Walrus,Atlantis,vada pav ice cream,chaotic,ultraviolet,3012,0.2,3,85.62,33,yes,33,1759622264,smells rain early,-67.9447,-179.2995
+901,Mysterious Walrus,Philosopher Crab,Narnia,lemon noodles,sleepy,glitter,7265,7.2,6,59.39,97,barely,25,1710577474,smells rain early,66.5771,-120.3698
+902,Spicy Umbrella,Quantum Pigeon,Pune,cold biryani,confused,teal,3498,1.1,17,40.92,87,no,26,1475888792,never loses socks,54.9723,-140.6703
+903,Mysterious Meteor,Cosmic Llama,Reykjavik,lemon noodles,hangry,lime,7406,4.0,17,15.33,26,barely,12,1529746532,instant nap,-7.5388,-82.4301
+904,Fluffy Pigeon,Haunted Toaster,Lagos,plain air,sleepy,teal,9400,3.9,11,13.05,21,yes,34,1777182067,perfect parallel parking,-51.3714,72.2552
+905,Melodic Teapot,Ninja Potato,Kalyan,wasabi jalebi,hangry,burnt sienna,6330,1.5,12,11.55,68,yes,4,1633396749,never loses socks,-58.1145,81.7152
+906,Sparkly Teapot,Philosopher Crab,Lagos,blue cheese chai,confused,lime,4549,12.3,1,7.71,54,yes,34,1579163842,perfect parallel parking,-82.314,-59.9491
+907,Sleepy Teapot,Ninja Potato,Mars Colony 3,lemon noodles,existential,ultraviolet,1580,4.5,17,4.77,5,yes,36,1766802817,instant nap,-29.377,-164.6931
+908,Mysterious Keyboard,Quantum Pigeon,Atlantis,chocolate samosa,chaotic,maroon,5371,12.5,7,5.21,42,barely,25,1671883636,talks to pigeons,-17.7982,13.9785
+909,Crunchy Teapot,Disco Walrus,Lima,plain air,existential,glitter,8010,13.6,11,28.81,98,no,32,1586966584,hears colors,-25.535,116.01
+910,Spicy Keyboard,Lazy Octopus,Mars Colony 3,chocolate samosa,suspicious,beige,7991,9.7,9,76.64,22,no,27,1556367879,hears colors,-11.0808,98.2288
+911,Wobbly Banana,Disco Walrus,Narnia,lemon noodles,confused,teal,4677,11.2,2,49.09,89,barely,10,1729946509,instant nap,15.0833,122.6734
+912,Melodic Cactus,Lazy Octopus,Pune,plain air,chaotic,glitter,2834,13.8,17,9.5,6,no,4,1581072276,instant nap,-82.7432,-15.2456
+913,Crunchy Umbrella,Cosmic Llama,Tokyo,plain air,ecstatic,invisible,9026,6.6,0,135.81,99,yes,11,1685802744,smells rain early,34.4876,67.6571
+914,Spicy Satellite,Cosmic Llama,Tokyo,chocolate samosa,ecstatic,maroon,4872,7.5,2,4.26,18,yes,32,1710822390,never loses socks,-12.6022,72.4463
+915,Fluffy Walrus,Disco Walrus,Mars Colony 3,lemon noodles,hangry,teal,9140,7.7,6,6.97,15,barely,20,1581320099,never loses socks,61.1856,-99.1636
+916,Fluffy Keyboard,Jazz Moth,Kalyan,pickled mango,existential,burnt sienna,3759,12.9,2,96.46,11,no,6,1788459890,never loses socks,-53.5395,-83.3215
+917,Grumpy Cactus,Quantum Pigeon,Thane,pickled mango,smug,glitter,8137,2.4,9,35.35,36,barely,42,1721631222,instant nap,-17.7864,15.6625
+918,Grumpy Teapot,Cosmic Llama,Atlantis,wasabi jalebi,confused,lime,4105,3.5,7,32.03,18,yes,32,1641103549,perfect parallel parking,-47.6933,0.3808
+919,Spicy Umbrella,Haunted Toaster,Gotham,lemon noodles,hangry,maroon,-769,3.7,15,39.6,69,no,14,1712923887,perfect parallel parking,-38.5655,-68.6173
+920,Crunchy Satellite,Jazz Moth,Thane,plain air,suspicious,neon orange,2250,4.3,9,47.46,38,no,39,1708754165,smells rain early,39.8546,178.5279
+921,Spicy Satellite,Quantum Pigeon,Kalyan,wasabi jalebi,existential,teal,279,10.5,3,57.78,20,yes,37,1503067453,wins at rock-paper-scissors,-29.4372,19.1574
+922,Spicy Satellite,Quantum Pigeon,Atlantis,wasabi jalebi,ecstatic,neon orange,10,5.5,16,30.32,30,barely,0,1453669395,instant nap,17.9186,140.7706
+923,Melodic Umbrella,Sad Dragon,Mumbai,burnt toast,smug,beige,5394,11.2,16,69.89,19,yes,36,1639808388,perfect parallel parking,46.3288,-167.539
+924,Fluffy Teapot,Cosmic Llama,Kalyan,blue cheese chai,sleepy,neon orange,6967,9.4,12,73.84,40,no,3,1695061482,instant nap,-9.1144,115.8449
+925,Spicy Satellite,Ninja Potato,Lagos,cold biryani,ecstatic,mauve,9556,0.9,4,15.96,23,yes,41,1526937491,wins at rock-paper-scissors,-50.0028,-137.4706
+926,Rusty Walrus,Philosopher Crab,Lagos,wasabi jalebi,hangry,teal,175,3.6,9,12.35,17,barely,4,1694838872,instant nap,-59.4601,-158.0713
+927,Crunchy Satellite,Philosopher Crab,Pune,pickled mango,zen,maroon,8855,8.8,6,28.66,67,barely,36,1631188910,always finds charger,14.2777,-161.2849
+928,Sleepy Pigeon,Turbo Snail,Atlantis,chocolate samosa,ecstatic,beige,8755,6.8,13,104.32,65,yes,0,1533511530,never loses socks,-72.7051,100.9729
+929,Sleepy Banana,Sneaky Cloud,Mumbai,plain air,suspicious,teal,8309,2.6,8,108.43,57,no,21,1510504531,always finds charger,11.435,25.577
+930,Spicy Banana,Ninja Potato,Kalyan,vada pav ice cream,existential,maroon,4333,7.6,1,16.91,91,no,27,1757006925,perfect parallel parking,-0.0628,14.5327
+931,Melodic Teapot,Cosmic Llama,Thane,plain air,ecstatic,maroon,4051,10.3,16,10.4,22,yes,4,1599806965,instant nap,-57.4089,146.106
+932,Grumpy Cactus,Sneaky Cloud,Atlantis,vada pav ice cream,existential,neon orange,9533,2.7,15,122.58,3,yes,8,1479589440,perfect parallel parking,85.8375,54.3613
+933,Rusty Umbrella,Sneaky Cloud,Lagos,burnt toast,sleepy,invisible,758,5.6,12,455.5,66,yes,42,1646108397,smells rain early,-28.1143,112.2457
+934,Fluffy Teapot,Sad Dragon,Tokyo,spicy oat milk,ecstatic,maroon,7739,6.9,15,33.26,21,yes,24,1594244780,hears colors,-56.0896,151.307
+935,Spicy Pigeon,Ninja Potato,Gotham,chocolate samosa,nostalgic,maroon,2425,11.7,14,145.05,58,yes,29,1636078923,smells rain early,-43.0943,-158.7796
+936,Fluffy Meteor,Lazy Octopus,Pune,lemon noodles,ecstatic,beige,7582,2.5,8,13.8,6,no,11,1592140890,always finds charger,2.0377,-86.0408
+937,Sparkly Satellite,Sad Dragon,Mars Colony 3,lemon noodles,smug,teal,9490,11.2,0,12.49,74,barely,14,1405998429,perfect parallel parking,84.6272,125.1083
+938,Rusty Sandwich,Ninja Potato,Mumbai,cold biryani,nostalgic,invisible,8755,1.7,11,49.42,22,yes,31,1413687880,always finds charger,-51.8555,26.7308
+939,Fluffy Walrus,Quantum Pigeon,Kalyan,lemon noodles,ecstatic,mauve,4452,12.8,10,22.1,23,no,3,1549235614,never loses socks,37.4926,54.3059
+940,Mysterious Keyboard,Lazy Octopus,Lima,chocolate samosa,nostalgic,burnt sienna,4965,0.6,12,271.66,87,yes,33,1524202082,smells rain early,-88.0025,97.1855
+941,Sparkly Cactus,Disco Walrus,Kalyan,wasabi jalebi,sleepy,mauve,9054,0.9,6,21.92,40,barely,0,1555281059,perfect parallel parking,19.7793,7.4014
+942,Fluffy Keyboard,Ninja Potato,Atlantis,chocolate samosa,smug,neon orange,1488,8.3,6,50.61,83,yes,32,1538474218,wins at rock-paper-scissors,39.3202,149.6323
+943,Crunchy Teapot,Sneaky Cloud,Narnia,lemon noodles,suspicious,neon orange,2517,11.1,3,36.37,62,yes,25,1758361955,never loses socks,-68.7839,-16.0695
+944,Melodic Teapot,Haunted Toaster,Mars Colony 3,burnt toast,suspicious,neon orange,-545,4.2,12,28.61,27,yes,32,1518342425,perfect parallel parking,68.7294,68.7049
+945,Rusty Walrus,Turbo Snail,Narnia,wasabi jalebi,ecstatic,teal,-271,13.8,4,8.27,44,barely,9,1612121533,always finds charger,63.5109,-156.7367
+946,Crunchy Pigeon,Lazy Octopus,Reykjavik,plain air,smug,lime,252,5.5,12,74.61,75,barely,40,1408228584,always finds charger,-46.6921,-61.6326
+947,Melodic Pigeon,Ninja Potato,Atlantis,plain air,zen,beige,8921,8.2,17,7.42,15,barely,7,1575078768,wins at rock-paper-scissors,-19.2896,-122.1314
+948,Sleepy Umbrella,Ninja Potato,Narnia,cold biryani,hangry,glitter,1249,9.7,17,11.01,29,no,10,1768812986,perfect parallel parking,9.9674,41.0149
+949,Melodic Keyboard,Haunted Toaster,Pune,chocolate samosa,existential,lime,-911,0.9,11,5.69,29,no,31,1546602223,always finds charger,68.2437,-158.4312
+950,Wobbly Pigeon,Sneaky Cloud,Pune,blue cheese chai,sleepy,glitter,3793,4.3,13,28.17,44,yes,11,1495611582,instant nap,-39.14,50.0498
+951,Sparkly Teapot,Sneaky Cloud,Mars Colony 3,burnt toast,nostalgic,burnt sienna,5252,9.6,4,21.35,36,no,37,1554963937,always finds charger,-24.643,35.0707
+952,Melodic Keyboard,Quantum Pigeon,Atlantis,chocolate samosa,ecstatic,maroon,325,3.7,8,12.99,15,no,11,1473647233,hears colors,30.0703,-49.6022
+953,Spicy Pigeon,Haunted Toaster,Kalyan,lemon noodles,sleepy,lime,4647,3.7,5,21.96,68,yes,28,1590131356,hears colors,35.5533,86.9045
+954,Spicy Teapot,Haunted Toaster,Reykjavik,vada pav ice cream,nostalgic,mauve,6791,12.0,8,33.09,77,no,12,1762126257,instant nap,-31.4231,81.2359
+955,Sleepy Banana,Disco Walrus,Lima,burnt toast,zen,neon orange,8066,4.7,10,23.49,6,no,16,1460719726,wins at rock-paper-scissors,-46.6004,-115.8503
+956,Sleepy Cactus,Quantum Pigeon,Reykjavik,vada pav ice cream,chaotic,invisible,4922,10.2,15,17.84,73,barely,12,1766152692,smells rain early,-49.7446,-7.1462
+957,Melodic Meteor,Cosmic Llama,Pune,blue cheese chai,existential,glitter,6101,8.8,16,91.22,49,no,15,1703580113,always finds charger,-64.0384,-62.0836
+958,Sparkly Satellite,Turbo Snail,Kalyan,spicy oat milk,sleepy,invisible,2996,2.2,1,8.29,76,no,39,1682850288,smells rain early,-69.7245,-175.6663
+959,Wobbly Umbrella,Haunted Toaster,Reykjavik,pickled mango,smug,neon orange,4691,4.2,16,73.15,17,yes,31,1780574336,always finds charger,-17.4174,-83.5141
+960,Sparkly Teapot,Philosopher Crab,Lagos,spicy oat milk,ecstatic,invisible,9736,11.9,2,44.58,27,yes,34,1485498532,never loses socks,-49.2201,-107.0625
+961,Crunchy Umbrella,Haunted Toaster,Narnia,lemon noodles,smug,neon orange,589,11.7,8,71.38,91,no,28,1661190366,talks to pigeons,39.0928,76.5177
+962,Sparkly Walrus,Disco Walrus,Mumbai,blue cheese chai,existential,glitter,757,10.8,2,17.48,23,yes,11,1462545504,talks to pigeons,-86.4173,27.513
+963,Spicy Teapot,Cosmic Llama,Narnia,vada pav ice cream,confused,maroon,7804,6.4,3,21.25,8,yes,5,1712437002,instant nap,43.4528,77.5865
+964,Grumpy Sandwich,Lazy Octopus,Narnia,wasabi jalebi,smug,maroon,6662,11.9,13,18.56,85,no,30,1486551282,wins at rock-paper-scissors,3.4652,80.5456
+965,Fluffy Teapot,Ninja Potato,Tokyo,wasabi jalebi,ecstatic,maroon,1468,12.0,10,5.89,12,yes,41,1495675822,perfect parallel parking,-37.1823,44.6722
+966,Melodic Satellite,Jazz Moth,Kalyan,lemon noodles,hangry,lime,1894,3.1,0,2.43,19,no,15,1522225901,perfect parallel parking,-34.5892,154.7346
+967,Mysterious Teapot,Ninja Potato,Narnia,blue cheese chai,nostalgic,teal,9312,6.6,17,1.84,26,barely,40,1530030333,never loses socks,-2.5237,-113.8408
+968,Sleepy Banana,Lazy Octopus,Mumbai,cold biryani,zen,burnt sienna,8140,13.2,10,12.33,35,yes,5,1719841326,always finds charger,-30.0314,58.7702
+969,Melodic Umbrella,Sad Dragon,Thane,vada pav ice cream,suspicious,glitter,7791,12.6,12,101.01,67,yes,9,1566971453,hears colors,8.7864,-166.6474
+970,Mysterious Walrus,Jazz Moth,Narnia,vada pav ice cream,chaotic,beige,831,4.5,9,37.42,57,no,36,1773253786,hears colors,-2.6655,-146.7609
+971,Rusty Sandwich,Sneaky Cloud,Mumbai,spicy oat milk,ecstatic,ultraviolet,-346,2.2,15,38.26,89,barely,41,1723100626,talks to pigeons,-44.472,69.9796
+972,Sparkly Walrus,Disco Walrus,Tokyo,wasabi jalebi,ecstatic,maroon,9502,11.6,14,41.39,66,yes,6,1614007765,instant nap,-2.0812,-78.0904
+973,Sleepy Walrus,Disco Walrus,Tokyo,vada pav ice cream,suspicious,beige,6863,5.5,0,26.15,63,no,36,1562732313,talks to pigeons,-41.0625,112.7866
+974,Melodic Teapot,Quantum Pigeon,Lagos,vada pav ice cream,confused,ultraviolet,7611,2.4,15,11.17,67,no,25,1733263756,perfect parallel parking,-67.4984,-86.7267
+975,Rusty Cactus,Jazz Moth,Tokyo,vada pav ice cream,ecstatic,invisible,-347,9.7,1,7.0,74,barely,32,1755269535,instant nap,71.6904,175.6516
+976,Mysterious Walrus,Sad Dragon,Gotham,plain air,smug,ultraviolet,7967,7.1,10,28.25,39,yes,41,1476275143,never loses socks,-14.1754,-2.2388
+977,Sleepy Pigeon,Sneaky Cloud,Mumbai,plain air,confused,maroon,236,8.6,9,8.91,20,barely,14,1523096260,talks to pigeons,-86.6483,92.2476
+978,Sparkly Cactus,Sneaky Cloud,Gotham,chocolate samosa,hangry,glitter,1713,2.4,5,41.76,72,no,30,1435062448,never loses socks,25.9237,54.4058
+979,Sleepy Pigeon,Sneaky Cloud,Atlantis,burnt toast,ecstatic,mauve,8146,4.9,6,12.29,68,yes,42,1746191123,always finds charger,-4.1982,65.056
+980,Melodic Sandwich,Disco Walrus,Atlantis,cold biryani,hangry,maroon,4506,7.0,4,16.83,17,barely,15,1662854706,always finds charger,23.4845,146.0054
+981,Wobbly Pigeon,Philosopher Crab,Reykjavik,chocolate samosa,hangry,invisible,9084,0.4,7,8.49,58,barely,33,1406204261,wins at rock-paper-scissors,0.6688,-174.4881
+982,Mysterious Sandwich,Haunted Toaster,Mumbai,cold biryani,smug,mauve,5601,3.1,4,91.07,65,no,40,1432901872,hears colors,-60.4864,120.0038
+983,Sparkly Keyboard,Lazy Octopus,Narnia,cold biryani,existential,invisible,6871,7.0,2,17.39,24,barely,6,1491404894,wins at rock-paper-scissors,16.1909,-171.89
+984,Mysterious Teapot,Ninja Potato,Atlantis,cold biryani,hangry,lime,8880,12.0,9,3.51,13,yes,18,1661303214,never loses socks,39.6483,-102.2242
+985,Spicy Keyboard,Jazz Moth,Lagos,cold biryani,nostalgic,lime,5936,5.0,1,4.49,67,no,42,1692854160,hears colors,65.044,33.8772
+986,Grumpy Banana,Sneaky Cloud,Gotham,vada pav ice cream,confused,teal,7543,13.4,7,24.27,9,yes,23,1538259619,always finds charger,7.9382,8.0483
+987,Sparkly Teapot,Cosmic Llama,Thane,pickled mango,smug,neon orange,4706,7.6,6,10.03,15,no,4,1788891178,always finds charger,-54.163,-132.966
+988,Crunchy Sandwich,Disco Walrus,Gotham,plain air,ecstatic,glitter,6451,1.9,11,51.2,99,yes,34,1477920964,instant nap,-47.6061,136.7779
+989,Rusty Sandwich,Turbo Snail,Reykjavik,blue cheese chai,existential,ultraviolet,-649,2.6,10,11.96,95,yes,33,1636239341,wins at rock-paper-scissors,-62.6872,-97.4122
+990,Rusty Cactus,Jazz Moth,Gotham,wasabi jalebi,confused,mauve,7672,7.5,2,21.26,67,yes,7,1747912546,hears colors,-52.2692,34.6508
+991,Wobbly Sandwich,Sad Dragon,Kalyan,spicy oat milk,sleepy,invisible,9180,0.9,2,53.32,91,no,27,1756387870,talks to pigeons,-84.1844,80.205
+992,Rusty Keyboard,Sad Dragon,Mumbai,plain air,existential,beige,6443,2.0,4,8.17,91,barely,22,1617263955,perfect parallel parking,78.1666,-54.3068
+993,Sparkly Cactus,Philosopher Crab,Lima,cold biryani,confused,beige,1523,7.7,17,17.37,75,yes,0,1505878844,smells rain early,88.0448,95.1219
+994,Mysterious Teapot,Sad Dragon,Mumbai,spicy oat milk,chaotic,lime,9947,4.3,7,35.33,30,barely,30,1686548682,never loses socks,-19.248,-38.9813
+995,Melodic Walrus,Cosmic Llama,Narnia,wasabi jalebi,existential,teal,3913,2.4,13,21.1,18,no,13,1615848113,always finds charger,76.4044,151.2275
+996,Sleepy Umbrella,Sad Dragon,Mars Colony 3,plain air,smug,neon orange,5876,11.7,4,2.94,76,barely,41,1445792519,instant nap,34.2939,-77.0685
+997,Rusty Walrus,Quantum Pigeon,Mumbai,vada pav ice cream,existential,teal,-886,8.1,3,33.1,35,no,1,1596532563,instant nap,69.2329,-121.4824
+998,Sparkly Umbrella,Quantum Pigeon,Pune,vada pav ice cream,suspicious,teal,6368,13.0,10,8.15,72,no,34,1535236026,hears colors,11.0286,-39.7582
+999,Grumpy Meteor,Sneaky Cloud,Reykjavik,burnt toast,ecstatic,invisible,1752,5.2,12,7.29,28,no,7,1693046713,hears colors,-3.0696,-24.6574
+1000,Rusty Teapot,Jazz Moth,Mars Colony 3,chocolate samosa,chaotic,invisible,1891,1.1,3,25.13,24,yes,38,1705426161,smells rain early,-81.335,24.3799
