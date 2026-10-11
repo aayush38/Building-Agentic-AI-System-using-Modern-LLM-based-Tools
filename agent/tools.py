@@ -11,7 +11,9 @@ from sklearn.ensemble import (ExtraTreesClassifier, ExtraTreesRegressor,
                               GradientBoostingClassifier, GradientBoostingRegressor,
                               RandomForestClassifier, RandomForestRegressor)
 from sklearn.linear_model import Lasso, LinearRegression, LogisticRegression, Ridge
-from sklearn.model_selection import cross_validate
+from sklearn.inspection import permutation_importance
+from sklearn.model_selection import (GridSearchCV, KFold, StratifiedKFold, cross_val_score,
+                                     cross_validate, train_test_split)
 from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier, KNeighborsRegressor
 from sklearn.svm import SVC, SVR
@@ -136,6 +138,58 @@ def train_and_evaluate(model_name: str, metric: str = "auto") -> str:
     return json.dumps(_evaluate(model_name, metric))
 
 
+GRIDS = {  # small grids keep tuning fast on free hardware
+    "logistic_regression": {"C": [0.1, 1, 10]},
+    "decision_tree": {"max_depth": [3, 5, 10, None]},
+    "random_forest": {"n_estimators": [100, 200], "max_depth": [None, 5, 10]},
+    "extra_trees": {"n_estimators": [100, 200], "max_depth": [None, 5, 10]},
+    "gradient_boosting": {"n_estimators": [100, 200], "learning_rate": [0.05, 0.1], "max_depth": [2, 3]},
+    "knn": {"n_neighbors": [3, 5, 11, 21]},
+    "svm": {"C": [0.1, 1, 10]},
+    "ridge": {"alpha": [0.1, 1, 10]},
+    "lasso": {"alpha": [0.001, 0.01, 0.1]},
+    "naive_bayes": {"var_smoothing": [1e-9, 1e-8, 1e-7]},
+}
+
+
+@tool(description="Tune the chosen model with a small grid search (3-fold CV) and report which "
+                  "features drive its predictions (permutation importance). Call ONCE on the "
+                  "winning model after compare_models. " + MODEL_HELP)
+def analyze_best_model(model_name: str, metric: str = "auto") -> str:
+    if STATE["X"] is None:
+        return json.dumps({"error": "Data not preprocessed. Call preprocess_data first."})
+    task = STATE["task"]
+    registry = CLASSIFIERS if task == "classification" else REGRESSORS
+    if model_name not in registry:
+        return json.dumps({"error": f"Unknown model '{model_name}' for {task}. Choose from {list(registry)}"})
+    if metric == "auto":
+        metric = "accuracy" if task == "classification" else "r2"
+    X, y = STATE["X"], STATE["y"]
+    if model_name in SCALED:
+        X = (X - X.mean()) / X.std().replace(0, 1)
+    cv = (StratifiedKFold(3, shuffle=True, random_state=0) if task == "classification"
+          else KFold(3, shuffle=True, random_state=0))
+    try:
+        baseline = float(np.mean(cross_val_score(registry[model_name](), X, y, cv=cv, scoring=metric)))
+        grid = GRIDS.get(model_name)
+        if grid:
+            search = GridSearchCV(registry[model_name](), grid, cv=cv, scoring=metric).fit(X, y)
+            best, tuned, params = search.best_estimator_, float(search.best_score_), search.best_params_
+        else:  # nothing to tune (e.g. plain linear regression)
+            best, tuned, params = registry[model_name]().fit(X, y), baseline, {}
+        Xtr, Xte, ytr, yte = train_test_split(X, y, test_size=0.25, random_state=0,
+                                              stratify=y if task == "classification" else None)
+        best.fit(Xtr, ytr)
+        imp = permutation_importance(best, Xte, yte, scoring=metric, n_repeats=5, random_state=0)
+    except Exception as e:  # noqa: BLE001
+        return json.dumps({"error": f"Analysis failed for {model_name}: {e}"})
+    top = pd.Series(imp.importances_mean, index=X.columns).sort_values(ascending=False).head(5)
+    return json.dumps({"model": model_name, "metric": metric,
+                       "baseline_cv3": round(baseline, 4), "tuned_cv3": round(tuned, 4),
+                       "best_params": params,
+                       "top_features": {k: round(float(v), 4) for k, v in top.items()}})
+
+
 _OPS = {ast.Add: op.add, ast.Sub: op.sub, ast.Mult: op.mul, ast.Div: op.truediv,
         ast.Pow: op.pow, ast.USub: op.neg, ast.Mod: op.mod}
 
@@ -159,4 +213,5 @@ def calculator(expression: str) -> str:
         return json.dumps({"error": f"Cannot evaluate: {e}"})
 
 
-TOOLS = [profile_dataset, preprocess_data, compare_models, train_and_evaluate, calculator]
+TOOLS = [profile_dataset, preprocess_data, compare_models, analyze_best_model, train_and_evaluate,
+         calculator]

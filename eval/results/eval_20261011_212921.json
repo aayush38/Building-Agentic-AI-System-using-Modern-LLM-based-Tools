@@ -1,0 +1,53 @@
+[
+  {
+    "dataset": "data/iris.csv",
+    "task": "classification",
+    "metric": "accuracy",
+    "best_model": "random_forest",
+    "best_score": 0.9667,
+    "ranking": [
+      "random_forest 0.9667",
+      "svm 0.9667",
+      "logistic_regression 0.96",
+      "decision_tree 0.96",
+      "knn 0.96",
+      "gradient_boosting 0.96",
+      "extra_trees 0.96",
+      "naive_bayes 0.9533"
+    ]
+  },
+  {
+    "dataset": "data/breast_cancer.csv",
+    "task": "classification",
+    "metric": "accuracy",
+    "best_model": "logistic_regression",
+    "best_score": 0.9807,
+    "ranking": [
+      "logistic_regression 0.9807",
+      "svm 0.9736",
+      "extra_trees 0.9701",
+      "knn 0.9649",
+      "random_forest 0.9631",
+      "gradient_boosting 0.9631",
+      "naive_bayes 0.9385",
+      "decision_tree 0.9174"
+    ]
+  },
+  {
+    "dataset": "data/churn.csv",
+    "task": "classification",
+    "metric": "f1_macro",
+    "best_model": "naive_bayes",
+    "best_score": 0.5945,
+    "ranking": [
+      "naive_bayes 0.5945",
+      "gradient_boosting 0.5904",
+      "extra_trees 0.5823",
+      "random_forest 0.5815",
+      "knn 0.5759",
+      "decision_tree 0.5713",
+      "logistic_regression 0.5703",
+      "svm 0.5083"
+    ]
+  }
+]

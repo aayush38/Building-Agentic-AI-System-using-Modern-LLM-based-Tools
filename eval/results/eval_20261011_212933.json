@@ -1,0 +1,30 @@
+[
+  {
+    "dataset": "data/iris.csv",
+    "task": "classification",
+    "metric": "accuracy",
+    "best_model": "random_forest",
+    "best_score": 0.9667,
+    "ranking": [
+      "random_forest 0.9667",
+      "svm 0.9667",
+      "logistic_regression 0.96",
+      "decision_tree 0.96",
+      "knn 0.96",
+      "gradient_boosting 0.96",
+      "extra_trees 0.96",
+      "naive_bayes 0.9533"
+    ],
+    "pick": "random_forest",
+    "llm_calls": 5,
+    "tokens": 6082,
+    "seconds": 7.0,
+    "tool_errors": 0,
+    "llm_models": [
+      "openai/gpt-oss-120b"
+    ],
+    "gap": 0.0,
+    "exact": true,
+    "within_tol": true
+  }
+]

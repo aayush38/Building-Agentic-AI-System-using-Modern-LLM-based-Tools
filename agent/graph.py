@@ -3,6 +3,7 @@ import os
 
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
+from langgraph.checkpoint.memory import MemorySaver
 from langgraph.prebuilt import create_react_agent
 
 from .logger import TraceLogger
@@ -46,16 +47,22 @@ def build_llm():
     return models[0].with_fallbacks(models[1:]) if len(models) > 1 else models[0]
 
 
+# Conversation memory shared across calls: the same thread_id resumes the same dialogue.
+MEMORY = MemorySaver()
+_LOGGERS: dict[str, TraceLogger] = {}  # one trace file per chat session
+
+
 def build_agent():
-    return create_react_agent(build_llm(), TOOLS, prompt=SYSTEM_PROMPT)
+    return create_react_agent(build_llm(), TOOLS, prompt=SYSTEM_PROMPT, checkpointer=MEMORY)
 
 
-def run_agent(goal: str, run_name: str = "run", max_steps: int = 12):
-    """Run the agent; yield one trace record per Thought/Action/Observation/Final step."""
+def run_agent(goal: str, run_name: str = "run", max_steps: int = 12, thread_id: str | None = None):
+    """Run the agent; yield one trace record per Thought/Action/Observation/Final step.
+    Pass the same `thread_id` on later calls for follow-up questions that remember earlier turns."""
     agent = build_agent()
-    logger = TraceLogger(run_name)
+    logger = _LOGGERS.setdefault(thread_id, TraceLogger(run_name)) if thread_id else TraceLogger(run_name)
     yield logger.log("goal", goal)
-    config = {"recursion_limit": max_steps}
+    config = {"recursion_limit": max_steps, "configurable": {"thread_id": thread_id or run_name + str(id(logger))}}
     for chunk in agent.stream({"messages": [("user", goal)]}, config, stream_mode="updates"):
         for node, update in chunk.items():
             for msg in update.get("messages", []):
